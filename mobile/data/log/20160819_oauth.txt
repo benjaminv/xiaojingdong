@@ -1,0 +1,3375 @@
+20160819 02:49:33
+0--- http://www.chaligou.com/mobile/index.php?from=singlemessage&isappinstalled=0
+
+20160819 02:49:36
+0---031EHxR02EFCc41SWoQ02B0xR02EHxR0 http://www.chaligou.com/mobile/index.php?from=singlemessage&isappinstalled=0&code=031EHxR02EFCc41SWoQ02B0xR02EHxR0&state=1
+
+20160819 02:49:41
+0---001scfh12ckeI3116si12ZGfh12scfhE http://www.chaligou.com/mobile/index.php?from=singlemessage&isappinstalled=0&code=031EHxR02EFCc41SWoQ02B0xR02EHxR0&state=1&code=001scfh12ckeI3116si12ZGfh12scfhE&state=1
+
+20160819 02:49:44
+0--oybWRs4vxUrh3ssGQjqveSFtS0Mg-011iyl452VcxgH0JMS052gIl452iyl4e http://www.chaligou.com/mobile/index.php?from=singlemessage&isappinstalled=0&code=031EHxR02EFCc41SWoQ02B0xR02EHxR0&state=1&code=001scfh12ckeI3116si12ZGfh12scfhE&state=1&code=011iyl452VcxgH0JMS052gIl452iyl4e&state=1
+
+20160819 02:49:47
+1341-clg_1341-oybWRs4vxUrh3ssGQjqveSFtS0Mg-011iyl452VcxgH0JMS052gIl452iyl4e http://www.chaligou.com/mobile/index.php?u=1341&from=singlemessage&isappinstalled=0&code=031EHxR02EFCc41SWoQ02B0xR02EHxR0&state=1&code=001scfh12ckeI3116si12ZGfh12scfhE&state=1&code=011iyl452VcxgH0JMS052gIl452iyl4e&state=1
+
+20160819 02:49:49
+1341-clg_1341-oybWRs4vxUrh3ssGQjqveSFtS0Mg- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 09:47:17
+0--- http://www.chaligou.com/mobile/
+
+20160819 09:47:17
+0---001LtLKJ127Sza0HogMJ1TlOKJ1LtLKb http://www.chaligou.com/mobile/?code=001LtLKJ127Sza0HogMJ1TlOKJ1LtLKb&state=1
+
+20160819 09:47:19
+0---041LaLSz1udDI10pqfRz1uYPSz1LaLSc http://www.chaligou.com/mobile/?code=001LtLKJ127Sza0HogMJ1TlOKJ1LtLKb&state=1&code=041LaLSz1udDI10pqfRz1uYPSz1LaLSc&state=1
+
+20160819 09:47:20
+0--oybWRsxDYcqd8en3L4evdZ2_jG5s-021MSjDu0ICKLp1WZbDu0SiqDu0MSjDq http://www.chaligou.com/mobile/?code=001LtLKJ127Sza0HogMJ1TlOKJ1LtLKb&state=1&code=041LaLSz1udDI10pqfRz1uYPSz1LaLSc&state=1&code=021MSjDu0ICKLp1WZbDu0SiqDu0MSjDq&state=1
+
+20160819 09:47:22
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s-021MSjDu0ICKLp1WZbDu0SiqDu0MSjDq http://www.chaligou.com/mobile/?u=1264&code=001LtLKJ127Sza0HogMJ1TlOKJ1LtLKb&state=1&code=041LaLSz1udDI10pqfRz1uYPSz1LaLSc&state=1&code=021MSjDu0ICKLp1WZbDu0SiqDu0MSjDq&state=1
+
+20160819 09:47:29
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 09:47:33
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 09:47:40
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_user.php
+
+20160819 09:47:40
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_user.php?u=1264
+
+20160819 09:47:43
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?user_id=1264
+
+20160819 09:47:44
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:51:40
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?user_id=1264
+
+20160819 09:51:41
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&user_id=1264
+
+20160819 09:51:43
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:51:46
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:15
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:16
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:25
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:26
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:26
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:43
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:50
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:50
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:58
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:53:58
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:54:05
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:54:05
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:54:19
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:54:22
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?user_id=1264
+
+20160819 09:54:23
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&user_id=1264
+
+20160819 09:54:24
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:55:23
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:55:27
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?user_id=1264
+
+20160819 09:55:27
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&user_id=1264
+
+20160819 09:55:28
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:55:31
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:55:33
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:55:33
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:55:37
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:55:37
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:56:44
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?user_id=1264
+
+20160819 09:56:44
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:58:55
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?cat_id=356&user_id=1264
+
+20160819 09:58:56
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&cat_id=356&user_id=1264
+
+20160819 09:58:57
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=356&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:59:00
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:59:04
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?cat_id=1113&user_id=1264
+
+20160819 09:59:05
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&cat_id=1113&user_id=1264
+
+20160819 09:59:05
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=1113&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:59:07
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:59:16
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?cat_id=942&user_id=1264
+
+20160819 09:59:17
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&cat_id=942&user_id=1264
+
+20160819 09:59:17
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=942&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:59:18
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:59:22
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?cat_id=907&user_id=1264
+
+20160819 09:59:23
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&cat_id=907&user_id=1264
+
+20160819 09:59:23
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=907&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 09:59:25
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 09:59:32
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 09:59:33
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 09:59:41
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=100
+
+20160819 09:59:42
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 09:59:47
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php?act=cancel_order&order_id=1892
+
+20160819 09:59:47
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160819 09:59:48
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 09:59:52
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/
+
+20160819 09:59:53
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/?u=1264
+
+20160819 09:59:54
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 09:59:58
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 10:00:04
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 10:00:06
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 10:00:08
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 10:00:12
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_user.php
+
+20160819 10:00:12
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_user.php?u=1264
+
+20160819 10:00:17
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?user_id=1264
+
+20160819 10:00:18
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 10:00:21
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?user_id=1264
+
+20160819 10:00:22
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?u=1264&user_id=1264
+
+20160819 10:00:23
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 10:00:33
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 10:00:39
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 10:00:39
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop_list.php?act=ajax&user_id=1264&cat_id=&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160819 10:25:16
+0--- http://www.chaligou.com/mobile/
+
+20160819 10:25:16
+0---021nrjEr0JsbKs1mqREr0dJkEr0nrjEN http://www.chaligou.com/mobile/?code=021nrjEr0JsbKs1mqREr0dJkEr0nrjEN&state=1
+
+20160819 10:25:17
+0---021Ui25e1Buown0U3i7e1my25e1Ui25D http://www.chaligou.com/mobile/?code=021nrjEr0JsbKs1mqREr0dJkEr0nrjEN&state=1&code=021Ui25e1Buown0U3i7e1my25e1Ui25D&state=1
+
+20160819 10:25:18
+0--oybWRs-a2z9NJKCugSfZnH4WTP_I-011z2vKb0T5yEI10QkLb0sduKb0z2vKE http://www.chaligou.com/mobile/?code=021nrjEr0JsbKs1mqREr0dJkEr0nrjEN&state=1&code=021Ui25e1Buown0U3i7e1my25e1Ui25D&state=1&code=011z2vKb0T5yEI10QkLb0sduKb0z2vKE&state=1
+
+20160819 10:25:22
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I-011z2vKb0T5yEI10QkLb0sduKb0z2vKE http://www.chaligou.com/mobile/?u=1342&code=021nrjEr0JsbKs1mqREr0dJkEr0nrjEN&state=1&code=021Ui25e1Buown0U3i7e1my25e1Ui25D&state=1&code=011z2vKb0T5yEI10QkLb0sduKb0z2vKE&state=1
+
+20160819 10:25:30
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:25:31
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/user.php
+
+20160819 10:25:38
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user.php
+
+20160819 10:25:38
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user.php?u=1342
+
+20160819 10:25:42
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_shop.php?user_id=1342
+
+20160819 10:25:42
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_shop.php?u=1342&user_id=1342
+
+20160819 10:25:44
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user.php?u=1342
+
+20160819 10:27:23
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user_catelog.php
+
+20160819 10:27:24
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user_catelog.php?u=1342
+
+20160819 10:27:59
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user_catelog.php
+
+20160819 10:28:02
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_shop.php?user_id=1342
+
+20160819 10:28:03
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_shop.php?u=1342&user_id=1342
+
+20160819 10:31:34
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 10:33:03
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user_catelog.php
+
+20160819 10:36:28
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/
+
+20160819 10:36:29
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/?u=1342
+
+20160819 10:36:34
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:36:41
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/user.php
+
+20160819 10:36:50
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user.php
+
+20160819 10:36:50
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user.php?u=1342
+
+20160819 10:36:59
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user_catelog.php
+
+20160819 10:36:59
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user_catelog.php?u=1342
+
+20160819 10:37:02
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_user.php?u=1342
+
+20160819 10:37:06
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_shop.php?user_id=1342
+
+20160819 10:37:07
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/v_shop.php?u=1342&user_id=1342
+
+20160819 10:37:18
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/
+
+20160819 10:37:18
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/?u=1342
+
+20160819 10:37:22
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:37:24
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/user.php
+
+20160819 10:42:58
+1342-clg_1342-oybWRs-a2z9NJKCugSfZnH4WTP_I- http://www.chaligou.com/mobile/?u=1342
+
+20160819 10:52:53
+0--- http://www.chaligou.com/mobile/
+
+20160819 10:52:55
+0---0016AI3z17rsa304Jv4z10jK3z16AI3V http://www.chaligou.com/mobile/?code=0016AI3z17rsa304Jv4z10jK3z16AI3V&state=1
+
+20160819 10:52:58
+0--oybWRs-x-fO0j-dyNK13NslCnH20-01113y2428L6NI0AlY342SBw24213y2i http://www.chaligou.com/mobile/?code=0016AI3z17rsa304Jv4z10jK3z16AI3V&state=1&code=01113y2428L6NI0AlY342SBw24213y2i&state=1
+
+20160819 10:52:59
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20-01113y2428L6NI0AlY342SBw24213y2i http://www.chaligou.com/mobile/?u=1331&code=0016AI3z17rsa304Jv4z10jK3z16AI3V&state=1&code=01113y2428L6NI0AlY342SBw24213y2i&state=1
+
+20160819 10:53:01
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:53:03
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:53:04
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:53:08
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/user.php
+
+20160819 10:53:16
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_user.php
+
+20160819 10:53:16
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_user.php?u=1331
+
+20160819 10:53:19
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?user_id=1331
+
+20160819 10:53:19
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?u=1331&user_id=1331
+
+20160819 10:53:27
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?user_id=1331
+
+20160819 10:53:27
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?u=1331&user_id=1331
+
+20160819 10:53:29
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop_list.php?user_id=1331
+
+20160819 10:53:30
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop_list.php?u=1331&user_id=1331
+
+20160819 10:56:10
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index.php
+
+20160819 10:56:11
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index.php?u=1331
+
+20160819 10:56:11
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:56:18
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:56:22
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:56:22
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 10:58:50
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/user.php
+
+20160819 10:58:57
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_user.php
+
+20160819 10:58:57
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_user.php?u=1331
+
+20160819 10:59:02
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?user_id=1331
+
+20160819 10:59:02
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?u=1331&user_id=1331
+
+20160819 10:59:10
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?user_id=1331
+
+20160819 10:59:11
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_shop.php?u=1331&user_id=1331
+
+20160819 10:59:13
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/user.php
+
+20160819 10:59:16
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/user.php?act=profile
+
+20160819 10:59:36
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_user.php
+
+20160819 10:59:36
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/v_user.php?u=1331
+
+20160819 10:59:41
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/user.php
+
+20160819 10:59:46
+1331-clg_1331-oybWRs-x-fO0j-dyNK13NslCnH20- http://www.chaligou.com/mobile/user.php?act=profile
+
+20160819 11:47:12
+0--- http://www.chaligou.com/mobile/
+
+20160819 12:00:10
+0--- http://www.chaligou.com/mobile/
+
+20160819 12:00:13
+0---021Qolbu0w8jAp1i4Ccu0VUgbu0Qolbd http://www.chaligou.com/mobile/?code=021Qolbu0w8jAp1i4Ccu0VUgbu0Qolbd&state=1
+
+20160819 12:00:22
+0--- http://www.chaligou.com/mobile/
+
+20160819 12:00:27
+0---011OxguG0MpVp62rwduG0PrduG0Oxguy http://www.chaligou.com/mobile/?code=011OxguG0MpVp62rwduG0PrduG0Oxguy&state=1
+
+20160819 12:00:30
+0--oybWRs4Au8p9irxN2PGcKQfR4tj0-001t9OVG1pmgtd0uxFWG1odVVG1t9OVO http://www.chaligou.com/mobile/?code=011OxguG0MpVp62rwduG0PrduG0Oxguy&state=1&code=001t9OVG1pmgtd0uxFWG1odVVG1t9OVO&state=1
+
+20160819 12:00:33
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0-001t9OVG1pmgtd0uxFWG1odVVG1t9OVO http://www.chaligou.com/mobile/?u=1343&code=011OxguG0MpVp62rwduG0PrduG0Oxguy&state=1&code=001t9OVG1pmgtd0uxFWG1odVVG1t9OVO&state=1
+
+20160819 12:00:36
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:00:51
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:01:03
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:01:12
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:01:12
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:01:18
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/catalog.php
+
+20160819 12:01:26
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?id=1101
+
+20160819 12:01:27
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?u=1343&id=1101
+
+20160819 12:01:28
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?act=ajax&category=1101&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:01:39
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?act=ajax&category=1101&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:01:48
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?act=ajax&category=1101&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:02:04
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 12:02:05
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?u=1343&id=357
+
+20160819 12:02:06
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:02:18
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:03:05
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:03:08
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0-001t9OVG1pmgtd0uxFWG1odVVG1t9OVO http://www.chaligou.com/mobile/?code=011OxguG0MpVp62rwduG0PrduG0Oxguy&state=1&code=001t9OVG1pmgtd0uxFWG1odVVG1t9OVO&state=1
+
+20160819 12:03:08
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0-001t9OVG1pmgtd0uxFWG1odVVG1t9OVO http://www.chaligou.com/mobile/?u=1343&code=011OxguG0MpVp62rwduG0PrduG0Oxguy&state=1&code=001t9OVG1pmgtd0uxFWG1odVVG1t9OVO&state=1
+
+20160819 12:03:10
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:03:12
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/user.php
+
+20160819 12:03:22
+1343-clg_1343-oybWRs4Au8p9irxN2PGcKQfR4tj0- http://www.chaligou.com/mobile/user.php?act=logout
+
+20160819 12:28:49
+0--- http://www.chaligou.com/mobile/
+
+20160819 12:28:51
+0---031IuTU40Rl3fx1YtOV40lxQU40IuTUx http://www.chaligou.com/mobile/?code=031IuTU40Rl3fx1YtOV40lxQU40IuTUx&state=1
+
+20160819 12:28:55
+0--oybWRswlzmCxb8DvRds_soCbpwuc-041QbuRw1zdyN40FCHPw1FMyRw1QbuRr http://www.chaligou.com/mobile/?code=031IuTU40Rl3fx1YtOV40lxQU40IuTUx&state=1&code=041QbuRw1zdyN40FCHPw1FMyRw1QbuRr&state=1
+
+20160819 12:28:57
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc-041QbuRw1zdyN40FCHPw1FMyRw1QbuRr http://www.chaligou.com/mobile/?u=1344&code=031IuTU40Rl3fx1YtOV40lxQU40IuTUx&state=1&code=041QbuRw1zdyN40FCHPw1FMyRw1QbuRr&state=1
+
+20160819 12:29:00
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:29:10
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/catalog.php
+
+20160819 12:29:18
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:29:23
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/category.php?id=701
+
+20160819 12:29:23
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/category.php?u=1344&id=701
+
+20160819 12:29:24
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/category.php?act=ajax&category=701&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:29:53
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/goods.php?id=6947
+
+20160819 12:29:53
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/goods.php?u=1344&id=6947
+
+20160819 12:29:54
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=6947&type=0&page=1&147158100204545
+
+20160819 12:29:55
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/goods.php?act=price&id=6947&attr=&number=1&1471581002374374
+
+20160819 12:29:59
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/category.php?act=ajax&category=701&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:30:02
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/category.php?act=ajax&category=701&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:30:05
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:30:08
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc-021oFh9F0otPb72cxu7F0Ncd9F0oFh9D http://www.chaligou.com/mobile/?code=021oFh9F0otPb72cxu7F0Ncd9F0oFh9D&state=1
+
+20160819 12:30:09
+1344-clg_1344-oybWRswlzmCxb8DvRds_soCbpwuc-021oFh9F0otPb72cxu7F0Ncd9F0oFh9D http://www.chaligou.com/mobile/?u=1344&code=021oFh9F0otPb72cxu7F0Ncd9F0oFh9D&state=1
+
+20160819 12:42:12
+0--- http://www.chaligou.com/mobile/
+
+20160819 12:42:15
+0---001TNWD52ExvGG0Y1OD52YAZD52TNWDT http://www.chaligou.com/mobile/?code=001TNWD52ExvGG0Y1OD52YAZD52TNWDT&state=1
+
+20160819 12:48:26
+0--- http://www.chaligou.com/mobile/
+
+20160819 12:48:30
+0---031q4fRh1mhbjk0PwYPh1nGjRh1q4fR4 http://www.chaligou.com/mobile/?code=031q4fRh1mhbjk0PwYPh1nGjRh1q4fR4&state=1
+
+20160819 12:48:35
+0--oybWRs_nzoasEaoX4jEXtAxePCys-041X98bQ13IY9W04O77Q1Np5bQ1X98bx http://www.chaligou.com/mobile/?code=031q4fRh1mhbjk0PwYPh1nGjRh1q4fR4&state=1&code=041X98bQ13IY9W04O77Q1Np5bQ1X98bx&state=1
+
+20160819 12:48:44
+0--- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:49:01
+0--- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020
+
+20160819 12:49:04
+0---031eZDFj2EgyPK0dVyEj2MjHFj2eZDFQ http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020&code=031eZDFj2EgyPK0dVyEj2MjHFj2eZDFQ&state=1
+
+20160819 12:49:08
+0--oybWRs_nzoasEaoX4jEXtAxePCys-031xKqJR007Bgd24YoMR0PWrJR0xKqJ- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020&code=031eZDFj2EgyPK0dVyEj2MjHFj2eZDFQ&state=1&code=031xKqJR007Bgd24YoMR0PWrJR0xKqJ-&state=1
+
+20160819 12:49:09
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/category.php?id=1020
+
+20160819 12:49:10
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/category.php?u=1345&id=1020
+
+20160819 12:49:12
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:49:21
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/user.php
+
+20160819 12:49:23
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/user.php
+
+20160819 12:50:01
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/user.php?act=profile
+
+20160819 12:50:18
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/user.php
+
+20160819 12:50:29
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/flow.php
+
+20160819 12:50:35
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/
+
+20160819 12:50:36
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/?u=1345
+
+20160819 12:50:38
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:50:42
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020
+
+20160819 12:50:43
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/category.php?id=1020
+
+20160819 12:50:43
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/category.php?u=1345&id=1020
+
+20160819 12:50:45
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 12:51:13
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/
+
+20160819 12:51:14
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/?u=1345
+
+20160819 12:51:16
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 12:51:19
+1345-clg_1345-oybWRs_nzoasEaoX4jEXtAxePCys- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:30:12
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:30:13
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:30:16
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:30:17
+810-龙泉茶庄-- http://www.chaligou.com/mobile/user.php
+
+20160819 13:30:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=101
+
+20160819 13:30:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 13:30:52
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:30:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:30:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:31:10
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:31:14
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:31:38
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=589
+
+20160819 13:31:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=589
+
+20160819 13:31:40
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:31:47
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:31:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:32:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:32:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:32:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:33:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=587
+
+20160819 13:33:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=587
+
+20160819 13:33:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:33:16
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:33:22
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:33:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=4578
+
+20160819 13:33:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=4578
+
+20160819 13:33:42
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=4578&type=0&page=1&1471584822857857
+
+20160819 13:33:43
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=4578&attr=&number=1&1471584823142142
+
+20160819 13:33:45
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:33:51
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=4577
+
+20160819 13:33:52
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=4577
+
+20160819 13:33:52
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=4577&type=0&page=1&1471584832766766
+
+20160819 13:33:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=4577&attr=&number=1&1471584834165165
+
+20160819 13:34:00
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:34:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:34:10
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=1039
+
+20160819 13:34:10
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=1039
+
+20160819 13:34:11
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:34:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:34:29
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:34:35
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:34:51
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=600
+
+20160819 13:34:52
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=600
+
+20160819 13:34:52
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=600&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:34:58
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=600&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:35:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=605
+
+20160819 13:35:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=605
+
+20160819 13:35:08
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=605&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:35:14
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:35:26
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=614
+
+20160819 13:35:27
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=614
+
+20160819 13:35:27
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=614&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:36:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=1096
+
+20160819 13:36:40
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=1096
+
+20160819 13:36:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1096&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:36:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1096&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:36:51
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1096&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:37:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=592
+
+20160819 13:37:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=592
+
+20160819 13:37:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:37:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=32739
+
+20160819 13:37:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=32739
+
+20160819 13:37:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32739&type=0&page=1&1471585077428428
+
+20160819 13:37:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=32739&attr=&number=1&1471585077562562
+
+20160819 13:38:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:38:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=32740
+
+20160819 13:38:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=32740
+
+20160819 13:38:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32740&type=0&page=1&1471585084866866
+
+20160819 13:38:05
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=32740&attr=&number=1&147158508505656
+
+20160819 13:38:10
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:38:14
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=32738
+
+20160819 13:38:15
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=32738
+
+20160819 13:38:16
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32738&type=0&page=1&1471585096455455
+
+20160819 13:38:16
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=32738&attr=&number=1&1471585096591591
+
+20160819 13:38:18
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:38:26
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:38:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=32740
+
+20160819 13:38:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=32740
+
+20160819 13:38:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32740&type=0&page=1&147158513709696
+
+20160819 13:38:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=32740&attr=&number=1&1471585137192192
+
+20160819 13:38:58
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:39:05
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=32740
+
+20160819 13:39:05
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=32740
+
+20160819 13:39:06
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32740&type=0&page=1&1471585146441441
+
+20160819 13:39:06
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=32740&attr=&number=1&1471585146490490
+
+20160819 13:39:09
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:39:13
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:39:23
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=610
+
+20160819 13:39:24
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=610
+
+20160819 13:39:24
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=610&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:39:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=608
+
+20160819 13:39:50
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=608
+
+20160819 13:39:50
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=608&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:30
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=1090
+
+20160819 13:40:30
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=1090
+
+20160819 13:40:30
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=1090
+
+20160819 13:40:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:35
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:42
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:43
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:43
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:51
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:40:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:41:02
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:41:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:41:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:42:25
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:42:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:42:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:42:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:05
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:11
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:11
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:16
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:24
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:29
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:32
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:46
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:43:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:44:33
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:44:38
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:44:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:44:47
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:44:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:44:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:45:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:45:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:45:28
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:45:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:45:32
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:45:33
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:45:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:46:50
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=590
+
+20160819 13:46:51
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=590
+
+20160819 13:46:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=590&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:47:06
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=4928
+
+20160819 13:47:06
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=4928
+
+20160819 13:47:08
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=4928&type=0&page=1&1471585628246246
+
+20160819 13:47:08
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=4928&attr=&number=1&1471585628628628
+
+20160819 13:47:12
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=590&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:48:17
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:48:35
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=596
+
+20160819 13:48:36
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=596
+
+20160819 13:48:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=596&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:48:47
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=557
+
+20160819 13:48:47
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=557
+
+20160819 13:48:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:48:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:49:02
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:49:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:49:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php
+
+20160819 13:49:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810
+
+20160819 13:49:05
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:49:06
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:49:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:49:15
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:49:18
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:49:25
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:49:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:49:40
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:49:43
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:49:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:49:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:49:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:49:45
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:50:28
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:50:30
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:50:32
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 13:50:33
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 13:50:34
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:50:42
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?category=357&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160819 13:50:42
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&category=357&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160819 13:50:45
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:51:00
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:51:19
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:51:36
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:51:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:51:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:51:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:38
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:46
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:47
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:52:59
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:53:42
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:53:43
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php
+
+20160819 13:53:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810
+
+20160819 13:53:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:53:45
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:53:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:53:52
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:53:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:53:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:54:00
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 13:54:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 13:54:02
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:54:08
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:54:08
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php
+
+20160819 13:54:09
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810
+
+20160819 13:54:26
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:54:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:54:32
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php
+
+20160819 13:54:32
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810
+
+20160819 13:54:33
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:54:33
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:54:35
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:54:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:54:43
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 13:54:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 13:54:45
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:54:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=359
+
+20160819 13:54:50
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=359
+
+20160819 13:54:50
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:54:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:54:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?category=359&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160819 13:54:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&category=359&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160819 13:54:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:09
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:18
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:18
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:26
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:29
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:35
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=359&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:55:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:55:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:55:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:55:58
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:57:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?act=selcart&sel_goods=2942,2897,2896,2898,2899&1471586221709709
+
+20160819 13:57:09
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2897
+
+20160819 13:57:10
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 13:57:18
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:57:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:57:22
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 13:57:23
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 13:57:24
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:57:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php
+
+20160819 13:57:45
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810
+
+20160819 13:57:46
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 13:57:46
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 13:57:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 13:57:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 13:57:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 13:57:58
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 13:57:59
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:58:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 13:58:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?category=357&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160819 13:58:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&category=357&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160819 13:58:05
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 13:58:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?category=357&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160819 13:58:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&category=357&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160819 13:58:08
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:59:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=978
+
+20160819 13:59:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=978
+
+20160819 13:59:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=978&type=0&page=1&1471586343111111
+
+20160819 13:59:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=978&attr=&number=1&1471586343534534
+
+20160819 13:59:10
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:59:26
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:59:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=976
+
+20160819 13:59:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=976
+
+20160819 13:59:32
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=976&type=0&page=1&1471586372399399
+
+20160819 13:59:32
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=976&attr=&number=1&1471586372848848
+
+20160819 13:59:36
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 13:59:50
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 13:59:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=979
+
+20160819 13:59:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=979
+
+20160819 13:59:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=979&type=0&page=1&1471586396341341
+
+20160819 13:59:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=979&attr=&number=1&1471586396658658
+
+20160819 14:00:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 14:00:13
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 14:00:15
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:01:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:01:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:01:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:01:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:02:03
+0--- http://www.chaligou.com/mobile/
+
+20160819 14:02:06
+0---001iOo3c2hjKLA06gd5c2kfo3c2iOo3u http://www.chaligou.com/mobile/?code=001iOo3c2hjKLA06gd5c2kfo3c2iOo3u&state=1
+
+20160819 14:02:10
+0---0310YeWN1CkTjY0n3eWN1noaWN10YeWs http://www.chaligou.com/mobile/?code=001iOo3c2hjKLA06gd5c2kfo3c2iOo3u&state=1&code=0310YeWN1CkTjY0n3eWN1noaWN10YeWs&state=1
+
+20160819 14:02:23
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:02:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:02:37
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:02:59
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:03:18
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:03:33
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:03:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:03:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:04:12
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:04:24
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:04:30
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:04:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:04:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:05:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:05:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:05:17
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160819 14:05:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 14:05:31
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 14:05:34
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:05:35
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 14:05:38
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 14:05:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 14:05:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:05:47
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:05:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 14:05:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 14:05:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:05:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 14:06:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 14:06:02
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 14:06:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:06:07
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=358
+
+20160819 14:06:08
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=358
+
+20160819 14:06:09
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:06:48
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 14:06:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=32623
+
+20160819 14:06:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=32623
+
+20160819 14:06:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32623&type=0&page=1&1471586815961961
+
+20160819 14:06:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=32623&attr=&number=1&1471586816412412
+
+20160819 14:07:00
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:07:01
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:07:02
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:07:41
+810-龙泉茶庄-- http://www.chaligou.com/mobile/
+
+20160819 14:07:42
+810-龙泉茶庄-- http://www.chaligou.com/mobile/?u=810
+
+20160819 14:07:43
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:07:44
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 14:07:59
+810-龙泉茶庄-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:08:00
+810-龙泉茶庄-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 14:08:02
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 14:08:03
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=357
+
+20160819 14:08:04
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:08:11
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?id=358
+
+20160819 14:08:12
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?u=810&id=358
+
+20160819 14:08:13
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:08:17
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:08:19
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:08:22
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:08:25
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?id=344
+
+20160819 14:08:26
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?u=810&id=344
+
+20160819 14:08:27
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=344&type=0&page=1&1471586907220220
+
+20160819 14:08:27
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=344&attr=&number=1&1471586907818818
+
+20160819 14:08:36
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160819 14:08:39
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 14:08:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=checkout
+
+20160819 14:08:57
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1471586937472472
+
+20160819 14:09:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=select_payment&payment=undefined&1471586960586586
+
+20160819 14:09:20
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=select_payment&payment=1&1471586960578578
+
+20160819 14:09:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=check_surplus_open&1471586961354354
+
+20160819 14:09:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=done
+
+20160819 14:09:30
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1471586970745745
+
+20160819 14:09:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=check_surplus_open&147158698909595
+
+20160819 14:09:49
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=done
+
+20160819 14:09:53
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1471586992578578
+
+20160819 14:09:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=check_surplus_open&1471586995774774
+
+20160819 14:09:56
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=done
+
+20160819 14:09:58
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1471586998601601
+
+20160819 14:10:09
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=344&type=0&page=1&1471587009670670
+
+20160819 14:10:09
+810-龙泉茶庄-- http://www.chaligou.com/mobile/goods.php?act=price&id=344&attr=&number=1&1471587009791791
+
+20160819 14:10:11
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:10:12
+810-龙泉茶庄-- http://www.chaligou.com/mobile/flow.php
+
+20160819 14:10:15
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:10:18
+810-龙泉茶庄-- http://www.chaligou.com/mobile/user.php
+
+20160819 14:10:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=100
+
+20160819 14:10:21
+810-龙泉茶庄-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 14:10:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/user.php
+
+20160819 14:10:54
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=358&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:10:55
+810-龙泉茶庄-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:21:29
+0--- http://www.chaligou.com/mobile/
+
+20160819 14:21:29
+0---01197GV61AR8vX1PhrU61BnHV6197GVq http://www.chaligou.com/mobile/?code=01197GV61AR8vX1PhrU61BnHV6197GVq&state=1
+
+20160819 14:21:30
+0--oybWRs4nkSf8lT1evLw-xp07-z8I-031k3Wd21q9nc22pBGe21AVWd21k3Wd1 http://www.chaligou.com/mobile/?code=01197GV61AR8vX1PhrU61BnHV6197GVq&state=1&code=031k3Wd21q9nc22pBGe21AVWd21k3Wd1&state=1
+
+20160819 14:21:32
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I-031k3Wd21q9nc22pBGe21AVWd21k3Wd1 http://www.chaligou.com/mobile/?u=1346&code=01197GV61AR8vX1PhrU61BnHV6197GVq&state=1&code=031k3Wd21q9nc22pBGe21AVWd21k3Wd1&state=1
+
+20160819 14:21:45
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:21:50
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/user.php
+
+20160819 14:21:54
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I-031k3Wd21q9nc22pBGe21AVWd21k3Wd1 http://www.chaligou.com/mobile/?u=1346&code=01197GV61AR8vX1PhrU61BnHV6197GVq&state=1&code=031k3Wd21q9nc22pBGe21AVWd21k3Wd1&state=1
+
+20160819 14:21:55
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:21:57
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/catalog.php
+
+20160819 14:21:59
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I-031k3Wd21q9nc22pBGe21AVWd21k3Wd1 http://www.chaligou.com/mobile/?u=1346&code=01197GV61AR8vX1PhrU61BnHV6197GVq&state=1&code=031k3Wd21q9nc22pBGe21AVWd21k3Wd1&state=1
+
+20160819 14:22:01
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:23:35
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/
+
+20160819 14:23:35
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/?u=1346
+
+20160819 14:23:36
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:23:47
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/affiche.php?ad_id=39&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1039
+
+20160819 14:23:47
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/category.php?id=1039
+
+20160819 14:23:47
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/category.php?u=1346&id=1039
+
+20160819 14:23:50
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 14:23:50
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/?u=1346
+
+20160819 14:23:51
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:24:00
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:24:04
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:24:05
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:28:11
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/
+
+20160819 14:28:12
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/?u=1346
+
+20160819 14:28:14
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:36:12
+0--- http://www.chaligou.com/mobile/
+
+20160819 14:36:17
+0---031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl http://www.chaligou.com/mobile/?code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1
+
+20160819 14:36:21
+0---021Spiru11Q4N70kP4su1X4cru1SpirU http://www.chaligou.com/mobile/?code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1&code=021Spiru11Q4N70kP4su1X4cru1SpirU&state=1
+
+20160819 14:36:25
+0--oybWRsykRjpKbFEGmGRm2J3zRNOA-041RULhd1DRBWo0esued1UkIhd1RULh8 http://www.chaligou.com/mobile/?code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1&code=021Spiru11Q4N70kP4su1X4cru1SpirU&state=1&code=041RULhd1DRBWo0esued1UkIhd1RULh8&state=1
+
+20160819 14:36:27
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA-041RULhd1DRBWo0esued1UkIhd1RULh8 http://www.chaligou.com/mobile/?u=1348&code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1&code=021Spiru11Q4N70kP4su1X4cru1SpirU&state=1&code=041RULhd1DRBWo0esued1UkIhd1RULh8&state=1
+
+20160819 14:36:30
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:36:50
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:36:57
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:37:11
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:37:25
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/goods.php?id=5327
+
+20160819 14:37:25
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/goods.php?u=1348&id=5327
+
+20160819 14:37:27
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=5327&type=0&page=1&1471588647688688
+
+20160819 14:37:27
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/goods.php?act=price&id=5327&attr=&number=1&147158864805959
+
+20160819 14:37:29
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:37:32
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA-041RULhd1DRBWo0esued1UkIhd1RULh8 http://www.chaligou.com/mobile/?code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1&code=021Spiru11Q4N70kP4su1X4cru1SpirU&state=1&code=041RULhd1DRBWo0esued1UkIhd1RULh8&state=1
+
+20160819 14:37:32
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA-041RULhd1DRBWo0esued1UkIhd1RULh8 http://www.chaligou.com/mobile/?u=1348&code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1&code=021Spiru11Q4N70kP4su1X4cru1SpirU&state=1&code=041RULhd1DRBWo0esued1UkIhd1RULh8&state=1
+
+20160819 14:37:33
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:37:38
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/user.php
+
+20160819 14:37:55
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/user.php?act=collection_list
+
+20160819 14:38:01
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/user.php?act=follow_shop
+
+20160819 14:38:26
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:38:31
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA-021Spiru11Q4N70kP4su1X4cru1SpirU http://www.chaligou.com/mobile/?code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1&code=021Spiru11Q4N70kP4su1X4cru1SpirU&state=1
+
+20160819 14:38:32
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA-021Spiru11Q4N70kP4su1X4cru1SpirU http://www.chaligou.com/mobile/?u=1348&code=031hEzSh2ISt7N0QJcRh2x0GSh2hEzSl&state=1&code=021Spiru11Q4N70kP4su1X4cru1SpirU&state=1
+
+20160819 14:38:35
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/
+
+20160819 14:38:35
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/?u=1348
+
+20160819 14:38:37
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 14:38:49
+1348-clg_1348-oybWRsykRjpKbFEGmGRm2J3zRNOA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 15:27:20
+0--- http://www.chaligou.com/mobile/
+
+20160819 15:27:26
+0---0016bmXg0FeVrD1r8xVg09ChXg06bmXx http://www.chaligou.com/mobile/?code=0016bmXg0FeVrD1r8xVg09ChXg06bmXx&state=1
+
+20160819 15:27:28
+0--oybWRs-OEMdMUl1m-C3X9BVp4nbk-021rrvs92EpqSC076dr92YzBs92rrvsO http://www.chaligou.com/mobile/?code=0016bmXg0FeVrD1r8xVg09ChXg06bmXx&state=1&code=021rrvs92EpqSC076dr92YzBs92rrvsO&state=1
+
+20160819 15:27:30
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk-021rrvs92EpqSC076dr92YzBs92rrvsO http://www.chaligou.com/mobile/?u=1349&code=0016bmXg0FeVrD1r8xVg09ChXg06bmXx&state=1&code=021rrvs92EpqSC076dr92YzBs92rrvsO&state=1
+
+20160819 15:27:43
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 15:29:34
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/
+
+20160819 15:29:35
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/?u=1349
+
+20160819 15:29:46
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 15:31:03
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/
+
+20160819 15:31:04
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/?u=1349
+
+20160819 15:31:15
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 15:55:20
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/
+
+20160819 15:55:21
+1349-clg_1349-oybWRs-OEMdMUl1m-C3X9BVp4nbk- http://www.chaligou.com/mobile/?u=1349
+
+20160819 16:41:55
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/
+
+20160819 16:41:56
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/?u=1264
+
+20160819 16:41:59
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/user.php
+
+20160819 16:42:02
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_user.php
+
+20160819 16:42:03
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_user.php?u=1264
+
+20160819 16:42:06
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?user_id=1264
+
+20160819 16:42:06
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_shop.php?u=1264&user_id=1264
+
+20160819 16:50:06
+0--- http://www.chaligou.com/mobile/
+
+20160819 16:50:07
+0---011MPYu52iltPG0T0kr52Fi1v52MPYu5 http://www.chaligou.com/mobile/?code=011MPYu52iltPG0T0kr52Fi1v52MPYu5&state=1
+
+20160819 16:50:08
+0---021cU7Vu0I8RUo1iTeVu0Up6Vu0cU7Vj http://www.chaligou.com/mobile/?code=011MPYu52iltPG0T0kr52Fi1v52MPYu5&state=1&code=021cU7Vu0I8RUo1iTeVu0Up6Vu0cU7Vj&state=1
+
+20160819 16:50:09
+0--oybWRs70FeszKkPRusV0EbVKWvVE-031coKhm0zNXif1hE6jm0NPHhm0coKhG http://www.chaligou.com/mobile/?code=011MPYu52iltPG0T0kr52Fi1v52MPYu5&state=1&code=021cU7Vu0I8RUo1iTeVu0Up6Vu0cU7Vj&state=1&code=031coKhm0zNXif1hE6jm0NPHhm0coKhG&state=1
+
+20160819 16:50:11
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE-031coKhm0zNXif1hE6jm0NPHhm0coKhG http://www.chaligou.com/mobile/?u=1350&code=011MPYu52iltPG0T0kr52Fi1v52MPYu5&state=1&code=021cU7Vu0I8RUo1iTeVu0Up6Vu0cU7Vj&state=1&code=031coKhm0zNXif1hE6jm0NPHhm0coKhG&state=1
+
+20160819 16:50:14
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:50:17
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 16:50:18
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 16:50:19
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:50:23
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 16:50:27
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=1037
+
+20160819 16:50:28
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1037
+
+20160819 16:50:29
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:50:36
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:50:42
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?id=3048
+
+20160819 16:50:43
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?u=1350&id=3048
+
+20160819 16:50:43
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=3048&type=0&page=1&1471596643889889
+
+20160819 16:50:44
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?act=price&id=3048&attr=&number=1&1471596644640640
+
+20160819 16:52:03
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1037
+
+20160819 16:52:04
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:54:17
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 16:54:18
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 16:54:19
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:54:21
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 16:54:29
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 16:54:29
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 16:54:30
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:54:40
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?id=32698
+
+20160819 16:54:41
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?u=1350&id=32698
+
+20160819 16:54:41
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32698&type=0&page=1&1471596881931931
+
+20160819 16:54:42
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?act=price&id=32698&attr=&number=1&1471596882377377
+
+20160819 16:54:51
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 16:54:54
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:55:06
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:55:11
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:55:26
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 16:55:27
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 16:55:31
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=1037
+
+20160819 16:55:32
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1037
+
+20160819 16:55:33
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:55:43
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:56:08
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 16:56:09
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 16:56:24
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1037
+
+20160819 16:56:25
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:56:30
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:57:05
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:57:05
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 16:57:18
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 16:58:19
+1264-youpin_1264-oybWRsxDYcqd8en3L4evdZ2_jG5s- http://www.chaligou.com/mobile/v_user.php?u=1264
+
+20160819 17:15:40
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 17:15:40
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 17:15:45
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 17:15:46
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 17:15:51
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160819 17:15:51
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 17:15:54
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 17:16:00
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/v_user.php
+
+20160819 17:16:01
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/v_user.php?u=1350
+
+20160819 17:16:07
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 17:16:08
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 17:16:08
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 17:16:12
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/flow.php
+
+20160819 17:16:14
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 17:16:14
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 17:16:16
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 17:16:18
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=1038
+
+20160819 17:16:19
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1038
+
+20160819 17:16:19
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:16:28
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:16:32
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 17:16:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=1040
+
+20160819 17:16:49
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1040
+
+20160819 17:16:49
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:16:56
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:17:00
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:17:01
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:17:02
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 17:31:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 17:31:49
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 17:31:53
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 17:31:58
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 17:31:58
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 17:31:59
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 17:32:02
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTU5OTEyMjt9
+
+20160819 17:32:03
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1OTkxMjM7fQ==
+
+20160819 17:32:05
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 17:32:06
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 17:32:08
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 17:32:13
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=1037
+
+20160819 17:32:13
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1037
+
+20160819 17:32:14
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:32:18
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:32:36
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:32:37
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1037&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:32:38
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 17:32:39
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=589
+
+20160819 17:32:39
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=589
+
+20160819 17:32:40
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:34:12
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 17:34:13
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 17:34:16
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 17:34:36
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 17:35:16
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=1096
+
+20160819 17:35:17
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1096
+
+20160819 17:35:18
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1096&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:35:23
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/catalog.php
+
+20160819 17:35:43
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?id=1038
+
+20160819 17:35:44
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&id=1038
+
+20160819 17:35:44
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 17:35:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?category=1038&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160819 17:35:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?u=1350&category=1038&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160819 17:35:49
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:35:52
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:35:56
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:35:57
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:36:18
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:36:19
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:36:44
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:36:56
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:37:12
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:37:23
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:37:33
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:37:40
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:37:47
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:37:47
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:37:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:38:11
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:38:22
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:38:35
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:38:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:38:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:39:05
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:39:39
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:39:40
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160819 17:40:02
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?id=1434
+
+20160819 17:40:02
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?u=1350&id=1434
+
+20160819 17:40:03
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=1434&type=0&page=1&147159960304747
+
+20160819 17:40:03
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/goods.php?act=price&id=1434&attr=&number=1&1471599603444444
+
+20160819 19:23:58
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/
+
+20160819 19:23:58
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/?u=1294
+
+20160819 19:24:02
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/lucky_buy.php
+
+20160819 19:24:05
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160819 19:24:10
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/
+
+20160819 19:24:10
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/?u=1294
+
+20160819 19:24:12
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 19:24:18
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020
+
+20160819 19:24:19
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/category.php?id=1020
+
+20160819 19:24:19
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/category.php?u=1294&id=1020
+
+20160819 19:24:20
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 19:24:27
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods.php?id=32632
+
+20160819 19:24:28
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods.php?u=1294&id=32632
+
+20160819 19:24:29
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32632&type=0&page=1&147160586909898
+
+20160819 19:24:29
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods.php?act=price&id=32632&attr=&number=1&1471605869439439
+
+20160819 19:24:34
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/category.php?u=1294&id=1020
+
+20160819 19:24:34
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 19:27:09
+0--- http://www.chaligou.com/mobile/lucky_buy.php
+
+20160819 20:18:15
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/
+
+20160819 20:18:16
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/?u=940
+
+20160819 20:18:23
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:18:36
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php
+
+20160819 20:19:17
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=101
+
+20160819 20:19:18
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 20:19:41
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160819 20:19:42
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 20:19:48
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=102
+
+20160819 20:19:48
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 20:19:51
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160819 20:19:52
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 20:19:56
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=101
+
+20160819 20:19:57
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 20:20:03
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php
+
+20160819 20:20:07
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=101
+
+20160819 20:20:08
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 20:20:23
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/user.php
+
+20160819 20:20:33
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 20:21:01
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?id=557
+
+20160819 20:21:02
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?u=940&id=557
+
+20160819 20:21:04
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:21:13
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:21:40
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:22:00
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:22:39
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:22:55
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:23:22
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/
+
+20160819 20:23:23
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/?u=940
+
+20160819 20:23:24
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:23:31
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 20:24:00
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/?u=940
+
+20160819 20:24:01
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:24:38
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:24:59
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:25:13
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:25:39
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:25:54
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:26:27
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:26:29
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:27:06
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:27:16
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:27:17
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/
+
+20160819 20:27:18
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/?u=940
+
+20160819 20:27:19
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:27:33
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/affiche.php?ad_id=34&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fsearch.php%3Fencode%3DYToyOntzOjg6ImtleXdvcmRzIjtzOjEyOiLlj6Tlj6Topb%2Fph4wiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxMzI3MjU0O30%3D
+
+20160819 20:27:33
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjEyOiLlj6Tlj6Topb/ph4wiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxMzI3MjU0O30=
+
+20160819 20:27:37
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/?u=940
+
+20160819 20:27:38
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:27:40
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/searchindex.php
+
+20160819 20:27:41
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YTozOntzOjc6ImlzX2FqYXgiO3M6MToiMSI7czozOiJhY3QiO3M6MjQ6ImdldF9zZXNzaW9uX3NlYXJjaF9nb29kcyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE2MDk2NjE7fQ==
+
+20160819 20:28:00
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YTozOntzOjQ6InR5cGUiO3M6MDoiIjtzOjg6ImtleXdvcmRzIjtzOjY6IumHkeeBtiI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE2MDk2ODA7fQ==
+
+20160819 20:28:36
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLph5HngbYiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6ODoiZ29vZHNfaWQiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czo5OiJtaW5fcHJpY2UiO3M6MToiMCI7czo5OiJtYXhfcHJpY2UiO3M6MToiMCI7czo2OiJhY3Rpb24iO3M6MDoiIjtzOjU6ImludHJvIjtzOjA6IiI7czoxMDoiZ29vZHNfdHlwZSI7czoxOiIwIjtzOjU6InNjX2RzIjtzOjE6IjAiO3M6ODoib3V0c3RvY2siO3M6MToiMCI7czo0OiJwYWdlIjtzOjE6IjIiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNjA5NzE2O30=
+
+20160819 20:28:59
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLph5HngbYiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6ODoiZ29vZHNfaWQiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czo5OiJtaW5fcHJpY2UiO3M6MToiMCI7czo5OiJtYXhfcHJpY2UiO3M6MToiMCI7czo2OiJhY3Rpb24iO3M6MDoiIjtzOjU6ImludHJvIjtzOjA6IiI7czoxMDoiZ29vZHNfdHlwZSI7czoxOiIwIjtzOjU6InNjX2RzIjtzOjE6IjAiO3M6ODoib3V0c3RvY2siO3M6MToiMCI7czo0OiJwYWdlIjtzOjE6IjMiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNjA5NzM4O30=
+
+20160819 20:29:51
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLph5HngbYiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6ODoiZ29vZHNfaWQiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czo5OiJtaW5fcHJpY2UiO3M6MToiMCI7czo5OiJtYXhfcHJpY2UiO3M6MToiMCI7czo2OiJhY3Rpb24iO3M6MDoiIjtzOjU6ImludHJvIjtzOjA6IiI7czoxMDoiZ29vZHNfdHlwZSI7czoxOiIwIjtzOjU6InNjX2RzIjtzOjE6IjAiO3M6ODoib3V0c3RvY2siO3M6MToiMCI7czo0OiJwYWdlIjtzOjE6IjQiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNjA5NzkxO30=
+
+20160819 20:30:16
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLph5HngbYiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6ODoiZ29vZHNfaWQiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czo5OiJtaW5fcHJpY2UiO3M6MToiMCI7czo5OiJtYXhfcHJpY2UiO3M6MToiMCI7czo2OiJhY3Rpb24iO3M6MDoiIjtzOjU6ImludHJvIjtzOjA6IiI7czoxMDoiZ29vZHNfdHlwZSI7czoxOiIwIjtzOjU6InNjX2RzIjtzOjE6IjAiO3M6ODoib3V0c3RvY2siO3M6MToiMCI7czo0OiJwYWdlIjtzOjE6IjUiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNjA5ODE2O30=
+
+20160819 20:30:28
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLph5HngbYiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6ODoiZ29vZHNfaWQiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czo5OiJtaW5fcHJpY2UiO3M6MToiMCI7czo5OiJtYXhfcHJpY2UiO3M6MToiMCI7czo2OiJhY3Rpb24iO3M6MDoiIjtzOjU6ImludHJvIjtzOjA6IiI7czoxMDoiZ29vZHNfdHlwZSI7czoxOiIwIjtzOjU6InNjX2RzIjtzOjE6IjAiO3M6ODoib3V0c3RvY2siO3M6MToiMCI7czo0OiJwYWdlIjtzOjE6IjYiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNjA5ODI4O30=
+
+20160819 20:30:41
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLph5HngbYiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6ODoiZ29vZHNfaWQiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czo5OiJtaW5fcHJpY2UiO3M6MToiMCI7czo5OiJtYXhfcHJpY2UiO3M6MToiMCI7czo2OiJhY3Rpb24iO3M6MDoiIjtzOjU6ImludHJvIjtzOjA6IiI7czoxMDoiZ29vZHNfdHlwZSI7czoxOiIwIjtzOjU6InNjX2RzIjtzOjE6IjAiO3M6ODoib3V0c3RvY2siO3M6MToiMCI7czo0OiJwYWdlIjtzOjE6IjciO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNjA5ODQxO30=
+
+20160819 20:31:01
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLph5HngbYiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6ODoiZ29vZHNfaWQiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czo5OiJtaW5fcHJpY2UiO3M6MToiMCI7czo5OiJtYXhfcHJpY2UiO3M6MToiMCI7czo2OiJhY3Rpb24iO3M6MDoiIjtzOjU6ImludHJvIjtzOjA6IiI7czoxMDoiZ29vZHNfdHlwZSI7czoxOiIwIjtzOjU6InNjX2RzIjtzOjE6IjAiO3M6ODoib3V0c3RvY2siO3M6MToiMCI7czo0OiJwYWdlIjtzOjE6IjYiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNjA5ODI4O30=
+
+20160819 20:31:03
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/
+
+20160819 20:31:04
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/?u=940
+
+20160819 20:31:09
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:31:14
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 20:31:49
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?id=356
+
+20160819 20:31:50
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?u=940&id=356
+
+20160819 20:31:52
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:32:01
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/goods.php?id=32743
+
+20160819 20:32:02
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/goods.php?u=940&id=32743
+
+20160819 20:32:03
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32743&type=0&page=1&1471609923819819
+
+20160819 20:32:04
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?u=940&id=356
+
+20160819 20:32:05
+940-河池巴马粤发茗茶-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:48:35
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/
+
+20160819 20:48:36
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/?u=113
+
+20160819 20:48:41
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:49:28
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/activity.php
+
+20160819 20:49:33
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/activity.php?act=ajax_list
+
+20160819 20:49:40
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:49:46
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTYxMDk4Njt9
+
+20160819 20:49:48
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE2MTA5ODc7fQ==
+
+20160819 20:49:57
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 20:50:00
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjU6ImludHJvIjtzOjM6Im5ldyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE2MTEwMDA7fQ==
+
+20160819 20:50:25
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/user.php
+
+20160819 20:50:33
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 20:50:59
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?id=590
+
+20160819 20:50:59
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?u=113&id=590
+
+20160819 20:51:01
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=590&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:52:13
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 20:52:21
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160819 20:52:22
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?u=113&id=357
+
+20160819 20:52:23
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:53:24
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:53:33
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:53:45
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?id=557
+
+20160819 20:53:46
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?u=113&id=557
+
+20160819 20:53:46
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:54:09
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:54:30
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:54:46
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:55:08
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:55:08
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:55:28
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:56:34
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=590&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:56:40
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160819 20:57:26
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?id=417
+
+20160819 20:57:26
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?u=113&id=417
+
+20160819 20:57:27
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=417&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:57:52
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=417&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:58:02
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=417&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 20:58:13
+113-荔浦福建茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=417&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 21:14:03
+0--- http://www.chaligou.com/mobile/
+
+20160819 21:14:04
+0---001skYjM0Z7Sai2EBrgM0R71kM0skYjh http://www.chaligou.com/mobile/?code=001skYjM0Z7Sai2EBrgM0R71kM0skYjh&state=1
+
+20160819 21:14:04
+0--oybWRs1SzWHGoi70bMnvyW7TS3dE-011I95gt1w7WT80CvOit1UU5gt1I95gj http://www.chaligou.com/mobile/?code=001skYjM0Z7Sai2EBrgM0R71kM0skYjh&state=1&code=011I95gt1w7WT80CvOit1UU5gt1I95gj&state=1
+
+20160819 21:14:07
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE-011I95gt1w7WT80CvOit1UU5gt1I95gj http://www.chaligou.com/mobile/?u=1352&code=001skYjM0Z7Sai2EBrgM0R71kM0skYjh&state=1&code=011I95gt1w7WT80CvOit1UU5gt1I95gj&state=1
+
+20160819 21:14:14
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:27:50
+0--- http://www.chaligou.com/mobile/
+
+20160819 22:27:51
+0---011qjYak0Vn8Zh144Bbk0oWVak0qjYax http://www.chaligou.com/mobile/?code=011qjYak0Vn8Zh144Bbk0oWVak0qjYax&state=1
+
+20160819 22:27:53
+0--oybWRs4nkSf8lT1evLw-xp07-z8I-041HOVdu0wvUBp1ZcUdu0OrWdu0HOVdY http://www.chaligou.com/mobile/?code=011qjYak0Vn8Zh144Bbk0oWVak0qjYax&state=1&code=041HOVdu0wvUBp1ZcUdu0OrWdu0HOVdY&state=1
+
+20160819 22:27:56
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I-041HOVdu0wvUBp1ZcUdu0OrWdu0HOVdY http://www.chaligou.com/mobile/?u=1346&code=011qjYak0Vn8Zh144Bbk0oWVak0qjYax&state=1&code=041HOVdu0wvUBp1ZcUdu0OrWdu0HOVdY&state=1
+
+20160819 22:28:16
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/category.php?id=907
+
+20160819 22:28:17
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/category.php?u=1346&id=907
+
+20160819 22:28:23
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/category.php?act=ajax&category=907&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 22:28:38
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/goods.php?id=32570
+
+20160819 22:28:39
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/goods.php?u=1346&id=32570
+
+20160819 22:28:40
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/category.php?u=1346&id=907
+
+20160819 22:28:45
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I-041HOVdu0wvUBp1ZcUdu0OrWdu0HOVdY http://www.chaligou.com/mobile/?u=1346&code=011qjYak0Vn8Zh144Bbk0oWVak0qjYax&state=1&code=041HOVdu0wvUBp1ZcUdu0OrWdu0HOVdY&state=1
+
+20160819 22:28:48
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/
+
+20160819 22:28:57
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/?u=1346
+
+20160819 22:29:06
+1346-clg_1346-oybWRs4nkSf8lT1evLw-xp07-z8I- http://www.chaligou.com/mobile/
+
+20160819 22:34:11
+0--- http://www.chaligou.com/mobile/
+
+20160819 22:34:49
+0--- http://www.chaligou.com/mobile/
+
+20160819 22:34:55
+0---041GxrtV18RP191cuSrV1kAqtV1Gxrtn http://www.chaligou.com/mobile/?code=041GxrtV18RP191cuSrV1kAqtV1Gxrtn&state=1
+
+20160819 22:35:00
+0---0314Inok0o2ALh1TiJnk0juook04InoU http://www.chaligou.com/mobile/?code=041GxrtV18RP191cuSrV1kAqtV1Gxrtn&state=1&code=0314Inok0o2ALh1TiJnk0juook04InoU&state=1
+
+20160819 22:35:04
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-011ReHRu1N2Sm70SQGRu1RlGRu1ReHRZ http://www.chaligou.com/mobile/?code=041GxrtV18RP191cuSrV1kAqtV1Gxrtn&state=1&code=0314Inok0o2ALh1TiJnk0juook04InoU&state=1&code=011ReHRu1N2Sm70SQGRu1RlGRu1ReHRZ&state=1
+
+20160819 22:35:05
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s-011ReHRu1N2Sm70SQGRu1RlGRu1ReHRZ http://www.chaligou.com/mobile/?u=1340&code=041GxrtV18RP191cuSrV1kAqtV1Gxrtn&state=1&code=0314Inok0o2ALh1TiJnk0juook04InoU&state=1&code=011ReHRu1N2Sm70SQGRu1RlGRu1ReHRZ&state=1
+
+20160819 22:35:11
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:36:04
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjU6ImludHJvIjtzOjM6Im5ldyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE2MTczNjQ7fQ==
+
+20160819 22:36:16
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160819 22:39:24
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160819 22:39:32
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160819 22:39:38
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160819 22:39:50
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160819 22:48:36
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 22:48:36
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 22:48:38
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:48:55
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:49:01
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?id=5322
+
+20160819 22:49:02
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?u=1352&id=5322
+
+20160819 22:49:03
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=5322&type=0&page=1&1471618143207207
+
+20160819 22:49:03
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?act=price&id=5322&attr=&number=1&1471618143848848
+
+20160819 22:49:10
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 22:49:11
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:51:27
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 22:51:28
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 22:51:29
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:53:41
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 22:53:41
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 22:53:43
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:53:48
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php
+
+20160819 22:54:42
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 22:54:43
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 22:54:44
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:54:54
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php
+
+20160819 22:55:02
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php?act=profile
+
+20160819 22:55:08
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php
+
+20160819 22:55:29
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160819 22:55:30
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 22:55:32
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php
+
+20160819 22:55:36
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 22:55:37
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:55:41
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 22:55:41
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 22:55:42
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:56:12
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/
+
+20160819 22:56:13
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/?u=1294
+
+20160819 22:56:21
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/user.php
+
+20160819 22:56:32
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/user.php?act=logout
+
+20160819 22:56:43
+0--oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/index.php
+
+20160819 22:56:43
+0--oybWRs0gzlc76GwAzXKBVi6dAN6k-031FEC6D0kZQI92MbR8D0pSA6D0FEC6q http://www.chaligou.com/mobile/index.php?code=031FEC6D0kZQI92MbR8D0pSA6D0FEC6q&state=1
+
+20160819 22:56:47
+0--- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:56:48
+0--- http://www.chaligou.com/mobile/user.php
+
+20160819 22:56:49
+0---041YaCNN0PJAgh2G9yON0GdwNN0YaCNe http://www.chaligou.com/mobile/user.php?code=041YaCNN0PJAgh2G9yON0GdwNN0YaCNe&state=1
+
+20160819 22:56:51
+0---021LqI4R1I8XOV0fA46R1BKL4R1LqI4h http://www.chaligou.com/mobile/user.php?code=041YaCNN0PJAgh2G9yON0GdwNN0YaCNe&state=1&code=021LqI4R1I8XOV0fA46R1BKL4R1LqI4h&state=1
+
+20160819 22:56:52
+0--oybWRs0gzlc76GwAzXKBVi6dAN6k-0410xr6k2pc2YK0jbB4k2dKl6k20xr6j http://www.chaligou.com/mobile/user.php?code=041YaCNN0PJAgh2G9yON0GdwNN0YaCNe&state=1&code=021LqI4R1I8XOV0fA46R1BKL4R1LqI4h&state=1&code=0410xr6k2pc2YK0jbB4k2dKl6k20xr6j&state=1
+
+20160819 22:57:15
+0--- http://www.chaligou.com/mobile/user.php
+
+20160819 22:57:15
+0---041GJujX1JFQK71iTVkX1HyAjX1GJujz http://www.chaligou.com/mobile/user.php?code=041GJujX1JFQK71iTVkX1HyAjX1GJujz&state=1
+
+20160819 22:57:16
+0--oybWRs0gzlc76GwAzXKBVi6dAN6k-011l7S7P0yRNif2L4A8P0OWT7P0l7S7v http://www.chaligou.com/mobile/user.php?code=041GJujX1JFQK71iTVkX1HyAjX1GJujz&state=1&code=011l7S7P0yRNif2L4A8P0OWT7P0l7S7v&state=1
+
+20160819 22:57:20
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/
+
+20160819 22:57:20
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/?u=1294
+
+20160819 22:57:21
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 22:57:26
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods.php?id=32708
+
+20160819 22:57:26
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods.php?u=1294&id=32708
+
+20160819 22:57:28
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32708&type=0&page=1&1471618648194194
+
+20160819 22:57:28
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/goods.php?act=price&id=32708&attr=&number=1&1471618648432432
+
+20160819 22:57:35
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/?u=1294
+
+20160819 22:57:35
+1294-clg_1294-oybWRs0gzlc76GwAzXKBVi6dAN6k- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:03:26
+0--- http://www.chaligou.com/mobile/
+
+20160819 23:03:28
+0---021lf8d12HMFM31HFvb12RJ6d12lf8d6 http://www.chaligou.com/mobile/?code=021lf8d12HMFM31HFvb12RJ6d12lf8d6&state=1
+
+20160819 23:03:32
+0---021X18Fb09cvFI1l0oEb0QC5Fb0X18FN http://www.chaligou.com/mobile/?code=021lf8d12HMFM31HFvb12RJ6d12lf8d6&state=1&code=021X18Fb09cvFI1l0oEb0QC5Fb0X18FN&state=1
+
+20160819 23:03:35
+0--oybWRs9R1I41AKn0RDwdsgHmc2DA-021U7diM116hYZ0iXXjM1Ue9iM1U7di6 http://www.chaligou.com/mobile/?code=021lf8d12HMFM31HFvb12RJ6d12lf8d6&state=1&code=021X18Fb09cvFI1l0oEb0QC5Fb0X18FN&state=1&code=021U7diM116hYZ0iXXjM1Ue9iM1U7di6&state=1
+
+20160819 23:03:38
+1353-clg_1353-oybWRs9R1I41AKn0RDwdsgHmc2DA-021U7diM116hYZ0iXXjM1Ue9iM1U7di6 http://www.chaligou.com/mobile/?u=1353&code=021lf8d12HMFM31HFvb12RJ6d12lf8d6&state=1&code=021X18Fb09cvFI1l0oEb0QC5Fb0X18FN&state=1&code=021U7diM116hYZ0iXXjM1Ue9iM1U7di6&state=1
+
+20160819 23:03:45
+1353-clg_1353-oybWRs9R1I41AKn0RDwdsgHmc2DA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:04:11
+1353-clg_1353-oybWRs9R1I41AKn0RDwdsgHmc2DA- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:28:00
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 23:28:00
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 23:28:02
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:28:24
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/affiche.php?ad_id=34&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fsearch.php%3Fencode%3DYToyOntzOjg6ImtleXdvcmRzIjtzOjEyOiLlj6Tlj6Topb%2Fph4wiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxMzI3MjU0O30%3D
+
+20160819 23:28:24
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjEyOiLlj6Tlj6Topb/ph4wiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxMzI3MjU0O30=
+
+20160819 23:28:49
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czoxMjoi5Y%2bk5Y%2bk6KW/6YeMIjtzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6NToiYnJhbmQiO3M6MToiMCI7czo0OiJzb3J0IjtzOjg6Imdvb2RzX2lkIjtzOjU6Im9yZGVyIjtzOjQ6IkRFU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czowOiIiO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiIyIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTYyMDUyOTt9
+
+20160819 23:28:57
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czoxMjoi5Y%2bk5Y%2bk6KW/6YeMIjtzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6NToiYnJhbmQiO3M6MToiMCI7czo0OiJzb3J0IjtzOjg6Imdvb2RzX2lkIjtzOjU6Im9yZGVyIjtzOjQ6IkRFU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czowOiIiO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiIzIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTYyMDUzNzt9
+
+20160819 23:29:10
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czoxMjoi5Y%2bk5Y%2bk6KW/6YeMIjtzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6NToiYnJhbmQiO3M6MToiMCI7czo0OiJzb3J0IjtzOjg6Imdvb2RzX2lkIjtzOjU6Im9yZGVyIjtzOjQ6IkRFU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czowOiIiO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiIzIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTYyMDUzNzt9
+
+20160819 23:29:10
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czoxMjoi5Y%2bk5Y%2bk6KW/6YeMIjtzOjg6ImNhdGVnb3J5IjtzOjE6IjAiO3M6NToiYnJhbmQiO3M6MToiMCI7czo0OiJzb3J0IjtzOjg6Imdvb2RzX2lkIjtzOjU6Im9yZGVyIjtzOjQ6IkRFU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czowOiIiO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiIyIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTYyMDUyOTt9
+
+20160819 23:29:16
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 23:29:17
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 23:29:18
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:29:47
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020
+
+20160819 23:29:48
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/category.php?id=1020
+
+20160819 23:29:48
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/category.php?u=1352&id=1020
+
+20160819 23:29:49
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 23:29:59
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?id=32632
+
+20160819 23:29:59
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?u=1352&id=32632
+
+20160819 23:30:00
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32632&type=0&page=1&1471620600865865
+
+20160819 23:30:01
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?act=price&id=32632&attr=&number=1&1471620601468468
+
+20160819 23:30:10
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/category.php?u=1352&id=1020
+
+20160819 23:30:11
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160819 23:31:24
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/extpintuan.php
+
+20160819 23:31:27
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160819 23:31:32
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/extpintuan.php?act=list&type=2
+
+20160819 23:31:32
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/extpintuan.php?act=asynclist&type=2
+
+20160819 23:31:34
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/extpintuan.php?act=list&type=1
+
+20160819 23:31:35
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/extpintuan.php?act=asynclist&type=1
+
+20160819 23:31:36
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:31:47
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php?act=account_deposit
+
+20160819 23:31:49
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:31:52
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/
+
+20160819 23:31:53
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/?u=1352
+
+20160819 23:31:53
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:32:02
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/affiche.php?ad_id=30&uri=http://www.chaligou.com/mobile/goods.php?id=32690
+
+20160819 23:32:02
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?id=32690
+
+20160819 23:32:03
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?u=1352&id=32690
+
+20160819 23:32:04
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32690&type=0&page=1&1471620724340340
+
+20160819 23:32:05
+1352-clg_1352-oybWRs1SzWHGoi70bMnvyW7TS3dE- http://www.chaligou.com/mobile/goods.php?act=price&id=32690&attr=&number=1&1471620725255255
+
+20160819 23:34:39
+0--- http://www.chaligou.com/mobile/extpintuan.php?act=list&type=1
+
+20160819 23:57:02
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 23:57:03
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 23:57:06
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:57:09
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=profile
+
+20160819 23:57:16
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:57:19
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/flow.php
+
+20160819 23:57:22
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/
+
+20160819 23:57:23
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/?u=1350
+
+20160819 23:57:24
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:57:26
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:57:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/weixin/redirect.php?token=8d7f354dfa1a5bad0ae80ac3b240b692&t=1471598134&wxid=oybWRs70FeszKkPRusV0EbVKWvVE&url=mobile/user.php
+
+20160819 23:57:48
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:57:53
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=logout
+
+20160819 23:57:57
+0--oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index.php
+
+20160819 23:57:57
+0--oybWRs70FeszKkPRusV0EbVKWvVE-031WWO3w1tDB660j215w1nWL3w1WWO3T http://www.chaligou.com/mobile/index.php?code=031WWO3w1tDB660j215w1nWL3w1WWO3T&state=1
+
+20160819 23:57:58
+0--oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index.php
+
+20160819 23:57:58
+0--oybWRs70FeszKkPRusV0EbVKWvVE-021z43J425A5bI0N3hH42MS1J42z43JL http://www.chaligou.com/mobile/index.php?code=021z43J425A5bI0N3hH42MS1J42z43JL&state=1
+
+20160819 23:58:00
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index.php
+
+20160819 23:58:01
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index.php?u=1350
+
+20160819 23:58:02
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:58:03
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:58:10
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=logout
+
+20160819 23:58:14
+0--oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index.php
+
+20160819 23:58:15
+0--oybWRs70FeszKkPRusV0EbVKWvVE-011rJpJ22rqrL11kTxG22avsJ22rJpJl http://www.chaligou.com/mobile/index.php?code=011rJpJ22rqrL11kTxG22avsJ22rJpJl&state=1
+
+20160819 23:58:15
+0--oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index.php
+
+20160819 23:58:16
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE-011m8MA31jdSo12EADC31DOIA31m8MAO http://www.chaligou.com/mobile/index.php?code=011m8MA31jdSo12EADC31DOIA31m8MAO&state=1
+
+20160819 23:58:16
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE-011m8MA31jdSo12EADC31DOIA31m8MAO http://www.chaligou.com/mobile/index.php?u=1350&code=011m8MA31jdSo12EADC31DOIA31m8MAO&state=1
+
+20160819 23:58:17
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:58:21
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:58:29
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:58:39
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:58:39
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=collection_list
+
+20160819 23:58:42
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:58:42
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE-011m8MA31jdSo12EADC31DOIA31m8MAO http://www.chaligou.com/mobile/index.php?u=1350&code=011m8MA31jdSo12EADC31DOIA31m8MAO&state=1
+
+20160819 23:58:43
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:58:50
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160819 23:58:51
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:58:55
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160819 23:58:55
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160819 23:59:01
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php
+
+20160819 23:59:07
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160819 23:59:07
+1350-clg_1350-oybWRs70FeszKkPRusV0EbVKWvVE- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+

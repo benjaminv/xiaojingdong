@@ -1,0 +1,15 @@
+20160721 19:49:09
+0--- http://www.chaligou.cn/mobile/extpintuan.php
+
+20160721 19:49:11
+0--- http://www.chaligou.cn/mobile/extpintuan.php?act=asynclist&type=0
+
+20160721 19:49:53
+0--- http://www.chaligou.cn/mobile/extpintuan.php
+
+20160721 19:49:55
+0--- http://www.chaligou.cn/mobile/extpintuan.php?act=asynclist&type=0
+
+20160721 19:50:23
+0--- http://www.chaligou.cn/mobile/extpintuan.php?act=asynclist&type=0
+

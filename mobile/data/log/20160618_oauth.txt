@@ -1,0 +1,1359 @@
+20160618 00:03:45
+0--- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 00:03:45
+0---041Li1An10zv3w0Z99zn1a01An1Li1AN http://palenggege.com/mobile/lucky_buy.php?code=041Li1An10zv3w0Z99zn1a01An1Li1AN&state=1
+
+20160618 00:03:46
+0--o86iDs8cIa2N5pSZ6KhgrmvDgoAE-00126Gqb2xlmuA0eyLrb2tDFqb226GqN http://palenggege.com/mobile/lucky_buy.php?code=041Li1An10zv3w0Z99zn1a01An1Li1AN&state=1&code=00126Gqb2xlmuA0eyLrb2tDFqb226GqN&state=1
+
+20160618 00:03:47
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 00:03:58
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=218
+
+20160618 00:03:59
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=218
+
+20160618 00:03:59
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=218
+
+20160618 00:04:00
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 00:04:14
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 00:04:14
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 00:04:19
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=218
+
+20160618 00:04:20
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 00:04:21
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE-00126Gqb2xlmuA0eyLrb2tDFqb226GqN http://palenggege.com/mobile/lucky_buy.php?code=041Li1An10zv3w0Z99zn1a01An1Li1AN&state=1&code=00126Gqb2xlmuA0eyLrb2tDFqb226GqN&state=1
+
+20160618 00:04:22
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 00:04:26
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index.php
+
+20160618 00:04:26
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index.php?u=218
+
+20160618 00:04:29
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 00:04:52
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php
+
+20160618 00:04:53
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160618 00:04:59
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=list&type=2
+
+20160618 00:04:59
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=2
+
+20160618 00:05:00
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=list&type=1
+
+20160618 00:05:00
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=1
+
+20160618 00:05:02
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=list
+
+20160618 00:05:02
+0--- http://palenggege.com/mobile/extpintuan.php?act=list
+
+20160618 00:05:02
+0--- http://palenggege.com/mobile/extpintuan.php?act=list
+
+20160618 00:05:02
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160618 00:05:21
+0--- http://palenggege.com/mobile/extpintuan.php?act=list
+
+20160618 00:05:28
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=view&act_id=41&level=3&u=218
+
+20160618 00:05:28
+0--- http://palenggege.com/mobile/extpintuan.php?act=view&act_id=41&level=3&u=218
+
+20160618 00:05:28
+0--- http://palenggege.com/mobile/extpintuan.php?act=view&act_id=41&level=3&u=218
+
+20160618 00:05:54
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=list
+
+20160618 00:05:54
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160618 00:05:55
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=list&type=1
+
+20160618 00:05:55
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=1
+
+20160618 00:05:56
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=list&type=2
+
+20160618 00:05:57
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=2
+
+20160618 00:06:33
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php
+
+20160618 00:06:33
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160618 00:06:39
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php
+
+20160618 00:06:47
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=view&id=42&u=218
+
+20160618 00:07:22
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php
+
+20160618 00:07:32
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 00:07:33
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 00:07:36
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=218
+
+20160618 00:07:36
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 00:07:52
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=schedulelist&act_id=44
+
+20160618 00:07:53
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=asyncschedulelist&act_id=44
+
+20160618 00:07:53
+0--- http://palenggege.com/mobile/lucky_buy.php?act=schedulelist&act_id=44
+
+20160618 00:07:57
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=schedule_view&lucky_buy_id=6
+
+20160618 00:07:57
+0--- http://palenggege.com/mobile/lucky_buy.php?act=schedule_view&lucky_buy_id=6
+
+20160618 00:07:57
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=6
+
+20160618 00:08:06
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=schedulelist&act_id=44
+
+20160618 00:08:06
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=asyncschedulelist&act_id=44
+
+20160618 00:08:07
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=218
+
+20160618 00:08:07
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 00:08:08
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 00:08:08
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 00:08:42
+0--- http://palenggege.com/mobile/lucky_buy.php?act=schedule_view&lucky_buy_id=6
+
+20160618 00:10:57
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index.php
+
+20160618 00:10:59
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index.php?u=218
+
+20160618 00:11:00
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 00:11:10
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:11:23
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php
+
+20160618 00:11:23
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:11:36
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_tixian.php
+
+20160618 00:11:36
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_tixian.php?u=218
+
+20160618 00:11:39
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php
+
+20160618 00:11:39
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:11:41
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?user_id=218
+
+20160618 00:11:41
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:11:47
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php
+
+20160618 00:11:47
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:11:50
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:11:58
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/pre_sale.php?
+
+20160618 00:12:01
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/pre_sale.php?id=19
+
+20160618 00:12:02
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=31&type=0&page=1&1466179922908908
+
+20160618 00:12:11
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/pre_sale.php?
+
+20160618 00:12:13
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:12:17
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_deposit
+
+20160618 00:12:19
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:12:22
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=vc_login
+
+20160618 00:12:25
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:12:28
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=userlist
+
+20160618 00:12:33
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php
+
+20160618 00:12:36
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=view&id=40&u=218
+
+20160618 00:12:54
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php
+
+20160618 00:12:56
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=userlist
+
+20160618 00:12:58
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:12:58
+0--- http://palenggege.com/mobile/extpintuan.php?act=list
+
+20160618 00:12:58
+0--- http://palenggege.com/mobile/extpintuan.php?act=list
+
+20160618 00:13:03
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=affiliate
+
+20160618 00:13:53
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:14:03
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=bonus
+
+20160618 00:14:10
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:14:13
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=order_list
+
+20160618 00:14:13
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=ajax_order_list
+
+20160618 00:14:16
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:14:23
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_manage
+
+20160618 00:14:28
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_detail
+
+20160618 00:14:30
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_manage
+
+20160618 00:14:32
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_log
+
+20160618 00:14:33
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_manage
+
+20160618 00:14:35
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_raply
+
+20160618 00:14:39
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_manage
+
+20160618 00:14:41
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_deposit
+
+20160618 00:14:43
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_manage
+
+20160618 00:14:45
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=vc_login
+
+20160618 00:14:46
+0--- http://palenggege.com/mobile/lucky_buy.php?act=schedule_view&lucky_buy_id=6
+
+20160618 00:14:46
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=account_manage
+
+20160618 00:14:47
+0--- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=6
+
+20160618 00:14:48
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:14:51
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:15:01
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=my_comment
+
+20160618 00:15:03
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=my_comment&state=wait
+
+20160618 00:15:04
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=my_comment&state=finish
+
+20160618 00:15:05
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=my_comment&state=wait
+
+20160618 00:15:06
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=my_comment
+
+20160618 00:15:08
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:15:19
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=order_list&composite_status=102
+
+20160618 00:15:19
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=ajax_order_list
+
+20160618 00:15:22
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:15:26
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=address_list
+
+20160618 00:15:29
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=address
+
+20160618 00:15:45
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php?act=address_list
+
+20160618 00:15:48
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:15:49
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:15:56
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php
+
+20160618 00:15:57
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php?u=218
+
+20160618 00:16:14
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php
+
+20160618 00:16:16
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?user_id=218
+
+20160618 00:16:16
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:16:16
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/
+
+20160618 00:16:26
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?cat_id=1&user_id=218
+
+20160618 00:16:27
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?u=218&cat_id=1&user_id=218
+
+20160618 00:16:27
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?act=ajax&user_id=218&cat_id=1&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160618 00:16:32
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:16:32
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/
+
+20160618 00:16:34
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?cat_id=4&user_id=218
+
+20160618 00:16:34
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?u=218&cat_id=4&user_id=218
+
+20160618 00:16:35
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?act=ajax&user_id=218&cat_id=4&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160618 00:16:39
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:16:39
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/
+
+20160618 00:16:41
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php
+
+20160618 00:16:42
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php?u=218
+
+20160618 00:16:46
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php
+
+20160618 00:16:48
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?user_id=218
+
+20160618 00:16:49
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:16:50
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?cat_id=1&user_id=218
+
+20160618 00:16:51
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?u=218&cat_id=1&user_id=218
+
+20160618 00:16:51
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop_list.php?act=ajax&user_id=218&cat_id=1&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=
+
+20160618 00:16:55
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:17:02
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/goods.php?id=25&user_id=218
+
+20160618 00:17:03
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/goods.php?u=218&id=25&user_id=218
+
+20160618 00:17:04
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=25&type=0&page=1&146618022406464
+
+20160618 00:17:04
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/goods.php?act=price&id=25&attr=&number=1&1466180224298298
+
+20160618 00:17:27
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:17:28
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php
+
+20160618 00:17:30
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_catelog.php?u=218
+
+20160618 00:17:47
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:17:54
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_erweima.php?user_id=218
+
+20160618 00:17:55
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_erweima.php?u=218&user_id=218
+
+20160618 00:18:05
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:18:08
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?user_id=218
+
+20160618 00:18:08
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:18:10
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:18:13
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_huiyuan.php
+
+20160618 00:18:13
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_huiyuan.php?u=218
+
+20160618 00:18:19
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:18:25
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_huiyuan.php
+
+20160618 00:18:25
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_huiyuan.php?u=218
+
+20160618 00:18:28
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:18:30
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_notes.php
+
+20160618 00:18:31
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_notes.php?u=218
+
+20160618 00:18:32
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:18:34
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_shouyi.php
+
+20160618 00:18:34
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_shouyi.php?u=218
+
+20160618 00:18:36
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:18:41
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_dianpu.php
+
+20160618 00:18:41
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_dianpu.php?u=218
+
+20160618 00:18:50
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_dianpu_detail.php
+
+20160618 00:18:51
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_dianpu_detail.php?u=218
+
+20160618 00:18:54
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_dianpu.php?u=218
+
+20160618 00:18:56
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:19:00
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_news.php
+
+20160618 00:19:00
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_news.php?u=218
+
+20160618 00:19:06
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:19:13
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_shop.php?u=218&user_id=218
+
+20160618 00:19:15
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:19:17
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user_tixian.php?u=218
+
+20160618 00:19:19
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/v_user.php?u=218
+
+20160618 00:19:20
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/user.php
+
+20160618 00:19:53
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index.php?u=218
+
+20160618 00:19:55
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 00:35:40
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php
+
+20160618 00:35:44
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=view&id=40&u=218
+
+20160618 00:35:47
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=join&id=40
+
+20160618 00:35:47
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=cut_view&id=40&cut_id=29&u=218
+
+20160618 00:35:53
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php
+
+20160618 00:35:53
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=29&u=218
+
+20160618 00:36:29
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=cut_view&id=40&cut_id=29&u=218
+
+20160618 00:36:30
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php?act=view&id=40&u=218
+
+20160618 00:36:30
+218-youpin_218-o86iDs8cIa2N5pSZ6KhgrmvDgoAE- http://palenggege.com/mobile/cut.php
+
+20160618 00:42:31
+0--- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=29&u=218&from=singlemessage&isappinstalled=0
+
+20160618 00:42:34
+0---031r01Pc1Q5typ0JWPPc12k1Pc1r01Po http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=29&u=218&from=singlemessage&isappinstalled=0&code=031r01Pc1Q5typ0JWPPc12k1Pc1r01Po&state=1
+
+20160618 00:42:36
+0--o86iDs8cIa2N5pSZ6KhgrmvDgoAE-031IoCgD0OrHU92k7DhD0FyzgD0IoCgx http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=29&u=218&from=singlemessage&isappinstalled=0&code=031r01Pc1Q5typ0JWPPc12k1Pc1r01Po&state=1&code=031IoCgD0OrHU92k7DhD0FyzgD0IoCgx&state=1
+
+20160618 05:44:36
+159-wx_060813730-- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 05:44:38
+159-wx_060813730-- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 09:09:21
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=96592bb7e011be4b1f23061dbaf30da2&t=1466212149&wxid=o86iDs9SRh7nnNMp6L66sAAzKMZE&url=mobile/supplier_near.php
+
+20160618 09:09:21
+0---011DH0nC0UYOKa2wqrmC0SS6nC0DH0nq http://palenggege.com/mobile/weixin/redirect.php?token=96592bb7e011be4b1f23061dbaf30da2&t=1466212149&wxid=o86iDs9SRh7nnNMp6L66sAAzKMZE&url=mobile/supplier_near.php&code=011DH0nC0UYOKa2wqrmC0SS6nC0DH0nq&state=1
+
+20160618 09:09:22
+0--o86iDs9SRh7nnNMp6L66sAAzKMZE-021ZjURY1fxom51qujRY17bQRY1ZjUR4 http://palenggege.com/mobile/weixin/redirect.php?token=96592bb7e011be4b1f23061dbaf30da2&t=1466212149&wxid=o86iDs9SRh7nnNMp6L66sAAzKMZE&url=mobile/supplier_near.php&code=011DH0nC0UYOKa2wqrmC0SS6nC0DH0nq&state=1&code=021ZjURY1fxom51qujRY17bQRY1ZjUR4&state=1
+
+20160618 09:09:56
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:09:58
+0--- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:09:58
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160618 09:09:59
+0--- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:10:04
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php?act=list&type=2
+
+20160618 09:10:04
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=2
+
+20160618 09:10:10
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php?act=list&type=1
+
+20160618 09:10:11
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=1
+
+20160618 09:10:13
+0--- http://palenggege.com/mobile/extpintuan.php?act=list&type=1
+
+20160618 09:10:13
+0--- http://palenggege.com/mobile/extpintuan.php?act=list&type=1
+
+20160618 09:10:15
+219-youpin_219-- http://palenggege.com/mobile/user.php
+
+20160618 09:17:54
+0--- http://palenggege.com/mobile/extpintuan.php?act=list&type=1
+
+20160618 09:17:55
+0--- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=1
+
+20160618 09:19:07
+0--- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:19:08
+0--- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:19:08
+0--- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160618 09:19:09
+0--- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:19:23
+0--- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:19:55
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php
+
+20160618 09:19:56
+219-youpin_219-- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160618 09:20:01
+219-youpin_219-- http://palenggege.com/mobile/
+
+20160618 09:20:02
+219-youpin_219-- http://palenggege.com/mobile/?u=219
+
+20160618 09:20:05
+219-youpin_219-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 09:20:19
+219-youpin_219-- http://palenggege.com/mobile/pre_sale.php
+
+20160618 09:20:23
+219-youpin_219-- http://palenggege.com/mobile/pre_sale.php?id=29
+
+20160618 09:20:25
+219-youpin_219-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=26&type=0&page=1&1466212825710710
+
+20160618 09:22:31
+219-youpin_219-o86iDs9SRh7nnNMp6L66sAAzKMZE- http://palenggege.com/mobile/weixin/redirect.php?token=5b24c360deebb2b032713a37aaa36b1d&t=1466212946&wxid=o86iDs9SRh7nnNMp6L66sAAzKMZE&url=mobile/tuiguang.php?id=142
+
+20160618 09:22:31
+219-youpin_219-- http://palenggege.com/mobile/tuiguang.php?id=142
+
+20160618 09:22:32
+219-youpin_219-- http://palenggege.com/mobile/tuiguang.php?u=219&id=142
+
+20160618 09:22:44
+0--- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 09:22:44
+219-youpin_219-- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 09:22:45
+219-youpin_219-- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 09:22:46
+0--- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 09:22:50
+219-youpin_219-- http://palenggege.com/mobile/
+
+20160618 09:22:51
+219-youpin_219-- http://palenggege.com/mobile/?u=219
+
+20160618 09:22:53
+219-youpin_219-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 09:23:01
+0--- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 09:25:43
+0--- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 09:25:44
+0---011BqcP12A9rw31NT2S122XbP12BqcPU http://palenggege.com/mobile/lucky_buy.php?code=011BqcP12A9rw31NT2S122XbP12BqcPU&state=1
+
+20160618 09:25:44
+0--o86iDs2knYrO-gMkX64AywBUhxHI-001sDeY220JGm21fh4Y22NNfY22sDeYw http://palenggege.com/mobile/lucky_buy.php?code=011BqcP12A9rw31NT2S122XbP12BqcPU&state=1&code=001sDeY220JGm21fh4Y22NNfY22sDeYw&state=1
+
+20160618 09:25:49
+115-wx_053074201-o86iDs2knYrO-gMkX64AywBUhxHI- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 09:32:25
+219-youpin_219-- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 09:32:26
+219-youpin_219-- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 09:34:32
+219-youpin_219-o86iDs9SRh7nnNMp6L66sAAzKMZE- http://palenggege.com/mobile/weixin/redirect.php?token=11f2cea019cce07b17330137b3455289&t=1466213666&wxid=o86iDs9SRh7nnNMp6L66sAAzKMZE&url=mobile/goods.php?id=266
+
+20160618 09:34:32
+219-youpin_219-- http://palenggege.com/mobile/goods.php?id=266
+
+20160618 09:34:32
+219-youpin_219-- http://palenggege.com/mobile/goods.php?u=219&id=266
+
+20160618 09:34:34
+219-youpin_219-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=266&type=0&page=1&1466213674530530
+
+20160618 09:34:34
+219-youpin_219-- http://palenggege.com/mobile/goods.php?act=price&id=266&attr=&number=1&1466213674839839
+
+20160618 10:22:16
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php
+
+20160618 10:22:24
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/user.php?act=logout
+
+20160618 10:22:31
+0--o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php
+
+20160618 10:22:32
+0--o86iDs8DmXg4VXrStycbxCjH_j24-021CtIxK0FbISk29YXuK0L7LxK0CtIx2 http://palenggege.com/mobile/cut.php?code=021CtIxK0FbISk29YXuK0L7LxK0CtIx2&state=1
+
+20160618 10:22:38
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=view&id=42&u=39
+
+20160618 10:22:59
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=userlist
+
+20160618 10:23:02
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=9&u=39
+
+20160618 10:23:51
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php
+
+20160618 10:23:55
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=view&id=40&u=39
+
+20160618 10:24:17
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php
+
+20160618 10:24:20
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=view&id=42&u=39
+
+20160618 10:24:28
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=join&id=42
+
+20160618 10:24:29
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=view&id=42
+
+20160618 10:24:43
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=view&id=40&u=39
+
+20160618 10:24:48
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=join&id=40
+
+20160618 10:24:49
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/cut.php?act=view&id=40
+
+20160618 10:24:51
+0--- http://palenggege.com/mobile/cut.php
+
+20160618 10:24:51
+0---011iianx11Wke50Sr1mx1736nx1iian- http://palenggege.com/mobile/cut.php?code=011iianx11Wke50Sr1mx1736nx1iian-&state=1
+
+20160618 10:24:52
+0--o86iDswt5kpJ06Uv4Qbp0vW_gmcA-011G1FBI0V9Im32B0QAI0eqLBI0G1FB5 http://palenggege.com/mobile/cut.php?code=011iianx11Wke50Sr1mx1736nx1iian-&state=1&code=011G1FBI0V9Im32B0QAI0eqLBI0G1FB5&state=1
+
+20160618 10:25:00
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=view&id=42&u=7
+
+20160618 10:25:06
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 10:25:07
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 10:25:14
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=39
+
+20160618 10:25:16
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 10:25:16
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=join&id=42
+
+20160618 10:25:17
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=cut_view&id=42&cut_id=30&u=7
+
+20160618 10:25:27
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php
+
+20160618 10:25:27
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=schedulelist&act_id=44
+
+20160618 10:25:27
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=30&u=7
+
+20160618 10:25:28
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=asyncschedulelist&act_id=44
+
+20160618 10:25:29
+0--- http://palenggege.com/mobile/lucky_buy.php?act=schedulelist&act_id=44
+
+20160618 10:25:30
+0--- http://palenggege.com/mobile/lucky_buy.php?act=schedulelist&act_id=44
+
+20160618 10:25:42
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=schedule_view&lucky_buy_id=6
+
+20160618 10:25:43
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=6
+
+20160618 10:25:49
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=asyncschedulelist&act_id=44
+
+20160618 10:25:51
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=schedule_view&lucky_buy_id=5
+
+20160618 10:25:51
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php
+
+20160618 10:25:52
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=5
+
+20160618 10:25:54
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=view&id=40&u=7
+
+20160618 10:25:55
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=asyncschedulelist&act_id=44
+
+20160618 10:25:56
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 10:26:00
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=join&id=40
+
+20160618 10:26:00
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=cut_view&id=40&cut_id=31&u=7
+
+20160618 10:26:04
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=userlist
+
+20160618 10:26:05
+39-wx_05144101-o86iDs8DmXg4VXrStycbxCjH_j24- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 10:26:05
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=30&u=7
+
+20160618 10:26:10
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=buy
+
+20160618 10:26:10
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160618 10:26:10
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/flow.php?step=consignee
+
+20160618 10:26:21
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=30&u=7
+
+20160618 10:26:25
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=31&u=7
+
+20160618 10:26:29
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php
+
+20160618 10:26:29
+7-wx_05073292-o86iDswt5kpJ06Uv4Qbp0vW_gmcA- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=31&u=7
+
+20160618 10:30:25
+0--- http://palenggege.com/mobile/cut.php
+
+20160618 10:30:25
+0---001yZBiq1L5meu0YYAkq1riCiq1yZBiI http://palenggege.com/mobile/cut.php?code=001yZBiq1L5meu0YYAkq1riCiq1yZBiI&state=1
+
+20160618 10:30:26
+0--o86iDs3jaAwJjJp1wj6s-PLsdWVE-001z0cNz0vpTKk1GUyMz0RMbNz0z0cNx http://palenggege.com/mobile/cut.php?code=001yZBiq1L5meu0YYAkq1riCiq1yZBiI&state=1&code=001z0cNz0vpTKk1GUyMz0RMbNz0z0cNx&state=1
+
+20160618 10:30:33
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php?act=view&id=42&u=220
+
+20160618 10:31:26
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE-001z0cNz0vpTKk1GUyMz0RMbNz0z0cNx http://palenggege.com/mobile/cut.php?code=001yZBiq1L5meu0YYAkq1riCiq1yZBiI&state=1&code=001z0cNz0vpTKk1GUyMz0RMbNz0z0cNx&state=1
+
+20160618 10:31:33
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/user.php
+
+20160618 10:31:45
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php?act=userlist
+
+20160618 10:31:51
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php
+
+20160618 10:32:05
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/
+
+20160618 10:32:06
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/?u=220
+
+20160618 10:32:08
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 10:32:14
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NjIxNzEzNDt9
+
+20160618 10:32:15
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjYyMTcxMzU7fQ==
+
+20160618 10:32:27
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/goods.php?id=220
+
+20160618 10:32:27
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/goods.php?u=220&id=220
+
+20160618 10:32:28
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=220&type=0&page=1&1466217147398398
+
+20160618 10:32:28
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/goods.php?act=price&id=220&attr=&number=1&1466217147683683
+
+20160618 10:32:33
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 10:32:56
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php
+
+20160618 10:33:31
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php
+
+20160618 10:33:36
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/flow.php
+
+20160618 10:33:41
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/user.php
+
+20160618 11:37:08
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160618 11:37:09
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160618 11:37:16
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 11:37:17
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/user.php
+
+20160618 11:37:28
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 11:45:59
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160618 11:46:00
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160618 11:46:04
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 11:58:38
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160618 11:58:39
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160618 11:58:43
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 11:58:48
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/user.php
+
+20160618 12:05:46
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160618 12:05:47
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160618 12:05:50
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 12:05:57
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/user.php
+
+20160618 12:06:48
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 12:38:04
+136-060122486-- http://palenggege.com/mobile/index.php
+
+20160618 12:38:05
+136-060122486-- http://palenggege.com/mobile/index.php?u=136
+
+20160618 12:38:07
+136-060122486-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 12:38:27
+136-060122486-- http://palenggege.com/mobile/cut.php
+
+20160618 12:38:33
+136-060122486-- http://palenggege.com/mobile/cut.php?act=view&id=42&u=136
+
+20160618 12:38:37
+136-060122486-- http://palenggege.com/mobile/cut.php?act=join&id=42
+
+20160618 12:38:37
+136-060122486-- http://palenggege.com/mobile/cut.php?act=cut_view&id=42&cut_id=32&u=136
+
+20160618 12:38:42
+136-060122486-- http://palenggege.com/mobile/cut.php
+
+20160618 12:38:42
+136-060122486-- http://palenggege.com/mobile/cut.php?act=cut_view&cut_id=32&u=136
+
+20160618 12:38:59
+136-060122486-- http://palenggege.com/mobile/cut.php?act=cut_view&id=42&cut_id=32&u=136
+
+20160618 12:39:02
+136-060122486-- http://palenggege.com/mobile/cut.php?act=view&id=42&u=136
+
+20160618 12:39:25
+136-060122486-- http://palenggege.com/mobile/cut.php
+
+20160618 12:51:44
+0--- http://palenggege.com/mobile/index.php
+
+20160618 12:51:45
+0---031yl39D1BWLog03Pa9D1TL09D1yl39- http://palenggege.com/mobile/index.php?code=031yl39D1BWLog03Pa9D1TL09D1yl39-&state=1
+
+20160618 12:51:45
+0--o86iDs2nIycU8qFL0_WIa3zzInqc-001eacl00VtTXA12iMj00NZgl00eacl5 http://palenggege.com/mobile/index.php?code=031yl39D1BWLog03Pa9D1TL09D1yl39-&state=1&code=001eacl00VtTXA12iMj00NZgl00eacl5&state=1
+
+20160618 12:51:47
+209-youpin_209-o86iDs2nIycU8qFL0_WIa3zzInqc-001eacl00VtTXA12iMj00NZgl00eacl5 http://palenggege.com/mobile/index.php?u=209&code=031yl39D1BWLog03Pa9D1TL09D1yl39-&state=1&code=001eacl00VtTXA12iMj00NZgl00eacl5&state=1
+
+20160618 12:51:49
+209-youpin_209-o86iDs2nIycU8qFL0_WIa3zzInqc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 13:13:39
+0--- http://palenggege.com/mobile/index.php
+
+20160618 13:13:40
+0---031l2jml1awd8y0Mhrll1qUlml1l2jmm http://palenggege.com/mobile/index.php?code=031l2jml1awd8y0Mhrll1qUlml1l2jmm&state=1
+
+20160618 13:13:41
+0--o86iDs13fiN6t7yDmxGRy6kSpUbc-031l7eVB1vkNth0Vx4ZB11XiVB1l7eVb http://palenggege.com/mobile/index.php?code=031l2jml1awd8y0Mhrll1qUlml1l2jmm&state=1&code=031l7eVB1vkNth0Vx4ZB11XiVB1l7eVb&state=1
+
+20160618 13:13:42
+67-wx_052065530-o86iDs13fiN6t7yDmxGRy6kSpUbc-031l7eVB1vkNth0Vx4ZB11XiVB1l7eVb http://palenggege.com/mobile/index.php?u=67&code=031l2jml1awd8y0Mhrll1qUlml1l2jmm&state=1&code=031l7eVB1vkNth0Vx4ZB11XiVB1l7eVb&state=1
+
+20160618 13:13:49
+67-wx_052065530-o86iDs13fiN6t7yDmxGRy6kSpUbc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 16:07:03
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php
+
+20160618 16:07:09
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php?act=view&id=40&u=220
+
+20160618 16:08:00
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php?act=join&id=40
+
+20160618 16:08:00
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php?act=cut_view&id=40&cut_id=33&u=220
+
+20160618 16:08:10
+220-youpin_220-o86iDs3jaAwJjJp1wj6s-PLsdWVE- http://palenggege.com/mobile/cut.php?act=userlist
+
+20160618 17:43:00
+136-060122486-- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 17:43:01
+136-060122486-- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 17:43:11
+136-060122486-- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=136
+
+20160618 17:43:11
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=136
+
+20160618 17:43:11
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=136
+
+20160618 17:43:12
+136-060122486-- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 17:43:16
+136-060122486-- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 17:43:16
+136-060122486-- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160618 17:43:17
+136-060122486-- http://palenggege.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1466242997596596
+
+20160618 17:43:21
+136-060122486-- http://palenggege.com/mobile/flow.php?step=check_surplus_open&1466243001655655
+
+20160618 17:43:22
+136-060122486-- http://palenggege.com/mobile/flow.php?step=done
+
+20160618 17:43:44
+136-060122486--weixin http://palenggege.com/mobile/respond.php?code=weixin
+
+20160618 17:43:44
+136-060122486-- http://palenggege.com/mobile/lucky_buy.php?act=userlist
+
+20160618 17:43:45
+136-060122486-- http://palenggege.com/mobile/lucky_buy.php?act=asyncuserlist
+
+20160618 17:46:20
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/user.php?act=order_detail&order_id=291
+
+20160618 17:46:21
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/
+
+20160618 17:46:22
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/?u=1
+
+20160618 17:46:25
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:02:18
+0--- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 22:02:19
+0---011kN2vT0MihxT1xROxT0zv6vT0kN2vK http://palenggege.com/mobile/lucky_buy.php?code=011kN2vT0MihxT1xROxT0zv6vT0kN2vK&state=1
+
+20160618 22:02:19
+0--o86iDs5GRp0SFoypnTynQcWnbY_Q-001J0Ted1yOnZn09Rmed1AVVed1J0TeO http://palenggege.com/mobile/lucky_buy.php?code=011kN2vT0MihxT1xROxT0zv6vT0kN2vK&state=1&code=001J0Ted1yOnZn09Rmed1AVVed1J0TeO&state=1
+
+20160618 22:02:21
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 22:02:28
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=221
+
+20160618 22:02:29
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=221
+
+20160618 22:02:29
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=221
+
+20160618 22:02:30
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 22:02:32
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q-001J0Ted1yOnZn09Rmed1AVVed1J0TeO http://palenggege.com/mobile/lucky_buy.php?code=011kN2vT0MihxT1xROxT0zv6vT0kN2vK&state=1&code=001J0Ted1yOnZn09Rmed1AVVed1J0TeO&state=1
+
+20160618 22:02:33
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 22:02:59
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/weixin/redirect.php?token=ce38e88c7b9dffc5c67a607287603d1a&t=1466258569&wxid=o86iDs5GRp0SFoypnTynQcWnbY_Q&url=mobile/cut.php
+
+20160618 22:02:59
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/cut.php
+
+20160618 22:03:21
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index.php
+
+20160618 22:03:22
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index.php?u=221
+
+20160618 22:03:25
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:03:30
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/user.php
+
+20160618 22:03:48
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/user.php?act=bonus
+
+20160618 22:03:49
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/user.php?act=bonus
+
+20160618 22:04:03
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index.php
+
+20160618 22:04:04
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index.php?u=221
+
+20160618 22:04:06
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:04:09
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/auction.php
+
+20160618 22:04:28
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:04:30
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/exchange.php
+
+20160618 22:04:31
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/exchange.php?act=ajax_list
+
+20160618 22:04:35
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/exchange.php?display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=exchange_integral&order=DESC
+
+20160618 22:04:36
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/exchange.php?act=ajax_list
+
+20160618 22:04:41
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/exchange.php?act=ajax_list
+
+20160618 22:04:43
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/exchange.php?act=ajax_list
+
+20160618 22:04:46
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:04:53
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/auction.php
+
+20160618 22:05:27
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:05:48
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/catalog.php
+
+20160618 22:06:14
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:06:28
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/user.php
+
+20160618 22:06:29
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/catalog.php
+
+20160618 22:06:32
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/
+
+20160618 22:06:32
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/?u=221
+
+20160618 22:06:35
+221-youpin_221-o86iDs5GRp0SFoypnTynQcWnbY_Q- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160618 22:40:18
+0--- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 22:40:19
+0---011S4LDj1friKi08VJDj1jRNDj1S4LDp http://palenggege.com/mobile/lucky_buy.php?code=011S4LDj1friKi08VJDj1jRNDj1S4LDp&state=1
+
+20160618 22:40:19
+0--o86iDs9Ezo6SxOilSBWkZ5yeXTfY-03111Qf42oaiVI0fMPh42P9Of4211QfF http://palenggege.com/mobile/lucky_buy.php?code=011S4LDj1friKi08VJDj1jRNDj1S4LDp&state=1&code=03111Qf42oaiVI0fMPh42P9Of4211QfF&state=1
+
+20160618 22:40:21
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 22:40:32
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=190
+
+20160618 22:40:32
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=190
+
+20160618 22:40:33
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=190
+
+20160618 22:40:33
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 22:40:49
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/lucky_buy.php
+
+20160618 22:40:49
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160618 22:40:50
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/flow.php?step=consignee
+
+20160618 22:40:54
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=190
+
+20160618 22:40:55
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160618 22:47:38
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY-03111Qf42oaiVI0fMPh42P9Of4211QfF http://palenggege.com/mobile/lucky_buy.php?code=011S4LDj1friKi08VJDj1jRNDj1S4LDp&state=1&code=03111Qf42oaiVI0fMPh42P9Of4211QfF&state=1
+
+20160618 22:47:38
+190-youpin_190-o86iDs9Ezo6SxOilSBWkZ5yeXTfY- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160618 23:28:22
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160618 23:28:24
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160618 23:28:27
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+

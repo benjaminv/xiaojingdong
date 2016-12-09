@@ -1,0 +1,3108 @@
+20160611 00:09:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7cace1ff05e934bc5cbbd8745a68874a69d7469e&timestamp=1465574963&nonce=300089509&openid=o86iDs2t8KWI3g--m0o-rO2bR-ag
+
+20160611 00:09:25
+0--- http://palenggege.com/mobile/
+
+20160611 00:42:45
+0--- http://palenggege.com/mobile/brand.php?id=38
+
+20160611 06:03:48
+0--- http://palenggege.com/mobile/
+
+20160611 06:15:17
+0--- http://palenggege.com/mobile/
+
+20160611 06:42:45
+0--- http://palenggege.com/mobile/goods.php?id=282
+
+20160611 06:43:46
+0--- http://palenggege.com/mobile/
+
+20160611 07:18:44
+0--- http://palenggege.com/mobile/weixin/index.php?signature=55f655d68018379884ca50287c48a7c642f4902d&timestamp=1465600724&nonce=849171151&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:18:44
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a8ae7764d50bb17b7ccc2a05ab7609477bc59d93&timestamp=1465600724&nonce=1994584298&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:18:46
+0--- http://palenggege.com/mobile/weixin/index.php?signature=785cbf4c8c2753836bde38d2c86313b8d460222f&timestamp=1465600726&nonce=1061900135&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:18:47
+0--- http://palenggege.com/mobile/weixin/index.php
+
+20160611 07:18:52
+0--- http://palenggege.com/mobile/weixin/index.php?signature=774dfea1dca988a5857098bc685832fa23e40673&timestamp=1465600732&nonce=1960992269&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:18:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ac3845a73416f5195ac6ed066a21460141d4e2a0&timestamp=1465600738&nonce=724582885&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:19:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=df03c13662ccd4bfd90f0d344809e8c1766aff43&timestamp=1465600744&nonce=1201202617&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:19:10
+0--- http://palenggege.com/mobile/weixin/index.php?signature=20eefb1b05daa129b40c19569399dd66b4296627&timestamp=1465600750&nonce=8467579&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:27:00
+0--- http://palenggege.com/mobile/
+
+20160611 07:27:02
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 07:27:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1634d4eebdbd3caa2d3629fcab50af67d6e69307&timestamp=1465601224&nonce=1798982798&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:44:40
+0--- http://palenggege.com/mobile/
+
+20160611 07:44:53
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 07:44:53
+0--- http://palenggege.com/mobile/pre_sale.php?
+
+20160611 07:53:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6adbfee8383a967da66f2ba977d216db1664a050&timestamp=1465602827&nonce=817422519&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:53:51
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1f57fceea14a36985e703ca9f59266ce75f463cc&timestamp=1465602831&nonce=1438194950&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:53:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d66a95036b9519310298b689fee7a235f255e06f&timestamp=1465602833&nonce=1490778255&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:53:57
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/pre_sale.php
+
+20160611 07:53:57
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pre_sale.php
+
+20160611 07:58:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8ba837093f90091c47fa15d4bb1ab45a7444e5c3&timestamp=1465603139&nonce=1282451481&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:59:00
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/pre_sale.php
+
+20160611 07:59:00
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pre_sale.php
+
+20160611 07:59:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8452d694a548714bb3f52bb624a896f8009d6f02&timestamp=1465603148&nonce=1396028684&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 07:59:42
+0--- http://palenggege.com/mobile/
+
+20160611 07:59:45
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 08:35:41
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 08:41:40
+0--- http://palenggege.com/mobile/weixin/index.php?signature=19d4a2dbcd8b55030a050f01c71abbb6d7068991&timestamp=1465605700&nonce=1307862045&openid=o86iDszyPP_3Wc_EHq8lygyf6l3U
+
+20160611 08:41:46
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dd72995083fe60a687c56d4cbd79345e3d1e7690&timestamp=1465605706&nonce=2009986663&openid=o86iDszyPP_3Wc_EHq8lygyf6l3U
+
+20160611 08:41:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1ca74a8ad1da2948c14f56bbf35b9bbd64128bc1&timestamp=1465605709&nonce=448388997&openid=o86iDszyPP_3Wc_EHq8lygyf6l3U
+
+20160611 08:41:50
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/index.php
+
+20160611 08:41:52
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/index.php?u=141
+
+20160611 08:41:55
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 08:42:08
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/goods.php?id=259
+
+20160611 08:42:08
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/goods.php?u=141&id=259
+
+20160611 08:42:09
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=259&type=0&page=1&1465605729519519
+
+20160611 08:42:09
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/goods.php?act=price&id=259&attr=&number=1&1465605729758758
+
+20160611 08:42:13
+141-aaaaa-o86iDszyPP_3Wc_EHq8lygyf6l3U- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 08:42:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=60b3c8c61eecad64a1e644eb8b99ae8747e687de&timestamp=1465605740&nonce=1444529003&openid=o86iDszyPP_3Wc_EHq8lygyf6l3U
+
+20160611 08:48:39
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 08:59:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6f8f201826d266c7a8793170b2643855df48585e&timestamp=1465606782&nonce=706138922&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 08:59:46
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/pre_sale.php
+
+20160611 08:59:47
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pre_sale.php
+
+20160611 08:59:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f89e1a9bdbc1b8d39dc08c8ae03c6b70ec83f793&timestamp=1465606794&nonce=694444711&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 08:59:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=da822ca17e1ba8cd014d082d8be2157a6b992942&timestamp=1465606798&nonce=8710703&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:00:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e759f4f26eb84b8ec11e11145a8969852225ef22&timestamp=1465606804&nonce=1114988299&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:00:10
+0--- http://palenggege.com/mobile/weixin/index.php?signature=58d22cf7c67b9a9402123bc540260911855515de&timestamp=1465606810&nonce=614727087&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:00:16
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5b681955b7e38f0d10adf3f7a93809b529e606a1&timestamp=1465606816&nonce=1156468632&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:00:19
+1-寒冰-- http://palenggege.com/mobile/
+
+20160611 09:00:20
+1-寒冰-- http://palenggege.com/mobile/?u=1
+
+20160611 09:00:22
+1-寒冰-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 09:00:22
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b05eb9e452ffe162345028f3f615f58b30abd640&timestamp=1465606822&nonce=1567654760&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:00:29
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?
+
+20160611 09:01:51
+0--- http://palenggege.com/mobile/weixin/index.php?signature=62990347ff5a606140d58508bb1573224fad0757&timestamp=1465606911&nonce=1312470837&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:01:57
+0--- http://palenggege.com/mobile/weixin/index.php?signature=618e56626f3b9de59f100a4c1cc71fe4338570f1&timestamp=1465606917&nonce=1966113329&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:02:03
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0de5ec4d1b26715605e74d9a7c48555cbe63056b&timestamp=1465606923&nonce=1380343364&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:02:09
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e3cce36ddfc6c0a96b68181a18a8cbce01f0d0b1&timestamp=1465606929&nonce=1893280965&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:02:15
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9df85896f413e124280520b0ab3c414daf3a532c&timestamp=1465606935&nonce=790934095&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:08:08
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?
+
+20160611 09:10:18
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 09:10:27
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d335a6cbccc59a30f8c59132c087b1dd6db771bf&timestamp=1465607427&nonce=2073892707&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 09:11:55
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 09:17:05
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=17
+
+20160611 09:17:05
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 09:17:21
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=17
+
+20160611 09:17:21
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 09:26:38
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 09:35:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2345f1eb7138c9ef5a5321be58b1aee8a62b5977&timestamp=1465608918&nonce=1749753913&openid=o86iDs-zLAa3Fvf1v9me6mcbxWM0
+
+20160611 09:35:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=65dfbf291ee227d00133c278392a54c5c9500776&timestamp=1465608926&nonce=1082227416&openid=o86iDs-zLAa3Fvf1v9me6mcbxWM0
+
+20160611 09:35:29
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/weixin/redirect.php?token=16680d973fd169cc08ea266cecba2433&t=1465608926&wxid=o86iDs-zLAa3Fvf1v9me6mcbxWM0&url=mobile/goods.php?id=284
+
+20160611 09:35:30
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?id=284
+
+20160611 09:35:30
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?u=159&id=284
+
+20160611 09:35:31
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=16680d973fd169cc08ea266cecba2433&t=1465608926&wxid=o86iDs-zLAa3Fvf1v9me6mcbxWM0&url=mobile/goods.php?id=284
+
+20160611 09:35:31
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=16680d973fd169cc08ea266cecba2433&t=1465608926&wxid=o86iDs-zLAa3Fvf1v9me6mcbxWM0&url=mobile/goods.php?id=284
+
+20160611 09:35:31
+159-wx_060813730-- http://palenggege.com/mobile/goods.php?id=284
+
+20160611 09:35:31
+0--- http://palenggege.com/mobile/goods.php?id=284
+
+20160611 09:35:32
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=284&type=0&page=1&1465608932982982
+
+20160611 09:35:33
+0--- http://palenggege.com/mobile/goods.php?u=159&id=284
+
+20160611 09:35:35
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?act=price&id=284&attr=&number=1&1465608936243243
+
+20160611 09:35:44
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php
+
+20160611 09:35:45
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php?u=159
+
+20160611 09:35:47
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 09:35:47
+0--- http://palenggege.com/mobile/index.php?u=159
+
+20160611 09:35:48
+0--- http://palenggege.com/mobile/index.php?u=159
+
+20160611 09:37:02
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?id=26
+
+20160611 09:37:02
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?u=159&id=26
+
+20160611 09:37:03
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=26&type=0&page=1&1465609023684684
+
+20160611 09:37:03
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?act=price&id=26&attr=&number=1&1465609023877877
+
+20160611 09:37:16
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php
+
+20160611 09:37:17
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php?u=159
+
+20160611 09:37:19
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 09:37:20
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/user.php
+
+20160611 09:37:26
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user.php
+
+20160611 09:37:26
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user.php?u=159
+
+20160611 09:37:33
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user_catelog.php
+
+20160611 09:37:34
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user_catelog.php?u=159
+
+20160611 09:37:39
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user_erweima.php?user_id=159
+
+20160611 09:37:40
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user_erweima.php?u=159&user_id=159
+
+20160611 09:37:42
+0--- http://palenggege.com/mobile/v_user_erweima.php?u=159&user_id=159
+
+20160611 09:37:42
+0--- http://palenggege.com/mobile/v_user_erweima.php?u=159&user_id=159
+
+20160611 09:37:44
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user_erweima.php?user_id=159
+
+20160611 09:37:44
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/v_user_erweima.php?u=159&user_id=159
+
+20160611 09:42:45
+0--- http://palenggege.com/mobile/brand.php?id=47
+
+20160611 09:46:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=05ed218d498c858b11c5e4b8beea0d0f7205f9c7&timestamp=1465609597&nonce=1945646733&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:46:39
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a62428c65820d04bb2a3b509f7dbba8974c4369f&timestamp=1465609599&nonce=1922273565&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:46:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=32cf841580ce9f0afa137f609fa56e37a600c1dc&timestamp=1465609602&nonce=1787305970&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:46:46
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a26bee4f041550afbaaee5595cfa2d5390368a47&timestamp=1465609606&nonce=880168263&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:46:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ee0489495bcae8700b26638c06d7e7d13db125dc&timestamp=1465609609&nonce=1643351173&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:46:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f961c9dc56665ccea6b0685e082aa2e413ac008c&timestamp=1465609615&nonce=1392046006&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:46:57
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f38449ef85114ed4d3144464159f42c10a2c3406&timestamp=1465609617&nonce=1101172494&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:47:01
+5-刘德华-- http://palenggege.com/mobile/weixin/redirect.php?token=32ce1b325e56989ae7aa2a2b4ede4612&t=1465609617&wxid=o86iDsyl_a9tDwc6gIXYCl-h0UDU&url=mobile/user.php
+
+20160611 09:47:02
+5-刘德华-- http://palenggege.com/mobile/user.php
+
+20160611 09:47:04
+0--- http://palenggege.com/mobile/user.php
+
+20160611 09:47:05
+0--- http://palenggege.com/mobile/user.php
+
+20160611 09:47:08
+5-刘德华-- http://palenggege.com/mobile/
+
+20160611 09:47:09
+5-刘德华-- http://palenggege.com/mobile/?u=5
+
+20160611 09:47:11
+5-刘德华-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 09:47:13
+5-刘德华-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 09:53:49
+5-刘德华-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 09:54:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=12dc254e26fcc1c7db5a1c9fb91a7871004d534e&timestamp=1465610040&nonce=555902423&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9eff21ab6541f6ed775eb721ef2e4f9ce9c52afc&timestamp=1465610046&nonce=463025637&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=bf1c450c6519cec692b3063d3246bbcc920311ae&timestamp=1465610052&nonce=1640743178&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=40c24e01801c955bf5f5c5b259e5c21b85121fcb&timestamp=1465610058&nonce=517215958&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d11e8b636f156a6dfea3e4b65549e1fa953d04ae&timestamp=1465610064&nonce=1878603115&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=abba53ca807609a310b50f7f96ece726b457317d&timestamp=1465610070&nonce=2014576098&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=43c842deabdeec54cdba7380a727af1accaa4063&timestamp=1465610076&nonce=1312759826&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8b7b9840a8ffbc17d4b74a29eea60bf89f911ed9&timestamp=1465610082&nonce=1464360721&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b72646629abca0ea761ff6e8af6de467fd7744e4&timestamp=1465610088&nonce=476126497&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:54:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=33527ada0e36ca8032ea08ad7c9fb620504c6dc8&timestamp=1465610094&nonce=1399685473&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0a02a4fb66597a71ea4b0249e1e81802c1f74780&timestamp=1465610100&nonce=1831432123&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9023325984161bb1851bbbcca5e10ea75e75d2c3&timestamp=1465610106&nonce=47092364&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=cc2c596e36ebfbf51185b8dab65b9d83f7841307&timestamp=1465610112&nonce=1135715906&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=babc06a6020b691d1b19be04625f82803e462f0b&timestamp=1465610119&nonce=1828505782&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=609c518650515e592644be96b00d154f1240b991&timestamp=1465610125&nonce=1983843637&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=66629c72965b9beba017e62f9e60eda9e676cc0e&timestamp=1465610131&nonce=1199680812&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=74de0fc13b053c827896a4162f9c0e8134964b26&timestamp=1465610137&nonce=1650603625&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=417a899bae44261b1122068b61187cb1317cd0d0&timestamp=1465610143&nonce=1739166760&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=273814c041eeac0ad28684c6b45f757f4d4c16d3&timestamp=1465610149&nonce=1901349831&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:55:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a3b14e653f7e3f3a2795ee5c7a0199248682d5c1&timestamp=1465610155&nonce=1624097200&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=64419ac49638b9ce31c89d7637eb09f1da4d320a&timestamp=1465610161&nonce=347070555&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a7afe0a1e30bf910de31eb7be39cece18d71e5ce&timestamp=1465610167&nonce=361806594&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=888a68126d51d55c6c7b767a921b59a9160c6a7a&timestamp=1465610173&nonce=1003818911&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5a5fd0a2c8c923e783c4afaebc53f558c519ce39&timestamp=1465610179&nonce=1192062049&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8ee350815e32b93c9bd0d64d2799d627ea0f9781&timestamp=1465610185&nonce=710838165&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9d08ca9edeb23d3828f77f80ca08b92c02c233b6&timestamp=1465610191&nonce=1172937105&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=eae49de5ac61ad3e52c3a0bd42cbdd3cf599d805&timestamp=1465610197&nonce=1069062118&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b45a1603863ecb9c7a0cdafb6d9cc8f41f5c540c&timestamp=1465610203&nonce=152858835&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9da68d9fda9341a3340832cfb0e0fd9168e3c800&timestamp=1465610209&nonce=760709777&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:56:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7d1ef50a224762a37b48be5d7d1f544549edb0eb&timestamp=1465610215&nonce=1799427430&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=39c602bfa815b650cdf5819cc229bdd2db2263ae&timestamp=1465610221&nonce=2034648205&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1788f75a1fa1cb58d053bfc11e6e74245f507333&timestamp=1465610227&nonce=1794395523&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d97345e720635e4e23955c306ae7bedf300d1a8f&timestamp=1465610233&nonce=1716910324&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6ad5356edcf92d5a964b7f45e83db2fb1af1d619&timestamp=1465610239&nonce=908773625&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=365f7283005818c39b5fe58afad7223cbab2d930&timestamp=1465610245&nonce=1576996645&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1240aa5a4b94b1a139a1d64a6e576e921ebdfd7f&timestamp=1465610251&nonce=81212437&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1317188402d92123342fc7e0ebd9646af2c52cfb&timestamp=1465610257&nonce=424388872&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b546703b41b6997f525f7ab8befa233d04f193cc&timestamp=1465610263&nonce=1058411880&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6c51cd158150789ec4e2e82395576b364198a902&timestamp=1465610270&nonce=348102136&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:57:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3e5389b881a466022c568623c08915734a86507c&timestamp=1465610275&nonce=1162991716&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:02
+0--- http://palenggege.com/mobile/weixin/index.php?signature=58a377843c1015a85f7384c90ec2004028e7c3d1&timestamp=1465610281&nonce=7146697&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fc82da62fad5e774224961515c62f05352d89087&timestamp=1465610287&nonce=1667220793&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4bf0b1112e45ed241ff8a576e05c0febc142d88e&timestamp=1465610294&nonce=2110044102&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=810338047a7e2d897c500d8da34502374ab2682b&timestamp=1465610298&nonce=1956976363&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f632f72976c206d09c482bc1cad785d9738a4103&timestamp=1465610304&nonce=1123530824&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0a5a53cb92c9cd460d879f3cb36432ce2822b620&timestamp=1465610310&nonce=464742721&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ea6ca96b908617c71793654c5afce1d3dc71c607&timestamp=1465610316&nonce=878773098&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=def869043e771caaa7f927fb8697d3cbfe04a5a3&timestamp=1465610321&nonce=224437220&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b0498d6ff59718ab2839aeedb43a7e9ec81771e8&timestamp=1465610327&nonce=105062&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f83883b3bdffe4480fb8c628a018574359e9ce05&timestamp=1465610334&nonce=1933898197&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:58:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c596e4e4a0e9bd859a69b0e79a86a7b36abd212b&timestamp=1465610339&nonce=2087387807&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e5c145474f6f48ce07ef98253b66166296bb909c&timestamp=1465610345&nonce=921391067&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2500b26ab4b39d0ddbcd027ebdb1b2d14b3c4cf2&timestamp=1465610351&nonce=2112129628&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=41f5e7aaaafa0632a2a6358d819247499541e4f4&timestamp=1465610357&nonce=936694585&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ca7c05e64144aa098bc372378450f29be7ce3363&timestamp=1465610364&nonce=1484271724&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=26a195edaf31d52d51663867ced1e0115840f50a&timestamp=1465610369&nonce=67366989&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e2b8feb570c4ac27bc3181bbece0f9e5c925e6df&timestamp=1465610376&nonce=1800122381&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=425bea66a241d6f752c9e91672b0f13457490607&timestamp=1465610382&nonce=1407316954&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=17e77deed2af050bfaebc9c257f5238a724efdba&timestamp=1465610387&nonce=2079319734&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 09:59:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=86f49620bbbef15f0b060f37b4ce2c0bad31d6df&timestamp=1465610393&nonce=1031093317&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9314d93b15929846a1f211e25e5e61ff05297efc&timestamp=1465610400&nonce=1282358700&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b111452c1db04f0fa7b47fd370becabc5985f70c&timestamp=1465610406&nonce=602745776&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2a9bd8adbcf4e793d151938b6b2cf04a89d96257&timestamp=1465610411&nonce=422254168&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a694fe5bbd64df5a53f74ad79758cbdcabab445b&timestamp=1465610417&nonce=264704762&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=71613a2a5f043ebac94f70b6193acaf3f0f6e997&timestamp=1465610423&nonce=291831854&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=22ae32c36a38a3ebb532fbc92f6116864d32458a&timestamp=1465610429&nonce=953818482&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3875f0b6fb51250a51ca2f0e1c062c702a7afef8&timestamp=1465610436&nonce=1204703101&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a3ebf971ac93fb127561600391b6b14274e26b41&timestamp=1465610441&nonce=1135988043&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:46
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8c4172cc20e449c96200cd35c60eea3c4387969a&timestamp=1465610446&nonce=1176987208&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:52
+0--- http://palenggege.com/mobile/weixin/index.php?signature=39c05512ef14ab1f4bca4faf8fe489acc2d346f1&timestamp=1465610452&nonce=792105966&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:00:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=afc1561fd48546c6d4bbb182b117ac3965bf5937&timestamp=1465610458&nonce=404562605&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7a7f9bdd133328b13c3302526808f4339169f44f&timestamp=1465610464&nonce=1490202214&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:10
+0--- http://palenggege.com/mobile/weixin/index.php?signature=70f4b3d0904075a14597c0df0c7a4a45f619abba&timestamp=1465610470&nonce=1300330218&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:16
+0--- http://palenggege.com/mobile/weixin/index.php?signature=cf9914a527a9f14db93986a76faf54c3c4260397&timestamp=1465610476&nonce=1569909261&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:22
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5fb934d9813a4878325cada43dc74c3fd71b36e2&timestamp=1465610482&nonce=624237125&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:28
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ff38eefa832927c978343d30a9e1373e8444f3be&timestamp=1465610488&nonce=1747140230&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:34
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2f5bfaa390032cf4fcbcdddb25807bcc4451918a&timestamp=1465610494&nonce=1604444595&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:40
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d157477759a0f01213ff3ee7f249cb32df50c438&timestamp=1465610500&nonce=1988498909&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:46
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a3e8ea33290b9d5e516a700c4a121d3053df5259&timestamp=1465610506&nonce=6974050&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:52
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2b78132a98256e9bb3512e891baa61f85ebc2580&timestamp=1465610512&nonce=1797762446&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:01:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=562c338450eb71cd272df4b520aa307ce25a2298&timestamp=1465610518&nonce=408205428&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f34de08b14eed1bd58bc80e3b22fdf11662ff0f7&timestamp=1465610524&nonce=1286002078&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:10
+0--- http://palenggege.com/mobile/weixin/index.php?signature=daea98edcc8f667ff159fe5bac0f04bc4a77d12a&timestamp=1465610530&nonce=1493931459&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:16
+0--- http://palenggege.com/mobile/weixin/index.php?signature=12dd2a5fd58ea2177be1ec2b292eabf5f92419bd&timestamp=1465610536&nonce=1735819847&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:22
+0--- http://palenggege.com/mobile/weixin/index.php?signature=60e75202fc1855423c57b6cf162fe0cf2322f844&timestamp=1465610542&nonce=1277615957&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:28
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4015cbaf26669314978adb0ca963aa4c7b426e00&timestamp=1465610548&nonce=1061324696&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:34
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1ba824a2118988836990f2ebdaa7167e88520f09&timestamp=1465610554&nonce=424699965&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:40
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b1489c94d03296a7d00a123172f5709e02c122e0&timestamp=1465610560&nonce=796383650&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:46
+0--- http://palenggege.com/mobile/weixin/index.php?signature=06a095e8eba162c5bebe9d194cb5c80c3ae7d483&timestamp=1465610566&nonce=2090692640&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:52
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4d3825405f19b326f57ccceb635e913de76e9aaf&timestamp=1465610572&nonce=1868708756&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:02:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=36f12fefe9b66284fc937f4d9c8569c74b407f18&timestamp=1465610578&nonce=862538620&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=cd0c1eec3daca4d8bae904dfd60008498ad7414a&timestamp=1465610585&nonce=1859277104&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dc88cdfd80c0e596ec24c0c99e4aaf0956b94f6a&timestamp=1465610590&nonce=1494465840&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f80ef4efb02e2a710d104e4952417e95c4d5f32a&timestamp=1465610596&nonce=575119469&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a907214a38b0a85debb952b10f2dedecfe3f34af&timestamp=1465610602&nonce=2089040501&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2a469edfadcc55481e88cdef053c16bd313fd78c&timestamp=1465610608&nonce=1472404638&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b3fa5b44485680574e019a32d573267d6baf3a5e&timestamp=1465610615&nonce=1783146281&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2e9d381de7bfe6f5b57a0376048dc88bc5deea20&timestamp=1465610620&nonce=937541147&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=55936f2327622b04dc1842d8c036e29e6dcffd7d&timestamp=1465610626&nonce=317094073&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=63d3812520b062760c11e95aa488b4c7c06facae&timestamp=1465610632&nonce=1582326815&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:03:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=bb1157d3c1bd618d8f2c1f16a4961f6b327386e8&timestamp=1465610639&nonce=1545052093&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=32e8cea6e7739439097f0d847a933a590a75c432&timestamp=1465610644&nonce=893817236&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=68c6f24ecc6a5b1d0d865ae8924772c8863d07a9&timestamp=1465610651&nonce=52659273&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9d733d1d30d18f23078efc77b61f6b125dad6ba4&timestamp=1465610657&nonce=578611639&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a79939a350b67cca8d0b78aaa3bc9ee820f2e29a&timestamp=1465610663&nonce=793922707&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a6fc478d309933940392e62013b791f8bb1faa3b&timestamp=1465610669&nonce=2015335114&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=225dd3a259248c49957c4d7a545dad20bb4246cc&timestamp=1465610675&nonce=1739397824&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=22d6caeabb6694c92d213e4f66a08c8dc0d62cd7&timestamp=1465610681&nonce=702517526&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7309668cc979661e01ee6329d1831b4293aff114&timestamp=1465610687&nonce=816419712&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dfd704f4af8dedda635627fb48b970d284cf5667&timestamp=1465610693&nonce=1534063405&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:04:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7c8eea86be2f5e573472924af7ac7bed3a93b3ca&timestamp=1465610699&nonce=1395145210&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f0090c092a692a2ef8385d9f4184c720ef2e53ef&timestamp=1465610705&nonce=2033633613&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=aacf6025b5ddbc5a021862da014498119e6b751b&timestamp=1465610711&nonce=1206129395&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3f849bf8bb3afe7800f270470b1c7b0984360c60&timestamp=1465610717&nonce=1402702900&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=68fb4ed6525e4935bfccab0f940e52b74d7225a9&timestamp=1465610723&nonce=940554576&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=70dcb7ed416f5f1afe891eaca612cffd62da40ba&timestamp=1465610729&nonce=435007155&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=02e5211efc05defd936a8c5e6b3fee1a189193ef&timestamp=1465610735&nonce=179501487&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=789c5fe0424e4b21289a53b48aba92868609a616&timestamp=1465610741&nonce=2061688850&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=38c97b51b3e173d76921ff02ee823f18d30a97bf&timestamp=1465610747&nonce=508154723&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6565ccf450acbd166b55b011613cfbcc9dfdd1ae&timestamp=1465610753&nonce=525197879&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:05:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=22e9e79e6139ab13f143002fced90f6def8f5e7f&timestamp=1465610759&nonce=960948863&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8573e8b68d429c6fbb03fa7958d504a9a8d9bd74&timestamp=1465610765&nonce=439942265&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=35cb96a6cfc087f42ec1acfdf2095be4f5decb65&timestamp=1465610771&nonce=1887747490&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=495b643ef3744a79ffe65cd65dbfbdc755b93934&timestamp=1465610777&nonce=87623136&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=70a3010c058404f4f6e25ff2e47657868c5d9156&timestamp=1465610783&nonce=1188408449&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=be23e87d5f094d7ddd6127e55fdb281821727bc7&timestamp=1465610789&nonce=624081353&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ed7066f41f34c3e9e4939f5c7e8cfb4be4fa4530&timestamp=1465610795&nonce=1830760077&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=af406989fe6545fe791d7b8901fc2ba4df210c25&timestamp=1465610801&nonce=1052998470&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:44
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/auction.php
+
+20160611 10:06:44
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/auction.php
+
+20160611 10:06:45
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/auction.php
+
+20160611 10:06:45
+0--- http://palenggege.com/mobile/auction.php
+
+20160611 10:06:46
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/auction.php
+
+20160611 10:06:46
+1-寒冰-- http://palenggege.com/mobile/auction.php
+
+20160611 10:06:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8b06b1fa93392e01ab32c4213a7504785a7705ea&timestamp=1465610807&nonce=1278936527&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c41f928d72e699dce89d362400afa74711409184&timestamp=1465610813&nonce=1686341218&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:06:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a819698154778c58fb02ee2585501c13118501f6&timestamp=1465610819&nonce=768412273&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:04
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/auction.php?act=view&id=24
+
+20160611 10:07:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c76b89c7f04893311fb7402d6d88ca9624ee941f&timestamp=1465610825&nonce=779899987&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:06
+0--- http://palenggege.com/mobile/auction.php?act=view&id=24
+
+20160611 10:07:08
+0--- http://palenggege.com/mobile/auction.php?act=view&id=24
+
+20160611 10:07:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4d3b702060c18bd37156e78aa3baee36614e1fdf&timestamp=1465610831&nonce=654725593&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d6f5bbe7797a3ef6d61e6548a82385f1ed0de6b5&timestamp=1465610837&nonce=1738874937&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5c7c8abbffe9f2a5a066b7a4d1e1a8b86b40fe6f&timestamp=1465610839&nonce=92849276&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 10:07:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9a4ed35ef5a0b7ae10e0ab2161b666bfc91e59ed&timestamp=1465610843&nonce=1615099603&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=93bf3d046fde5de35b20973f2eb360215457447d&timestamp=1465610849&nonce=1282301769&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2c9c009b0cfde46458a1afa3455fe8d14af92f43&timestamp=1465610855&nonce=1244520146&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2f779dc6cfafb27012df2496d4fddf744b72f8de&timestamp=1465610861&nonce=1127491758&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=31fd11089afd45bab8917b4d2319096ca34548f1&timestamp=1465610867&nonce=357095000&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=11404535c2f6d4066e3fb1f8acc074474711dd95&timestamp=1465610873&nonce=63285415&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:07:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1f5f4d614a8892c2bd16ac25cdb4daf62ca8a858&timestamp=1465610879&nonce=29219390&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6cdc85b43f2db4607fb6ccb3735aba68f49a0180&timestamp=1465610885&nonce=2096378580&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e8bbfc1c3928faf656074506697c76bea1eacdba&timestamp=1465610891&nonce=1719453414&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2df6f6a7accec480dd399156079527117cd01c98&timestamp=1465610897&nonce=323000136&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=00c2da5a295f513ceabf5759c4b5730bc5fc580d&timestamp=1465610903&nonce=1972961276&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=83346c43858210817ad3758ce0011d469d02ab1e&timestamp=1465610909&nonce=627882777&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2c796859af4dcf1d38d03cc8aa01b4e7c9f94209&timestamp=1465610915&nonce=625853959&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=65c55f2463e7cce7e7c1f8d033305e4b70e461ae&timestamp=1465610922&nonce=654949501&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4dec1ee5770291fe4c383fd1fe31c41063494525&timestamp=1465610927&nonce=1075349369&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a9e3cedf47c6db55c0076334c3e759bcf30f6ca5&timestamp=1465610933&nonce=727621866&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:08:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=16810a35694c22f0315866f3ab87f60bb47835f2&timestamp=1465610939&nonce=700882779&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=464a743a8381d572b8ae7e9ff0a4971d3929fa4c&timestamp=1465610946&nonce=226925538&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9b20cb17aab2f3f1c3b1ee2dc8d134694dcfe9d1&timestamp=1465610952&nonce=633736751&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=32affebaafc9241ae37bcec5decfb9dedd8a2530&timestamp=1465610957&nonce=112496886&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0d86219a2b517a5a3d30b75278eb719c59151b09&timestamp=1465610964&nonce=1792706211&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=64c97aef59b11270f078e485f5f05ea75f0f96b9&timestamp=1465610970&nonce=1318160502&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dc6af44ebc6ed93d88782899e9b9cae7674f486d&timestamp=1465610976&nonce=940721473&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2f009e4774fbb16b9e3e3fa0bd61e469553aed15&timestamp=1465610982&nonce=1684389263&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=659e4fff8e22a0dfa7b3f9c1df8e37b612d34bbd&timestamp=1465610988&nonce=1729077003&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:09:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3104a0faa40c4e9d4e51c456866abe6e4b5f13dd&timestamp=1465610994&nonce=1794750349&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2312916f314ba7b895b374e0ae03ba097c69e085&timestamp=1465611000&nonce=1331195711&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5fe4921bf8ad654979d716a2dbfd904025fc0df4&timestamp=1465611006&nonce=1947828081&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e11d42a37050abebf1620772103a9859daf10163&timestamp=1465611012&nonce=249628063&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=173799e40d2571c582efdb4faffb793438eaa281&timestamp=1465611018&nonce=1830184981&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=385cdd5fb3339d7cc1583e5ba68762d22063a1e5&timestamp=1465611024&nonce=935050468&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=24f8fc1b4c9ef2d658804d7394de06541d51fb0a&timestamp=1465611030&nonce=1625964647&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2a2119a6611d43a8eeaed6a75ebd34523ddcc4a1&timestamp=1465611036&nonce=374669084&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0e144d165975ef943ecf7249f6283e857c75d1fe&timestamp=1465611042&nonce=992032892&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=de3ef226ab459d9708c3f5a3edd23cc531da6d5c&timestamp=1465611048&nonce=892464031&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:10:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e6ae4abded87f7fe8bc93ae1ae32e373f911aa97&timestamp=1465611054&nonce=1684395655&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1c3895bd72419accb068492e19e240df70cdb4f7&timestamp=1465611060&nonce=1500781662&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=84109c9764c6b2ae280d3bece8ae12d7246fb7eb&timestamp=1465611066&nonce=1853849705&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5787fb3fe995d3a532b488def6dba54073613039&timestamp=1465611072&nonce=1500935450&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7faefea5c963074dcab793c95933846d458cbdc5&timestamp=1465611078&nonce=1063639594&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a974f3e3fe3d7ba196099af42c3541ea78e59792&timestamp=1465611084&nonce=1231672676&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4e6bc81c632704f8dd6a77723f2f4258c1eaf9a1&timestamp=1465611090&nonce=787145226&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a7f8e95b7d19af7fc58c02eda6c661b0480e1e94&timestamp=1465611096&nonce=647137895&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=56470d4c10d413253e339c4e422723b7766c10e4&timestamp=1465611102&nonce=1309497773&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5322a9464bbd018532f771f98a26acd25247e7a1&timestamp=1465611108&nonce=1124818869&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:11:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0d987b9cc236ae2b77e500dc53345cf709441e52&timestamp=1465611114&nonce=2023373629&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a338908a5ccc2b76b7b0ec8dbdcadec4118032d2&timestamp=1465611120&nonce=1268178866&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f43694177ad172251311d52ba2e4cb425e48ee02&timestamp=1465611126&nonce=791613424&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a36f5ce5c3a23a156b8ceab7292ea121f21ae7bf&timestamp=1465611132&nonce=1739274221&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c0f5c14042229bed05476965bbacdc15aefaa1a7&timestamp=1465611138&nonce=68545493&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4435a765ca0421bc19d541c5f259e5aa4092aee1&timestamp=1465611144&nonce=1320012235&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fe433fcc2880383e2cd11b6673a39d090564afc4&timestamp=1465611150&nonce=1321834900&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0fbb0782e1265abf12a0b18134ccb24d2b7529da&timestamp=1465611156&nonce=936158874&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ff7333b31a57586e2c7e75abf853fdd0ce46b076&timestamp=1465611163&nonce=1653145169&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=829549ec7a75d889197091e6a0ae4641d801dfe2&timestamp=1465611168&nonce=1001416317&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:12:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3581d94bd02806b53654d9a59521e65706a524db&timestamp=1465611174&nonce=566802746&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9cad01726b7e84f2556ccb7cdf7075e210820ba2&timestamp=1465611181&nonce=216351125&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=833b74fff51715587dccf62dd86ce9731d561378&timestamp=1465611187&nonce=592374714&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=eb9143db21058674395179168480bf823cc4050d&timestamp=1465611193&nonce=1071615456&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=468bacf4386b41b2d67f8e7d2293de1dba555e85&timestamp=1465611198&nonce=338521371&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=663467c200d7d1b4cbc69cc13cd6502deda8bddd&timestamp=1465611205&nonce=82764752&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:32
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2ffa7e8ff1c9b8dde3a8b78ba5c4ed1558968a88&timestamp=1465611212&nonce=402833101&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=86c87d3d2a0e646849c2353341f2a49008864bcb&timestamp=1465611216&nonce=282602684&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d29b38bedbf309593c79d98a7c4e10266f0b80b0&timestamp=1465611223&nonce=109887080&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2e1be2ffb842ffb7490f4446661681cd14ce12e0&timestamp=1465611229&nonce=368063526&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:13:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7e4835e6d72a1e4b4c9c3fdc7466e0952c17ccd2&timestamp=1465611235&nonce=365147073&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9d4ccda744b2b73c5df738b633f9c3e14ede1742&timestamp=1465611241&nonce=347127781&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ee96beac3caf088f4195b2ae47b8ed83faff0673&timestamp=1465611247&nonce=1391490135&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6c6d4c1ab3bf57c8959f351ad18f667fd8157c1f&timestamp=1465611253&nonce=548815329&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a953097fa87e5e4bfebcbc04aa4f2a89fe2a46ac&timestamp=1465611259&nonce=1077108434&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0bbddbcf377f2d3c9808120253b3d22007ed1064&timestamp=1465611265&nonce=1226967857&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=04da4a7eedeb32f80a748b297f5252ddd48e725b&timestamp=1465611271&nonce=1929362465&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ca7bd474e390b2bb07bdac70db6e117a7e8866f9&timestamp=1465611276&nonce=1611927599&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c88e8b3db2ea1b59383eea02d5370b3eba7ae19f&timestamp=1465611282&nonce=1766234617&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f38cb8db4ffcdb0f3641d4aed8aae00932bb2aa6&timestamp=1465611288&nonce=2136187084&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:14:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fbdaa64381787b7d5eb8273ab12556c76c3e036b&timestamp=1465611294&nonce=100588052&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3cfa093689bff798e70ec68e9d159f967f4f1fa1&timestamp=1465611300&nonce=108621787&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=85ebaab802602b6fe64b26bbbfc521c98db393b5&timestamp=1465611306&nonce=1466274607&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2dad561595dd18b0bc84d52ba81090ad35122f52&timestamp=1465611312&nonce=959898596&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e4cc343c3228e8741cc245b7810f1e389315b689&timestamp=1465611318&nonce=1753675446&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c56ba8b6a29f8caf950aece122c32366868dfc77&timestamp=1465611324&nonce=1276720857&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=778e09bbb02f6312e51820cd010b5bb4f5877ceb&timestamp=1465611330&nonce=46035813&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=80c8ba8c636e3ecfb2cd195bb4018d142bcc45fa&timestamp=1465611336&nonce=1095172971&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8a238846e497587468dadf6cfffb6104cc664449&timestamp=1465611342&nonce=213399648&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=863362063debf1f55ecf0d24b592fd12709fbfec&timestamp=1465611348&nonce=370880247&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:15:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=78101327916cbc117ecffbebe4eeb5e77405ea2f&timestamp=1465611354&nonce=41661712&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4866be91412afbcb90c386ef1ecbb433062bba9b&timestamp=1465611360&nonce=877763837&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:05
+0--- http://palenggege.com/mobile/activity.php
+
+20160611 10:16:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3d28333edd6c7998dc48eedff87a9c91c01f291a&timestamp=1465611366&nonce=65749428&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7ce5767bf5f61c970299dde2508800c92c7e621b&timestamp=1465611372&nonce=1300414343&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d6f19422e60e0398abb879f23d2a68ad1177b4e9&timestamp=1465611378&nonce=1458991244&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4500f18332db570254326b4421766199042cf8ac&timestamp=1465611384&nonce=1025578170&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fe2645fc588a588f2427b076d4738c0a3a3245ab&timestamp=1465611391&nonce=297706783&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3d38876c51ce9c7d03ee322bd31ad9a139f2e1f4&timestamp=1465611397&nonce=1029585954&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=375b98274b6ea4972a4edd35785c4f280e5c015b&timestamp=1465611403&nonce=1741217835&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=60c3b5e25c2e0328de67ac159ac7aad6b08e8bc9&timestamp=1465611409&nonce=778029339&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:16:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fbc96990ddc6231e99893d26d0c7a5c597af0ba0&timestamp=1465611415&nonce=602677040&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=88215c855d3cbf430d578365df0fbbe1ad8dd13a&timestamp=1465611421&nonce=326850005&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dcf8c9801e907054dcdab1c2a26b1f07219a84d6&timestamp=1465611427&nonce=1490190783&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8392bf4cf339551544bb74a0babee6c5165ebc6e&timestamp=1465611433&nonce=56896516&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8886775b046af43740a4dccb8d54f485d9fa45b0&timestamp=1465611439&nonce=712795453&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1e3131d512b3aaea2599d03481d2cd0763bd02ce&timestamp=1465611445&nonce=1832312724&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=42b58283524b746f84f9af0f6369cd2ec43e2433&timestamp=1465611451&nonce=1605379511&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=82989197863ad647ee5421d4693ede92dda411d1&timestamp=1465611457&nonce=6637466&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=828f7887be6cfcaf3257d1583686259d317e9f6f&timestamp=1465611463&nonce=1054521260&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2939ba32c4f41111911f41dadde99c23493c6989&timestamp=1465611469&nonce=1273878138&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:17:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c9534bd106ca4000f5d3cc24380eeb1ac14b7f7a&timestamp=1465611475&nonce=545702715&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=08e95528cd044fc8013c37887833ca324e1059e9&timestamp=1465611481&nonce=1046390099&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=96d3d83741e8bf090cf90f67915c1e5043e0d98d&timestamp=1465611487&nonce=1297576345&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4d0e480a971a90eaeba089319aebbb1645631698&timestamp=1465611493&nonce=950551581&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3027c1d6ec740129363daf4789f27e39ea114df7&timestamp=1465611499&nonce=296293447&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7cdbb78679e0caaee7734820d672ff55a820990e&timestamp=1465611505&nonce=2005108841&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=867fe9ac29a553dce77f255fb884ef23bc4ee3d1&timestamp=1465611511&nonce=954817363&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f828b73044cb4e2003c7a74907d551036d45ff5e&timestamp=1465611517&nonce=556978629&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d3fb7e67cee27f36bf3c560c96f7b338a4a0ce05&timestamp=1465611523&nonce=1718186880&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b134157e51602ded8482d5d60fb958cd130ca754&timestamp=1465611529&nonce=1865009915&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:18:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9261c376b90cb13a9281d7eac7ab914ab4be008f&timestamp=1465611535&nonce=1120828443&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=083cdb3698dab18db377ed4e37c863f19ffc54cc&timestamp=1465611541&nonce=2071244411&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3cd3c14f4710b884fc9892f9fdf724867deb41b0&timestamp=1465611547&nonce=201116491&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1ee7ebebb83d60f6fb15dabda468e5a616e5a145&timestamp=1465611553&nonce=896136285&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b29640dfbdc0f2d565d62465502d6a49dd2d01ef&timestamp=1465611559&nonce=996573851&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1bbc9e1dce8f1dd193b07b0dda5c77008d0ae6eb&timestamp=1465611565&nonce=613591948&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f58dda309e0820dd01a688dce51f8c7c2cbd6b33&timestamp=1465611571&nonce=769757651&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=311b86ffd86f5d7a76168eb2cb2f8701d7e3028e&timestamp=1465611577&nonce=1222580558&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ca6b7556689a7b2e0e72e994871440c8dcfd812f&timestamp=1465611583&nonce=1005932731&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=950e192abb9b565e7e83f799b73ba749572492e1&timestamp=1465611589&nonce=470080341&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:19:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9fa4e65384aeec304263a688be61dfcfe5bde3fb&timestamp=1465611595&nonce=913336431&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f9a5630b94250a613c1bec1757e8931503fedc10&timestamp=1465611601&nonce=2012851458&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8d0051a1c0e08fac1b4037c8240b4634ff17c336&timestamp=1465611607&nonce=97426174&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a10ea0e87842eb154cd530eca088b65054c14fc1&timestamp=1465611613&nonce=997000601&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=358c18ca4345af2c200b04cad4c2f8074eefdcca&timestamp=1465611619&nonce=638320937&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b94c985353909891c3420f57fdab9749e84de66c&timestamp=1465611625&nonce=1891920530&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=66a77e5bbb853d415ba314dfc5be99216a218b2d&timestamp=1465611631&nonce=193254268&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ec559493d129864516555b7ab6772d3c8bfb9179&timestamp=1465611637&nonce=1987558189&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ccd3d3465b6ff6365895c1cb8c73f334372ca45d&timestamp=1465611643&nonce=1522398207&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=097f7c1e24d37feed4a5e730b310f1a6f957d9a2&timestamp=1465611649&nonce=586363026&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:20:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a56da560432376e2531cf4148ca579cf00209ad1&timestamp=1465611655&nonce=1726659782&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1eb2a32985cbe2c53809adaa48d354d7f57f1085&timestamp=1465611661&nonce=2116241759&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0bace546543b50a258d517877ca22ed708fbe1b9&timestamp=1465611667&nonce=1779704077&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3a2d7dc8f6812ad64e94379a297c55b3066ec882&timestamp=1465611674&nonce=627347960&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6255ab97ac08771f0e7d9d02dd4d612e2e4b4da7&timestamp=1465611680&nonce=737786677&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=58ed34aeaf051909791bb037fb7a2f1c699009e7&timestamp=1465611684&nonce=2139540245&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=088ec777cc33a0b1dcaf057faf4c673f22eda14d&timestamp=1465611690&nonce=255180231&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=03b29607c92824db0fbcb98a90b815dddea68472&timestamp=1465611697&nonce=1528211134&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=03a9e152901d686fdc3a44401a272c64d3315e08&timestamp=1465611702&nonce=2016386263&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0f1740b50e9e0bb55e72b89c294637c6fd600a66&timestamp=1465611708&nonce=552530484&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:21:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=eb1f2ffc3a3c20fa4cee242047fcfb485427750f&timestamp=1465611714&nonce=1902809947&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e82db5cfcffa3a218876cd964005bdd87ca9d8c2&timestamp=1465611720&nonce=775549531&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5d8a3b9f3799de7deb1f3fd8291697182ec5dfc7&timestamp=1465611726&nonce=1662681150&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ab2c7402c005e1bf8083b1dc5149654601820b04&timestamp=1465611732&nonce=813600160&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=12d82463d676086f30ab167d6dcee35c38414bae&timestamp=1465611737&nonce=215004769&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=019635db70e34f63d4d15f9479cdbdcbd6b51cd0&timestamp=1465611743&nonce=1836351337&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dc5d84e10b13129920918156cdc760fa619d5654&timestamp=1465611749&nonce=2134680739&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=652e2a41b95b4cd1b500a311f081ad6cfad93837&timestamp=1465611755&nonce=1072369313&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=361ab7d96df71ec788e39f28fcc36c204d6b3743&timestamp=1465611761&nonce=622959851&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=198860db192de811f7480fd2aa08f717c036a91b&timestamp=1465611767&nonce=2129916034&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5c9f7ae4c0c823dac8f87514e62c83d3c208a6e1&timestamp=1465611773&nonce=1234334485&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:22:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fb18d7572b5655e041d0b81b5a98a160b0f7fa9e&timestamp=1465611779&nonce=318062908&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1eb669cb44c9a297b9f7421ba224a2048a79248f&timestamp=1465611785&nonce=689639972&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2ba6553e5345f2e945cd72711b44b5bfd5d69d4b&timestamp=1465611791&nonce=16116311&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=57287879e818d067b1084bda53a63372ddd97fca&timestamp=1465611797&nonce=1923148423&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=252d1a94a2af67feed0b225799ccb95443e87073&timestamp=1465611803&nonce=1387553432&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=88a280bfded5ab973b21b2fe206fa90aefc6f56a&timestamp=1465611809&nonce=374632320&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3c29a007120bab46bb0585478fac4de0403043ef&timestamp=1465611815&nonce=475893628&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=bfdad171138434ccf6aee43603278037fc8f0bbc&timestamp=1465611821&nonce=165919499&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f3f037ada819054c49e2a3d160919a8f2c0b6356&timestamp=1465611827&nonce=687432701&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=67fddf6e35e03c437797201d5ad7c43c99abd668&timestamp=1465611833&nonce=590355443&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:23:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c2dfdec24fd7ac29569c54b00b07bf7d150be8ed&timestamp=1465611839&nonce=572408690&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b64540e127d7ffd331677d5b00229aec51ad3923&timestamp=1465611845&nonce=591181061&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=62679a05e72cda61a1ce2e43cff4541d50687a49&timestamp=1465611851&nonce=1206954492&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=17ba90cabdff14e9bd08485dc4c4e37192743e1b&timestamp=1465611857&nonce=927185056&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=34df7589312dcc704173244e3e5c1b92cbe9465a&timestamp=1465611863&nonce=86428716&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ab11cc87aa334a9ce13aa3e338eb1a13b27ec621&timestamp=1465611869&nonce=1795300708&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8519ac67a451a50d40360467578e5218be25dc94&timestamp=1465611875&nonce=452256453&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=43b671296dc94450370c84bec8b769fb2eea7acc&timestamp=1465611881&nonce=769548353&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=cf77eac6714dd746c864574dc03b16afabade765&timestamp=1465611887&nonce=103623732&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=34758fec68c3652b0be818bd6f13b1964e805418&timestamp=1465611893&nonce=381222987&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:24:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0d0f9e55bfa38c2f4fdd8fcff6575d2a00c1165b&timestamp=1465611899&nonce=413752019&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:05
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a08960ca2b4f0654a68e009f0b0313f85f477310&timestamp=1465611905&nonce=1547129589&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=33a6b70dbffa2ea24d4c6e53012889a983b0ac3c&timestamp=1465611911&nonce=1236351085&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:17
+0--- http://palenggege.com/mobile/weixin/index.php?signature=49748ef2bda346559e018ca25a8af6ce0e9ffbec&timestamp=1465611917&nonce=1823945739&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9611040e9a872bbb96a157f483b3b7893ff9db8e&timestamp=1465611923&nonce=2112488888&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8b5dba195eb8fad3ebf24a3876fdb90fd299f9d0&timestamp=1465611929&nonce=1375712089&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=afab779f95ea10ba9a19419ebd140167b1d06cae&timestamp=1465611935&nonce=2082221039&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=10bbd839920d195ef743424450c4a14d5f56abd2&timestamp=1465611941&nonce=1312504854&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=18baa103c5a0c092ec2cf53de1da75705b94687e&timestamp=1465611947&nonce=302199809&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:52
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0aeae4912771170263b613aab42e0c0683c84c0b&timestamp=1465611952&nonce=1459602349&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:25:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=66dab76dfa75cadb17a52dca73490f9c39af1ea2&timestamp=1465611958&nonce=906318182&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:02
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c7894afa1f5a08f51d0014f5e781a35487610d7f&timestamp=1465611962&nonce=1611635955&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=442c0f4d38ef4fc9da5f01b82940c6a608ba37b9&timestamp=1465611968&nonce=1312063960&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d8888a73242ee1382cb072c9e8ff5997d31344d4&timestamp=1465611974&nonce=48633281&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:21
+0--- http://palenggege.com/mobile/weixin/index.php?signature=354cfd505dde671c4dc63118f744204fff46ae43&timestamp=1465611980&nonce=13514169&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=253dbe38c0bcabc5ed8de7d98ee5370b4c369023&timestamp=1465611986&nonce=1420430974&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:32
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0862378369ecf4a79eac63d4160624db5ed738bc&timestamp=1465611992&nonce=409858711&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:38
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9cfa9c9a76efe9ff975b9dadcbd9b0f9f4ed625a&timestamp=1465611998&nonce=1418314183&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:44
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7a8dab097729467e60d247b079cee04d50110928&timestamp=1465612004&nonce=1136969194&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f0a392205ea6b9b658dd1edad4b3cf196c9ced69&timestamp=1465612010&nonce=367636994&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:26:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=70385e417e5b84ac836e2ef6d59a261107a27bc3&timestamp=1465612016&nonce=1914911995&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:02
+0--- http://palenggege.com/mobile/weixin/index.php?signature=feb473e66472f02e32ed784760abf081151f269f&timestamp=1465612022&nonce=1150395949&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=bef21aca47ba3201e5b4862062cad6805a9981de&timestamp=1465612028&nonce=697503038&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=528bcc79ce939692bc2d7ee77f63c76c314ee120&timestamp=1465612034&nonce=372035107&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a4ee736d4da1a5b67cebb627a5621dd63d6a32c0&timestamp=1465612040&nonce=1412439389&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=26a3998a3fc775913931ac233c8178f897fed12f&timestamp=1465612046&nonce=1175485688&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:32
+0--- http://palenggege.com/mobile/weixin/index.php?signature=06e3af7b34c86802f2d1f980b59332d1e7e624ce&timestamp=1465612052&nonce=233892825&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:38
+0--- http://palenggege.com/mobile/weixin/index.php?signature=14551846625d4fd751675b0bc29a621ef976ec4b&timestamp=1465612058&nonce=1136720669&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:44
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b2d39e1152ad97a16db96003860c53552ccf8c59&timestamp=1465612064&nonce=1059161234&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=167a8f53c82191eaeebde89949be021b798ffb87&timestamp=1465612070&nonce=2138056954&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:27:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ca791c105312547ecde78a109c0e3e819d9fbd8b&timestamp=1465612076&nonce=957964114&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:03
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9b220d5854a16014bcf1dfb2c83c8d5f9d083b86&timestamp=1465612083&nonce=478917855&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=223990c5ac1a5149468097df1bc7693f70775f8e&timestamp=1465612088&nonce=1861723309&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b9392e1172492511ce0853fcafa52d4e84a3caa3&timestamp=1465612094&nonce=1020948201&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=459156da4fc08bcda1f66adb0b27b445d4e3ff9f&timestamp=1465612100&nonce=1782707302&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=401a3ef78b5e98a995dd62ac217f69e855499ca3&timestamp=1465612106&nonce=1545255728&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:32
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fd1fe990d131b9a2194d4b86a0a6755a7507eb2e&timestamp=1465612112&nonce=2008242645&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:38
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5779785bf9ff0e39c8cc06e9cbd47566dd776715&timestamp=1465612118&nonce=543502510&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:44
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9d0c0877fdb8fcf5cc9daa8543ed033f4876ef42&timestamp=1465612124&nonce=787202472&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=80c03cb2c64a7be27a6303f3abb0f489efb660e3&timestamp=1465612129&nonce=1896692367&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:28:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8cc533f559e3033714017e949a1f3cd37c57301a&timestamp=1465612135&nonce=615616088&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:29:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8d8455c312df5a587ebd92f6c87ed7974e60a5c4&timestamp=1465612141&nonce=1548222894&openid=o86iDsyl_a9tDwc6gIXYCl-h0UDU
+
+20160611 10:49:25
+0--- http://palenggege.com/mobile/affiche.php?ad_id=31&uri=
+
+20160611 10:49:26
+0--- http://palenggege.com/mobile/
+
+20160611 11:02:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c4f8b479fcdfe00a3f448692deffb5b685ae3a07&timestamp=1465614146&nonce=1565283308&openid=o86iDs5vYrBPAQg-doO6wYyhjx1A
+
+20160611 11:02:34
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=f16cabc61c4360b80ffc7e3f245cacc3&t=1465614146&wxid=o86iDs5vYrBPAQg-doO6wYyhjx1A&url=mobile/pre_sale.php
+
+20160611 11:02:35
+0---031ckI2900V2Bt1mdg490VgK290ckI2w http://palenggege.com/mobile/weixin/redirect.php?token=f16cabc61c4360b80ffc7e3f245cacc3&t=1465614146&wxid=o86iDs5vYrBPAQg-doO6wYyhjx1A&url=mobile/pre_sale.php&code=031ckI2900V2Bt1mdg490VgK290ckI2w&state=1
+
+20160611 11:02:35
+0--o86iDs5vYrBPAQg-doO6wYyhjx1A-011mXHoG0J3Eu525bZqG0w5KoG0mXHoO http://palenggege.com/mobile/weixin/redirect.php?token=f16cabc61c4360b80ffc7e3f245cacc3&t=1465614146&wxid=o86iDs5vYrBPAQg-doO6wYyhjx1A&url=mobile/pre_sale.php&code=031ckI2900V2Bt1mdg490VgK290ckI2w&state=1&code=011mXHoG0J3Eu525bZqG0w5KoG0mXHoO&state=1
+
+20160611 11:02:36
+95-wx_052615648-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:02:41
+95-wx_052615648-- http://palenggege.com/mobile/user.php
+
+20160611 11:02:51
+95-wx_052615648-- http://palenggege.com/mobile/v_user.php
+
+20160611 11:02:53
+95-wx_052615648-- http://palenggege.com/mobile/v_user.php?u=95
+
+20160611 11:02:58
+95-wx_052615648-- http://palenggege.com/mobile/v_shop.php?user_id=95
+
+20160611 11:02:58
+95-wx_052615648-- http://palenggege.com/mobile/v_shop.php?u=95&user_id=95
+
+20160611 11:03:01
+95-wx_052615648-- http://palenggege.com/mobile/v_shop.php?user_id=95
+
+20160611 11:03:01
+95-wx_052615648-- http://palenggege.com/mobile/v_shop.php?u=95&user_id=95
+
+20160611 11:03:03
+95-wx_052615648-- http://palenggege.com/mobile/user.php
+
+20160611 11:03:05
+95-wx_052615648-- http://palenggege.com/mobile/user.php?act=order_list
+
+20160611 11:03:06
+95-wx_052615648-- http://palenggege.com/mobile/user.php?act=ajax_order_list
+
+20160611 11:03:08
+95-wx_052615648-- http://palenggege.com/mobile/user.php
+
+20160611 11:03:12
+95-wx_052615648-- http://palenggege.com/mobile/lucky_buy.php?act=userlist
+
+20160611 11:03:13
+95-wx_052615648-- http://palenggege.com/mobile/lucky_buy.php?act=asyncuserlist
+
+20160611 11:03:15
+95-wx_052615648-- http://palenggege.com/mobile/user.php
+
+20160611 11:03:18
+95-wx_052615648-- http://palenggege.com/mobile/user.php?act=collection_list
+
+20160611 11:03:19
+95-wx_052615648-- http://palenggege.com/mobile/user.php
+
+20160611 11:03:21
+95-wx_052615648-- http://palenggege.com/mobile/user.php?act=my_comment
+
+20160611 11:03:23
+95-wx_052615648-- http://palenggege.com/mobile/user.php
+
+20160611 11:03:27
+95-wx_052615648-- http://palenggege.com/mobile/user.php
+
+20160611 11:03:29
+95-wx_052615648-- http://palenggege.com/mobile/
+
+20160611 11:03:30
+95-wx_052615648-- http://palenggege.com/mobile/?u=95
+
+20160611 11:03:33
+95-wx_052615648-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 11:03:41
+95-wx_052615648-- http://palenggege.com/mobile/goods.php?id=284
+
+20160611 11:03:41
+95-wx_052615648-- http://palenggege.com/mobile/goods.php?u=95&id=284
+
+20160611 11:03:42
+95-wx_052615648-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=284&type=0&page=1&1465614817183183
+
+20160611 11:03:42
+95-wx_052615648-- http://palenggege.com/mobile/goods.php?act=price&id=284&attr=&number=1&1465614817657657
+
+20160611 11:03:43
+0--- http://palenggege.com/mobile/goods.php?id=284
+
+20160611 11:03:43
+0--- http://palenggege.com/mobile/goods.php?id=284
+
+20160611 11:03:54
+95-wx_052615648-- http://palenggege.com/mobile/user.php?act=book_goods&id=284&1465614829380380
+
+20160611 11:04:08
+95-wx_052615648-- http://palenggege.com/mobile/goods.php?id=297
+
+20160611 11:04:08
+95-wx_052615648-- http://palenggege.com/mobile/goods.php?u=95&id=297
+
+20160611 11:04:09
+95-wx_052615648-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=297&type=0&page=1&1465614844346346
+
+20160611 11:04:09
+95-wx_052615648-- http://palenggege.com/mobile/goods.php?act=price&id=297&attr=&number=1&1465614844617617
+
+20160611 11:04:10
+0--- http://palenggege.com/mobile/goods.php?id=297
+
+20160611 11:04:10
+0--- http://palenggege.com/mobile/goods.php?id=297
+
+20160611 11:04:38
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0420194440f7336d5900052b83e94800c92c1bef&timestamp=1465614278&nonce=204329709&openid=o86iDs5vYrBPAQg-doO6wYyhjx1A
+
+20160611 11:07:27
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:11:49
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:17:17
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:17:20
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:21:14
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:21:27
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:22:45
+0--- http://palenggege.com/mobile/goods.php?id=173
+
+20160611 11:23:52
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:25:42
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:25:45
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:27:39
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:28:48
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:30:30
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:30:32
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:32:40
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:37:00
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 11:54:39
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=28
+
+20160611 11:54:40
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=67&type=0&page=1&1465617276338338
+
+20160611 11:54:43
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=17
+
+20160611 11:54:43
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=52&type=0&page=1&1465617279320320
+
+20160611 11:56:05
+0--- http://palenggege.com/mobile/goods.php?id=279
+
+20160611 12:00:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e04c167d217a5e156aba690f36010b5106493209&timestamp=1465617654&nonce=1257138600&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:00:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8179148d56e3fc744050dca3fcbab6ec07cc5bd6&timestamp=1465617658&nonce=952845170&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:01:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8f0762587c276bb75f2b6415aceedeb0af2a2288&timestamp=1465617664&nonce=1224679641&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:01:06
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a2ac93b762e97ee6bd7c4371438db929c80c9437&timestamp=1465617666&nonce=1723107760&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:01:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=184d0d9874a0ddd0b76249e9f2f121b3542dc6fd&timestamp=1465617674&nonce=1833355805&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:01:16
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/pre_sale.php
+
+20160611 12:01:17
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pre_sale.php
+
+20160611 12:01:17
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/pre_sale.php
+
+20160611 12:01:17
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php
+
+20160611 12:01:18
+0--- http://palenggege.com/mobile/weixin/redirect.php?token=cf8e9e2feb2c1584318a93375bc59b2e&t=1465602831&wxid=o86iDs_1zpCrcPjFXpWIQXQnpsoc&url=mobile/pre_sale.php
+
+20160611 12:01:18
+0--- http://palenggege.com/mobile/pre_sale.php
+
+20160611 12:01:19
+0--- http://palenggege.com/mobile/pre_sale.php
+
+20160611 12:01:20
+0--- http://palenggege.com/mobile/pre_sale.php
+
+20160611 12:01:31
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 12:01:32
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160611 12:01:33
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 12:01:34
+0--- http://palenggege.com/mobile/index.php?u=1
+
+20160611 12:01:34
+0--- http://palenggege.com/mobile/index.php?u=1
+
+20160611 12:01:38
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTYxNzY5ODt9
+
+20160611 12:01:39
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2MTc2OTk7fQ==
+
+20160611 12:01:47
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods.php?id=219
+
+20160611 12:01:48
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods.php?u=1&id=219
+
+20160611 12:01:59
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=219&type=0&page=1&1465617718428428
+
+20160611 12:02:00
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods.php?act=price&id=219&attr=&number=1&1465617720474474
+
+20160611 12:02:02
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2MTc3MjE7fQ==
+
+20160611 12:02:05
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 12:02:07
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/activity.php
+
+20160611 12:02:08
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/activity.php?act=ajax_list
+
+20160611 12:02:09
+0--- http://palenggege.com/mobile/activity.php
+
+20160611 12:02:09
+0--- http://palenggege.com/mobile/activity.php
+
+20160611 12:02:27
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 12:02:28
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/cut.php
+
+20160611 12:02:31
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/cut.php?act=view&id=40&u=1
+
+20160611 12:02:43
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 12:02:44
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/extpintuan.php
+
+20160611 12:02:45
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160611 12:02:52
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/extpintuan.php?act=buy
+
+20160611 12:02:52
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160611 12:02:54
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1465617773316316
+
+20160611 12:03:02
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160611 12:03:07
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/extpintuan.php?act=buy
+
+20160611 12:03:10
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160611 12:03:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=eb6ef7b0c2da4ddc7f1523b19ba5331ebc2d4202&timestamp=1465617793&nonce=1338358755&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:03:21
+0--- http://palenggege.com/mobile/weixin/index.php?signature=16cef4f9309309a3d3ffb5582e9df28d0447c0dc&timestamp=1465617801&nonce=236751162&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:03:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=55a882225734f727971cb103e2bed1ddc5fb2cfe&timestamp=1465617803&nonce=1745838116&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:03:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=caa9658efde3c37e211e687bcee25e0a30e539ad&timestamp=1465617839&nonce=1205604821&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:03
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8c43528d4fc369964243285bbd1e3e391b656c9f&timestamp=1465617843&nonce=51013993&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:09
+0--- http://palenggege.com/mobile/weixin/index.php?signature=536e0e9bdfa9987f3ec06808fcc75ee500ebc5a7&timestamp=1465617849&nonce=1118769074&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f99b59ae46293d189674f16098098d33dad74b00&timestamp=1465617853&nonce=451913779&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=936a26134053740ff84e699597bb132262f03631&timestamp=1465617854&nonce=1102549310&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b844773a6a63c5ff32cc3ad2c584151d6b44a8c5&timestamp=1465617860&nonce=1104202755&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b2450fcee96b5129d111d81439f6f330a9128669&timestamp=1465617866&nonce=1088571869&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:32
+0--- http://palenggege.com/mobile/weixin/index.php?signature=96831da68850039f9eaef5e980d76628d10a233a&timestamp=1465617872&nonce=1587949019&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d7ebdeac8d85db3b38047093268ffcae87c5f847&timestamp=1465617877&nonce=1849124973&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:44
+0--- http://palenggege.com/mobile/weixin/index.php?signature=243c0d5f6b1288f4c03c209b4573ad1cdadf18eb&timestamp=1465617884&nonce=316071973&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0a704d64e5450fee18dd691497268a87e9515020&timestamp=1465617890&nonce=1823056826&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:04:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ddf6d27ba837e17e6048396f13727ab5c20477cb&timestamp=1465617896&nonce=109331818&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 12:29:25
+0--- http://palenggege.com/mobile/extpintuan.php
+
+20160611 13:02:45
+0--- http://palenggege.com/mobile/goods.php?id=297
+
+20160611 13:06:44
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=25
+
+20160611 13:06:45
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=55&type=0&page=1&1465621601242242
+
+20160611 13:06:47
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=18
+
+20160611 13:06:47
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=54&type=0&page=1&1465621603195195
+
+20160611 13:06:48
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=18
+
+20160611 13:06:49
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=54&type=0&page=1&1465621604605605
+
+20160611 13:06:49
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=18
+
+20160611 13:06:50
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=18
+
+20160611 13:06:50
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=54&type=0&page=1&1465621605849849
+
+20160611 13:06:50
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=54&type=0&page=1&1465621606261261
+
+20160611 13:06:54
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=32
+
+20160611 13:06:54
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=28&type=0&page=1&1465621610177177
+
+20160611 13:06:55
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=32
+
+20160611 13:06:56
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=28&type=0&page=1&1465621611698698
+
+20160611 13:06:56
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=32
+
+20160611 13:06:57
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=32
+
+20160611 13:06:57
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=28&type=0&page=1&146562161305151
+
+20160611 13:06:58
+1-寒冰-- http://palenggege.com/mobile/pre_sale.php?id=32
+
+20160611 13:06:58
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=28&type=0&page=1&1465621613596596
+
+20160611 13:06:58
+1-寒冰-- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=28&type=0&page=1&1465621614304304
+
+20160611 13:36:05
+0--- http://palenggege.com/mobile/brand.php?id=49
+
+20160611 14:09:25
+0--- http://palenggege.com/mobile/goods.php?id=225
+
+20160611 14:42:45
+0--- http://palenggege.com/mobile/cut.php
+
+20160611 15:12:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9f5823337eacbfe51d04b55c0cb6bddb5514a34b&timestamp=1465629143&nonce=2007726187&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:12:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8405f33ea2033bb1fe3895d68ecdae22969fafd1&timestamp=1465629144&nonce=2079780294&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:12:34
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fc364a60e708814998b1987bd4e8344faa487c5a&timestamp=1465629154&nonce=1383351213&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:12:38
+0--- http://palenggege.com/mobile/weixin/index.php?signature=79f8e90a760ad8981163a311f6762299af837a69&timestamp=1465629158&nonce=1356054981&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:12:44
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3ef14d142c6f2e2845b1363aa7d2401617146643&timestamp=1465629164&nonce=1030452162&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:12:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=27b461e298fa7b44bb662411349d5e9787b78c3d&timestamp=1465629170&nonce=206466519&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:12:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0722b8023b08709650ab0784e017a34913df316e&timestamp=1465629176&nonce=1417272781&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:13:02
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e1910b08495e74446b362cbc641c131b5105ff12&timestamp=1465629182&nonce=954401020&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b9b940990df29dd208b3e5d48f3e65dc6dc91ef8&timestamp=1465629253&nonce=1186087492&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=339a394b089ade10c1253cf7b63cb5d7a8479c65&timestamp=1465629259&nonce=205778002&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:25
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c7424ba4d1f81012fb7de2bf257f4111e6c0008b&timestamp=1465629265&nonce=1482061620&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=113a031474e07cd6a82aaca6562f84fd42f6d174&timestamp=1465629271&nonce=1482457567&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1c854036e949aa191075d4f38f7b3537dab8a106&timestamp=1465629271&nonce=12003842&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=265c5646f49b8acb531851db3cc7ac74f452b588&timestamp=1465629276&nonce=1616712232&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=865f0e7384c51e110637e58a877e6aa66e635dad&timestamp=1465629282&nonce=170562046&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d526fa8de90c07651c272f6c8111e18fb24cfe59&timestamp=1465629288&nonce=1142896689&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:14:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9998da74f2135e8a7dbc11b63683f7e9192760df&timestamp=1465629294&nonce=1993509191&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:15:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=acef11838f071d78012ed8aea49e25bf8ab9e710&timestamp=1465629300&nonce=761980940&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:16:05
+0--- http://palenggege.com/mobile/goods.php?id=277
+
+20160611 15:20:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=47825f0ca1aeaddd2416df19f3177602a39d251a&timestamp=1465629656&nonce=1983245018&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:21:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b29976a6680d104363083309036333e9c15a3767&timestamp=1465629661&nonce=50880199&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:21:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=93cc8ef30e000bf36f73d3509d0291ec54ca8463&timestamp=1465629664&nonce=583231534&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:21:04
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 15:21:06
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160611 15:21:09
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 15:21:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b2054a83dcfdf21c9e232ca76a936981d74c8494&timestamp=1465629672&nonce=1561303358&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:21:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c769d0e4f8f7e968fc026338ad4ee305412e8a27&timestamp=1465629673&nonce=406964104&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:21:14
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 15:21:14
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160611 15:21:16
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 15:21:17
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/user.php
+
+20160611 15:21:22
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/user.php?act=logout
+
+20160611 15:21:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d142b918d00055a91eb13e05b17a8e67c92a40df&timestamp=1465629684&nonce=694939610&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:21:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d334e8ab1db5cc6ed489c773cd15ee60602db9ab&timestamp=1465629686&nonce=809456478&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 15:21:26
+0--o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 15:21:27
+0--o86iDs_1zpCrcPjFXpWIQXQnpsoc-011TLFIo0rUyDd1RJrJo0oCEIo0TLFIv http://palenggege.com/mobile/index.php?code=011TLFIo0rUyDd1RJrJo0oCEIo0TLFIv&state=1
+
+20160611 15:21:28
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc-011TLFIo0rUyDd1RJrJo0oCEIo0TLFIv http://palenggege.com/mobile/index.php?u=1&code=011TLFIo0rUyDd1RJrJo0oCEIo0TLFIv&state=1
+
+20160611 15:21:30
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 15:26:52
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/flow.php?step=add_to_cart
+
+20160611 15:26:59
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/flow.php?step=add_to_cart
+
+20160611 15:27:05
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/flow.php
+
+20160611 15:27:07
+0--- http://palenggege.com/mobile/flow.php
+
+20160611 15:27:07
+0--- http://palenggege.com/mobile/flow.php
+
+20160611 15:27:12
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/flow.php?step=drop_goods&id=1171
+
+20160611 15:27:12
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/flow.php
+
+20160611 15:49:25
+0--- http://palenggege.com/mobile/brand.php?id=100
+
+20160611 15:49:32
+0--- http://palenggege.com/mobile/brand.php?act=ajax&brand=100&cat=&page=1&sort=&order=
+
+20160611 15:53:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b5488ec2c62cf8ee20b1e1cbf802c2dda11f89f6&timestamp=1465631628&nonce=275549118&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:22:45
+0--- http://palenggege.com/mobile/affiche.php?ad_id=30&uri=
+
+20160611 16:22:46
+0--- http://palenggege.com/mobile/
+
+20160611 16:44:10
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1b6a657561ffee265806e2af4e96f52bf982272f&timestamp=1465634650&nonce=1168929853&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4ee453d80c7bcb1a367ecf2c7101cd758a7a0971&timestamp=1465634652&nonce=672419800&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:14
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 16:44:16
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160611 16:44:20
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 16:44:22
+0--- http://palenggege.com/mobile/weixin/index.php?signature=63cb64764b4a0a91a308b6c3080d59e00e096d95&timestamp=1465634662&nonce=720476350&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:28
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dd8deb473843653711827452068223c44b70bea7&timestamp=1465634668&nonce=1771370099&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=455d8bae2a261ed10fe1e9aed4a0ecc414f65cdf&timestamp=1465634675&nonce=357538058&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:40
+0--- http://palenggege.com/mobile/weixin/index.php?signature=90231b747f726bcf0a05b4eedfae149649122481&timestamp=1465634680&nonce=522241314&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7f378e3706472a975b29c14cd43ded0d9d7e1f44&timestamp=1465634686&nonce=1978101991&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8074b3e9978f8d23399b4ca8a489f7fd2115c2bb&timestamp=1465634692&nonce=273935732&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:44:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fda4bd2d010a0fcc2695041aeb3408d632d592b4&timestamp=1465634698&nonce=347752223&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:46:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c1700d4e7ddc33b6a5bc5abab1f21279efc78e75&timestamp=1465634780&nonce=1928759125&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:46:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1532e071a559490f6c7b7c17e00341d98b52e653&timestamp=1465634784&nonce=1996274008&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:46:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1a5abead96114d73f473b7ac4609d7f69ea6878d&timestamp=1465634789&nonce=1576784430&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 16:56:05
+0--- http://palenggege.com/mobile/goods.php?id=230
+
+20160611 17:29:12
+0--- http://palenggege.com/mobile/weixin/index.php?signature=128119b788626136b255db6fee686f76665b2390&timestamp=1465637352&nonce=40011434&openid=o86iDs-zLAa3Fvf1v9me6mcbxWM0
+
+20160611 17:29:12
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php
+
+20160611 17:29:14
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php?u=159
+
+20160611 17:29:19
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 17:29:24
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?id=34
+
+20160611 17:29:25
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?u=159&id=34
+
+20160611 17:29:26
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=34&type=0&page=1&1465637366673673
+
+20160611 17:29:27
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?act=price&id=34&attr=8,10&number=1&146563736804848
+
+20160611 17:29:30
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=add_to_cart
+
+20160611 17:29:30
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=cart
+
+20160611 17:29:31
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160611 17:29:32
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=select_shipping&recid=0&suppid=5&1465637372992992
+
+20160611 17:29:36
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=select_payment&payment=7&146563737707474
+
+20160611 17:29:36
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=select_payment&payment=undefined&146563737709090
+
+20160611 17:29:42
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=34&type=0&page=1&1465637383455455
+
+20160611 17:29:43
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?act=price&id=34&attr=8,10&number=1&1465637383567567
+
+20160611 17:29:45
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 17:29:48
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?id=231
+
+20160611 17:29:48
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?u=159&id=231
+
+20160611 17:29:49
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=231&type=0&page=1&1465637389696696
+
+20160611 17:29:49
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/goods.php?act=price&id=231&attr=&number=1&1465637389869869
+
+20160611 17:29:50
+0--- http://palenggege.com/mobile/goods.php?u=159&id=231
+
+20160611 17:29:50
+0--- http://palenggege.com/mobile/goods.php?u=159&id=231
+
+20160611 17:29:52
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=add_to_cart
+
+20160611 17:29:53
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=cart
+
+20160611 17:29:53
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160611 17:29:54
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1465637394687687
+
+20160611 17:29:57
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=select_payment&payment=7&1465637397656656
+
+20160611 17:29:57
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=select_payment&payment=undefined&1465637397669669
+
+20160611 17:29:58
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=check_surplus&surplus=0&1465637398739739
+
+20160611 17:29:58
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=check_surplus_open&1465637398995995
+
+20160611 17:29:58
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/flow.php?step=done
+
+20160611 17:29:59
+0--- http://palenggege.com/mobile/weixin/weixin_remind.php?notice=1&is_one_user=159&order_id=251
+
+20160611 17:30:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c8f4a519b0aa820d7735d9681b5001cee8539293&timestamp=1465637400&nonce=18651843&openid=o86iDs-zLAa3Fvf1v9me6mcbxWM0
+
+20160611 17:30:13
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php
+
+20160611 17:30:14
+159-wx_060813730-o86iDs-zLAa3Fvf1v9me6mcbxWM0- http://palenggege.com/mobile/index.php?u=159
+
+20160611 17:32:05
+0--- http://palenggege.com/mobile/goods.php?id=224
+
+20160611 17:52:56
+0--- http://palenggege.com/mobile/
+
+20160611 17:52:58
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 17:53:08
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 18:08:05
+0--- http://palenggege.com/mobile/goods.php?id=231
+
+20160611 18:16:42
+0--- http://palenggege.com/mobile/
+
+20160611 18:16:43
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 18:16:47
+0--- http://palenggege.com/mobile/goods.php?id=231
+
+20160611 18:16:47
+0--- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=231&type=0&page=1&1465640206571571
+
+20160611 18:16:47
+0--- http://palenggege.com/mobile/goods.php?act=price&id=231&attr=&number=1&1465640206686686
+
+20160611 18:16:55
+0--- http://palenggege.com/mobile/flow.php?step=add_to_cart
+
+20160611 18:16:55
+0--- http://palenggege.com/mobile/flow.php?step=cart
+
+20160611 18:16:55
+0--- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160611 18:16:55
+0--- http://palenggege.com/mobile/user.php?act=login&jump=jszx
+
+20160611 18:17:00
+0--- http://palenggege.com/mobile/user.php?act=oath&type=qq
+
+20160611 18:17:12
+0--- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=231&type=0&page=1&1465640231991991
+
+20160611 18:17:12
+0--- http://palenggege.com/mobile/goods.php?act=price&id=231&attr=&number=1&146564023206565
+
+20160611 18:17:21
+0--- http://palenggege.com/mobile/pocking.php?id=231
+
+20160611 18:17:21
+0--- http://palenggege.com/mobile/goods.php?act=get_pickup_info&province=%E5%B9%BF%E4%B8%9C&city=%E5%B9%BF%E5%B7%9E&district=&suppid=0
+
+20160611 18:17:22
+0--- http://palenggege.com/mobile/goods.php?act=get_area_list&parent_id=76&1465640241166166
+
+20160611 18:17:25
+0--- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=231&type=0&page=1&1465640244959959
+
+20160611 18:17:25
+0--- http://palenggege.com/mobile/goods.php?act=price&id=231&attr=&number=1&146564024505353
+
+20160611 18:17:51
+0--- http://palenggege.com/mobile/flow.php
+
+20160611 18:17:51
+0--- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160611 18:17:51
+0--- http://palenggege.com/mobile/user.php?act=login&jump=jszx
+
+20160611 18:17:53
+0--- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=231&type=0&page=1&1465640272279279
+
+20160611 18:17:53
+0--- http://palenggege.com/mobile/goods.php?act=price&id=231&attr=&number=1&1465640272376376
+
+20160611 18:17:57
+0--- http://palenggege.com/mobile/user.php
+
+20160611 18:17:59
+0--- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=231&type=0&page=1&1465640278368368
+
+20160611 18:17:59
+0--- http://palenggege.com/mobile/goods.php?act=price&id=231&attr=&number=1&1465640278420420
+
+20160611 18:18:00
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 18:18:05
+0--- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=231&type=0&page=1&1465640284734734
+
+20160611 18:18:05
+0--- http://palenggege.com/mobile/goods.php?act=price&id=231&attr=&number=1&1465640284788788
+
+20160611 18:18:09
+0--- http://palenggege.com/mobile/flow.php?step=add_to_cart
+
+20160611 18:18:10
+0--- http://palenggege.com/mobile/flow.php?step=cart
+
+20160611 18:18:10
+0--- http://palenggege.com/mobile/flow.php?step=checkout
+
+20160611 18:18:10
+0--- http://palenggege.com/mobile/user.php?act=login&jump=jszx
+
+20160611 18:18:11
+0--- http://palenggege.com/mobile/user.php?act=oath&type=qq
+
+20160611 18:18:13
+0--- http://palenggege.com/mobile/
+
+20160611 18:18:14
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 18:28:04
+0--- http://palenggege.com/mobile/
+
+20160611 18:28:07
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 18:31:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=51939f1376b4be2c0eaf79d2392ba8773ce1bebc&timestamp=1465641116&nonce=1286893103&openid=o86iDs8DmXg4VXrStycbxCjH_j24
+
+20160611 18:34:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8a0df4b04f0be7d54e7d5a7cb9272c568581cc94&timestamp=1465641270&nonce=1489368060&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 18:34:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ac1227f76e2e9bc39bee8b154a16569777c68820&timestamp=1465641271&nonce=971626987&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 18:34:38
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 18:34:39
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160611 18:34:43
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 18:34:50
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY0MTI5MDt9
+
+20160611 18:34:51
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NDEyOTE7fQ==
+
+20160611 18:35:36
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods.php?id=220
+
+20160611 18:35:37
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods.php?u=1&id=220
+
+20160611 18:35:38
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=220&type=0&page=1&1465641337719719
+
+20160611 18:35:38
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/goods.php?act=price&id=220&attr=&number=1&146564133806666
+
+20160611 18:35:38
+0--- http://palenggege.com/mobile/goods.php?id=220
+
+20160611 18:35:39
+0--- http://palenggege.com/mobile/goods.php?id=220
+
+20160611 18:39:20
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NDE1NjA7fQ==
+
+20160611 18:59:43
+39-wx_05144101-- http://palenggege.com/mobile/
+
+20160611 18:59:44
+39-wx_05144101-- http://palenggege.com/mobile/?u=39
+
+20160611 19:05:18
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 19:05:19
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160611 19:05:22
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 19:05:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=95ff48c640d50749b6ea5464af2e21c631fce405&timestamp=1465643129&nonce=239592130&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 19:05:34
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b23dad136b70a3ea923389a44744d4b8f83e653d&timestamp=1465643134&nonce=1221437748&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 19:05:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=40822b24c5e7b1f99b114c4d038c6e6ee84b1bf2&timestamp=1465643136&nonce=349762213&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 19:05:36
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php
+
+20160611 19:05:37
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index.php?u=1
+
+20160611 19:05:41
+1-寒冰-o86iDs_1zpCrcPjFXpWIQXQnpsoc- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 19:05:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=372b4d5fe455b9dc76ead148419a29953902e007&timestamp=1465643141&nonce=80142537&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 19:17:25
+0--- http://palenggege.com/mobile/auction.php
+
+20160611 19:50:45
+0--- http://palenggege.com/mobile/goods.php?id=283
+
+20160611 19:58:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4122c61e3820ab5a7b7c513bc49f7735af4ab014&timestamp=1465646339&nonce=665365612&openid=o86iDs_1zpCrcPjFXpWIQXQnpsoc
+
+20160611 20:24:05
+0--- http://palenggege.com/mobile/goods.php?id=26
+
+20160611 20:25:32
+0--- http://palenggege.com/mobile/
+
+20160611 20:25:34
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 20:57:25
+0--- http://palenggege.com/mobile/article.php?id=91
+
+20160611 22:03:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=78154d3589fc5b817600914ca111fd8ae82eb66c&timestamp=1465653798&nonce=1718788643&openid=o86iDszyPP_3Wc_EHq8lygyf6l3U
+
+20160611 22:03:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=bd125dcbe4c16071da49d65e7e417f398dc1e670&timestamp=1465653804&nonce=439320749&openid=o86iDszyPP_3Wc_EHq8lygyf6l3U
+
+20160611 22:36:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=aff9f2b9e1ce5d21e305faf91c2767e72acb5608&timestamp=1465655813&nonce=1529466125&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:36:57
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d1cb05b574944cfcebf68c9d8c7742d6ca32053c&timestamp=1465655817&nonce=1309026921&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7e2d2871debe4d40ddb027ab670164fade7dff7f&timestamp=1465655823&nonce=1987465515&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:10
+0--- http://palenggege.com/mobile/weixin/index.php?signature=529d30334fa3223c25137a909a70ac547fb320b5&timestamp=1465655830&nonce=2011482443&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8770db59096789255321cf4a7a015f2826147d96&timestamp=1465655834&nonce=1316804049&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:14
+0--- http://palenggege.com/mobile/index.php
+
+20160611 22:37:14
+0---011pbDiv0rBxcp1DGflv0Zgyiv0pbDic http://palenggege.com/mobile/index.php?code=011pbDiv0rBxcp1DGflv0Zgyiv0pbDic&state=1
+
+20160611 22:37:15
+0--o86iDs9SyeouzfStZ6Kl5V-wSZRg-031FXg6d1IExno03fT6d10nc6d1FXg6u http://palenggege.com/mobile/index.php?code=011pbDiv0rBxcp1DGflv0Zgyiv0pbDic&state=1&code=031FXg6d1IExno03fT6d10nc6d1FXg6u&state=1
+
+20160611 22:37:16
+0--- http://palenggege.com/mobile/weixin/index.php?signature=396484b9784306b250e28774bb7785da618d0f3c&timestamp=1465655836&nonce=257894900&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:17
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg-031FXg6d1IExno03fT6d10nc6d1FXg6u http://palenggege.com/mobile/index.php?u=180&code=011pbDiv0rBxcp1DGflv0Zgyiv0pbDic&state=1&code=031FXg6d1IExno03fT6d10nc6d1FXg6u&state=1
+
+20160611 22:37:22
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:37:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d94106009e7ce8813f13e7667f038b5ab847ef82&timestamp=1465655843&nonce=138098888&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:25
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/catalog.php
+
+20160611 22:37:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3cda32c3f905afdcca3475cd442a0701af130c56&timestamp=1465655849&nonce=1147279865&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:35
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/category.php?id=148
+
+20160611 22:37:35
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/category.php?u=180&id=148
+
+20160611 22:37:36
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/category.php?act=ajax&category=148&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160611 22:37:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=485341b9a07fb1987437b3096051732865fc44b0&timestamp=1465655856&nonce=2033305635&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:37
+0--- http://palenggege.com/mobile/category.php?u=180&id=148
+
+20160611 22:37:37
+0--- http://palenggege.com/mobile/category.php?u=180&id=148
+
+20160611 22:37:38
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?id=155
+
+20160611 22:37:38
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?u=180&id=155
+
+20160611 22:37:38
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=155&type=0&page=1&1465655858857857
+
+20160611 22:37:39
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?act=price&id=155&attr=220&number=1&1465655859507507
+
+20160611 22:37:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f7d62a74159d106a44da95dd2388473045fd10e2&timestamp=1465655862&nonce=1210017062&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=49f1bbda4793a88b38849c365ff1c5ca92fd4ef9&timestamp=1465655868&nonce=444834270&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:37:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=13de0267271cd656364c7ce574d6b373f3339156&timestamp=1465655875&nonce=1342221505&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:01
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c3e183f4a9f60808fe1f95c938e6c2d3404f72b0&timestamp=1465655881&nonce=1532469931&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=46e8ee5362d82b717565d3518da93943f39efd0d&timestamp=1465655888&nonce=1698643966&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:15
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d52ca1cc0c2efb9d5161e91e158543cb46a31987&timestamp=1465655895&nonce=1218309860&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:23
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/chat.php
+
+20160611 22:38:23
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/chat.php?act=chat&chat_goods_id=155&chat_supp_id=0
+
+20160611 22:38:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a93ea225303b1dede38939a57562c9358ffe7c23&timestamp=1465655903&nonce=2056555779&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:27
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?u=180&id=155
+
+20160611 22:38:27
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=155&type=0&page=1&1465655907632632
+
+20160611 22:38:27
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?act=price&id=155&attr=220&number=1&1465655907671671
+
+20160611 22:38:29
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index.php
+
+20160611 22:38:30
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index.php?u=180
+
+20160611 22:38:31
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:38:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1a89c0426bf60c8cb938c546f26a2b73cae7eabf&timestamp=1465655916&nonce=659711695&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3a51a5b0a17f0d6fdd210f34137c8819dc58fe29&timestamp=1465655922&nonce=83840359&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:47
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:38:47
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:38:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=108341dd6a32294e4aeb0515024100e4ecea0f8a&timestamp=1465655930&nonce=604974131&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=93451e0ab074c54f2f00e7eaf59eb0111e97f3d6&timestamp=1465655930&nonce=1791500535&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:38:55
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php?act=account_deposit
+
+20160611 22:38:57
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6d1090af2723ceeddc5e4c0b880e12af51076cd8&timestamp=1465655937&nonce=1114233636&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:00
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:39:02
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php?act=account_raply
+
+20160611 22:39:05
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:39:08
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php?act=bonus
+
+20160611 22:39:10
+0--- http://palenggege.com/mobile/weixin/index.php?signature=fd622f8cb56b72e1dcf620549b0c3b5d1ca36bce&timestamp=1465655950&nonce=1647036435&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:16
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3ef6dbba888e42b5fbe0750d1a10e4f02dbd3eb5&timestamp=1465655956&nonce=1339660524&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:17
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:39:23
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php?act=account_manage
+
+20160611 22:39:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=e8d946932ca8d477aab2eeb5f82f0dd703ee8fb6&timestamp=1465655963&nonce=1688874329&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1de347fc0b730399d3f530d810fbc8c9796b659f&timestamp=1465655970&nonce=907060018&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:34
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:39:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5732cd8b57c262417aa9cf23cfbc3990f6e666b4&timestamp=1465655977&nonce=956530698&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:40
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php?act=profile
+
+20160611 22:39:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6744b0945d54addacad623f97c69a7a32d22901d&timestamp=1465655983&nonce=773499&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:47
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:39:50
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/v_user.php
+
+20160611 22:39:51
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/v_user.php?u=180
+
+20160611 22:39:55
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f8b0a78c9ec730b5a41efe932deed0b3d19799a9&timestamp=1465655995&nonce=1090617030&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:39:57
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/v_shop.php?user_id=180
+
+20160611 22:39:57
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/v_shop.php?u=180&user_id=180
+
+20160611 22:39:59
+0--- http://palenggege.com/mobile/v_shop.php?user_id=180
+
+20160611 22:39:59
+0--- http://palenggege.com/mobile/v_shop.php?user_id=180
+
+20160611 22:40:02
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d36aff82c7efe16bca60ec364860331fad90eee9&timestamp=1465656001&nonce=1248560795&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:40:08
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/v_shop.php?user_id=180
+
+20160611 22:40:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=9e55ed3152744e1d2498579a27ce1606e2e16410&timestamp=1465656008&nonce=1915565718&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:40:08
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/v_shop.php?u=180&user_id=180
+
+20160611 22:40:14
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4883e7a4af61eb738a757a701e99b60a8abbd91f&timestamp=1465656014&nonce=2126542709&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:40:47
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:40:50
+0--- http://palenggege.com/mobile/weixin/index.php?signature=885a9d7c880b09cef77d10cdc6e737c64d384028&timestamp=1465656049&nonce=1052131968&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:40:53
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php?act=my_comment
+
+20160611 22:40:56
+0--- http://palenggege.com/mobile/weixin/index.php?signature=61709669871e88b17439ccaf120f99beaeee6bda&timestamp=1465656056&nonce=708369911&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:40:56
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:41:03
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2afecbbf7b3eb56258a4cdde46fc6b5f4079b69b&timestamp=1465656063&nonce=1589394011&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:41:09
+0--- http://palenggege.com/mobile/weixin/index.php?signature=74e7dd6ac870e54fa6ba822ff12a76b398a7a5a8&timestamp=1465656068&nonce=949566159&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:41:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4c258b3d88c49547e005079f9cc59383f005c87f&timestamp=1465656084&nonce=1169956968&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:41:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=7b7a94dba21edb3132a72b1d7fae56146a305d7d&timestamp=1465656097&nonce=1076085126&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:42:23
+0--- http://palenggege.com/mobile/weixin/index.php?signature=29353ec2a3fa511813e200b0a3ed1f92004005d4&timestamp=1465656143&nonce=2094519699&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:42:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=965a63acf2685f2ed8b2f7a9ba76e76caf19df62&timestamp=1465656150&nonce=1475812645&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:42:31
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index.php?is_c=1
+
+20160611 22:42:33
+0--- http://palenggege.com/mobile/index.php?is_c=1
+
+20160611 22:42:34
+0--- http://palenggege.com/mobile/index.php?is_c=1
+
+20160611 22:42:36
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dce96893076a3fc20573b5698c63d171e2e36bf2&timestamp=1465656156&nonce=1886433786&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:42:43
+0--- http://palenggege.com/mobile/weixin/index.php?signature=a94b8c577d07f0a7f91b02941eb767ffc9030de0&timestamp=1465656163&nonce=982681467&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:42:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=5b29565f854de40f5a7d32719f37d5be436fe85a&timestamp=1465656169&nonce=1060954370&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:42:52
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/user.php
+
+20160611 22:42:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=35120079b499b758ed5b1aa57ccdbc0df26049db&timestamp=1465656178&nonce=2103316327&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:43:08
+0--- http://palenggege.com/mobile/weixin/index.php?signature=daa1335c239895a277a4649ecc4118b524011f5b&timestamp=1465656188&nonce=1901112473&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:43:15
+0--- http://palenggege.com/mobile/weixin/index.php?signature=07b8366cdc698894d7180b2445a0ff56cecc7d23&timestamp=1465656195&nonce=625264942&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:43:40
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/
+
+20160611 22:43:40
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/?u=180
+
+20160611 22:43:41
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c0e91c39c963cce084f946a8d1f589cf1965c61c&timestamp=1465656221&nonce=1141822507&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:43:42
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:43:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=3d628dac3ff442e14132ed54607cc59453e0fb0e&timestamp=1465656238&nonce=469948337&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:44:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=dd4ba75d102cba8a23cc386190b011be9386c7fb&timestamp=1465656244&nonce=1849602035&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:44:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=976df1377bb9ea06cc18039571b2ad72f9d4d062&timestamp=1465656251&nonce=648350750&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:44:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4d4399ac5e03cf2672b98fe9b945c1bcc8793f2b&timestamp=1465656257&nonce=1379006767&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:44:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0ea6902bea34495bcef94f862644d65a2dd095ae&timestamp=1465656266&nonce=1681873772&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:44:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f39f7e8fd6e6671fd5d54971d2480d2972142baa&timestamp=1465656287&nonce=732178727&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:44:53
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?id=1
+
+20160611 22:44:53
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?u=180&id=1
+
+20160611 22:44:54
+0--- http://palenggege.com/mobile/weixin/index.php?signature=f95b711798bdf897d9b7bd9f4135503df2f16004&timestamp=1465656294&nonce=1314968794&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:44:54
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=1&type=0&page=1&1465656294184184
+
+20160611 22:44:54
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?act=price&id=1&attr=&number=1&1465656294667667
+
+20160611 22:45:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c3744daa37eb9db1af05a4517eac829e5b9fac26&timestamp=1465656300&nonce=809081703&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:45:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=64b1d782d2e9ccda1859ef10d045edb78af56c32&timestamp=1465656306&nonce=1873454953&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:45:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ee321b0634f3cd1cd7c47236e157703a5810fc7e&timestamp=1465656313&nonce=465198227&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:45:19
+0--- http://palenggege.com/mobile/weixin/index.php?signature=ec4999519bb7e1e9f1388745c8576b31d7051736&timestamp=1465656319&nonce=1292984298&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:45:20
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/flow.php
+
+20160611 22:45:23
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/
+
+20160611 22:45:24
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/?u=180
+
+20160611 22:45:25
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:45:26
+0--- http://palenggege.com/mobile/weixin/index.php?signature=15ccec42fcb7cc9605ebb2e359ef049749b38c0b&timestamp=1465656326&nonce=291891805&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0f46279de811c921e0be854e327c0e1d5d552747&timestamp=1465656371&nonce=1370619034&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:14
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?id=34
+
+20160611 22:46:14
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?u=180&id=34
+
+20160611 22:46:14
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods_comment.php?act=list_json&goods_id=34&type=0&page=1&1465656374890890
+
+20160611 22:46:15
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/goods.php?act=price&id=34&attr=8,10&number=1&1465656375635635
+
+20160611 22:46:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=346b81814d97663a55bcc51378a989574e08d085&timestamp=1465656378&nonce=483517172&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:21
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/flow.php?step=add_to_cart
+
+20160611 22:46:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1a2837d0a330509845fc49d8e75aa542d3418ad1&timestamp=1465656384&nonce=1950271404&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:27
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/?u=180
+
+20160611 22:46:28
+0--- http://palenggege.com/mobile/
+
+20160611 22:46:28
+0--- http://palenggege.com/mobile/
+
+20160611 22:46:28
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:46:28
+0--- http://palenggege.com/mobile/
+
+20160611 22:46:28
+0--- http://palenggege.com/mobile/
+
+20160611 22:46:29
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/flow.php
+
+20160611 22:46:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8d22e229f66bfc3de895d55dd3ab7fdb58d5fa11&timestamp=1465656391&nonce=170091210&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:37
+0--- http://palenggege.com/mobile/weixin/index.php?signature=d9956006c3a89508c03080ad55a9d78987b1da74&timestamp=1465656397&nonce=1390168237&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:39
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2754ace2d4c20d106fa471dad18b4e84d51d6cad&timestamp=1465656399&nonce=219428194&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=18ef5ba69165f605def13860fdc4543d736c3acb&timestamp=1465656407&nonce=978852265&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:47
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6662b61d2cb25703bf91a6d6680a635985d26c68&timestamp=1465656407&nonce=1847823330&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:46:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0026073d8cb63803a78c8178ac210b7e4f011669&timestamp=1465656413&nonce=946205591&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:47:00
+0--- http://palenggege.com/mobile/weixin/index.php?signature=277786dd17480638bcb2a11d514fca930f7a9d7e&timestamp=1465656420&nonce=1866943238&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:47:20
+0--- http://palenggege.com/mobile/weixin/index.php?signature=782a773bd1014ee7596f051e7c1e1e302a5b22b5&timestamp=1465656440&nonce=238450039&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:47:30
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4b3f7bbd84bac9cf38309cd35efa167c0944f0a4&timestamp=1465656450&nonce=1027438144&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:48:07
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c22950f4fe8bafad0b10abed5f540d9589a0453f&timestamp=1465656487&nonce=1413416798&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:48:53
+0--- http://palenggege.com/mobile/weixin/index.php?signature=cf2ef90260d194a3ff24bcb878120ed3492357b6&timestamp=1465656533&nonce=235475522&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:49:39
+0--- http://palenggege.com/mobile/weixin/index.php?signature=2f89731ec52c48c441e8ba2673a01931949d6dd8&timestamp=1465656579&nonce=1948388505&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:49:59
+0--- http://palenggege.com/mobile/weixin/index.php?signature=293f8becd55ba8ca9d331f1e30e8b46b2d032df5&timestamp=1465656599&nonce=640922530&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 22:52:39
+0--- http://palenggege.com/mobile/
+
+20160611 22:52:42
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:54:28
+0--- http://palenggege.com/mobile/
+
+20160611 22:54:30
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:55:51
+0--- http://palenggege.com/mobile/
+
+20160611 22:55:52
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:56:20
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:57:38
+0--- http://palenggege.com/mobile/
+
+20160611 22:57:39
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:57:47
+0--- http://palenggege.com/mobile/exchange.php
+
+20160611 22:57:47
+0--- http://palenggege.com/mobile/exchange.php
+
+20160611 22:57:47
+0--- http://palenggege.com/mobile/exchange.php?act=ajax_list
+
+20160611 22:57:48
+0--- http://palenggege.com/mobile/exchange.php
+
+20160611 22:58:09
+0--- http://palenggege.com/mobile/
+
+20160611 22:58:10
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:58:13
+0--- http://palenggege.com/mobile/searchindex.php
+
+20160611 22:58:13
+0--- http://palenggege.com/mobile/searchindex.php
+
+20160611 22:58:13
+0--- http://palenggege.com/mobile/searchindex.php
+
+20160611 22:58:13
+0--- http://palenggege.com/mobile/search.php?encode=YTozOntzOjc6ImlzX2FqYXgiO3M6MToiMSI7czozOiJhY3QiO3M6MjQ6ImdldF9zZXNzaW9uX3NlYXJjaF9nb29kcyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NTcwOTM7fQ==
+
+20160611 22:58:15
+0--- http://palenggege.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjY6Iumbhea8viI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NTcwOTU7fQ==
+
+20160611 22:58:15
+0--- http://palenggege.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjY6Iumbhea8viI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NTcwOTU7fQ==
+
+20160611 22:58:15
+0--- http://palenggege.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjY6Iumbhea8viI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NTcwOTU7fQ==
+
+20160611 22:58:16
+0--- http://palenggege.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjY6Iumbhea8viI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NTcwOTU7fQ==
+
+20160611 22:58:16
+0--- http://palenggege.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjY6Iumbhea8viI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NTcwOTU7fQ==
+
+20160611 22:58:19
+0--- http://palenggege.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLpm4XmvL4iO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MDoiIjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY1NzA5OTt9
+
+20160611 22:58:19
+0--- http://palenggege.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLpm4XmvL4iO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MDoiIjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY1NzA5OTt9
+
+20160611 22:58:19
+0--- http://palenggege.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLpm4XmvL4iO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MDoiIjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY1NzA5OTt9
+
+20160611 22:58:19
+0--- http://palenggege.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLpm4XmvL4iO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MDoiIjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY1NzA5OTt9
+
+20160611 22:58:20
+0--- http://palenggege.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLpm4XmvL4iO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MDoiIjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY1NzA5OTt9
+
+20160611 22:58:21
+0--- http://palenggege.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLpm4XmvL4iO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MDoiIjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY1NzEwMTt9
+
+20160611 22:58:22
+0--- http://palenggege.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czo2OiLpm4XmvL4iO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MDoiIjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ2NTY1NzEwMjt9
+
+20160611 22:58:25
+0--- http://palenggege.com/mobile/search.php?encode=YTozOntzOjc6ImlzX2FqYXgiO3M6MToiMSI7czozOiJhY3QiO3M6MjQ6ImdldF9zZXNzaW9uX3NlYXJjaF9nb29kcyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NjU2NTcxMDU7fQ==
+
+20160611 22:58:30
+0--- http://palenggege.com/mobile/
+
+20160611 22:58:31
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 22:59:27
+0--- http://palenggege.com/mobile/
+
+20160611 22:59:28
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 23:06:27
+39-wx_05144101-- http://palenggege.com/mobile/
+
+20160611 23:06:28
+39-wx_05144101-- http://palenggege.com/mobile/?u=39
+
+20160611 23:06:29
+39-wx_05144101-- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 23:14:51
+0--- http://palenggege.com/mobile/
+
+20160611 23:14:55
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 23:15:09
+0--- http://palenggege.com/mobile/
+
+20160611 23:15:12
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 23:15:17
+0--- http://palenggege.com/mobile/
+
+20160611 23:15:19
+0--- http://palenggege.com/mobile/index_bestgoods.php?act=ajax
+
+20160611 23:20:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=c27b8e2a8caa6a8e1b1ba0ae22802da285663a91&timestamp=1465658411&nonce=693474761&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:11
+0--- http://palenggege.com/mobile/weixin/index.php?signature=0fe629c8f6b355420a1591acab56bd5a17ba83eb&timestamp=1465658411&nonce=1149691733&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:13
+0--- http://palenggege.com/mobile/weixin/index.php?signature=4532e177fababc78866c8f11839d997bab014f6e&timestamp=1465658413&nonce=562595490&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:13
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/lucky_buy.php
+
+20160611 23:20:14
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160611 23:20:18
+0--- http://palenggege.com/mobile/weixin/index.php?signature=b0e850905e1a61214b49589345f59433aa01cdf1&timestamp=1465658418&nonce=191417511&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:24
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=180
+
+20160611 23:20:24
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8bbdac9986d3c449d29b5776d48119fec9f46f82&timestamp=1465658424&nonce=1552455328&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:24
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160611 23:20:26
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=180
+
+20160611 23:20:26
+0--- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=180
+
+20160611 23:20:32
+0--- http://palenggege.com/mobile/weixin/index.php?signature=afb263c2ac7edc4f91734503cb991a5118ccfd81&timestamp=1465658432&nonce=1200022304&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:36
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/lucky_buy.php?act=view_goods&act_id=44&u=180
+
+20160611 23:20:39
+0--- http://palenggege.com/mobile/weixin/index.php?signature=607db6c5197667c46c8e48839eb00d40f58251ec&timestamp=1465658439&nonce=1641471016&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:43
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/lucky_buy.php?act=view&act_id=44&u=180
+
+20160611 23:20:44
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=7
+
+20160611 23:20:45
+0--- http://palenggege.com/mobile/weixin/index.php?signature=19cc25564d31d6a1df5a3fa21db715750d9eb7f3&timestamp=1465658445&nonce=999432282&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=69311c49795643894a222f76342b6cfaaedd8f60&timestamp=1465658449&nonce=1241302070&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:49
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/extpintuan.php
+
+20160611 23:20:49
+180-youpin_180-o86iDs9SyeouzfStZ6Kl5V-wSZRg- http://palenggege.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160611 23:20:52
+0--- http://palenggege.com/mobile/weixin/index.php?signature=6ba509f62d7e6954d1e08a544adc45c3fc98a93b&timestamp=1465658452&nonce=1218475554&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:20:58
+0--- http://palenggege.com/mobile/weixin/index.php?signature=59ca7df199faedba332f165c97828f13dc0cfd80&timestamp=1465658458&nonce=1704359509&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:21:04
+0--- http://palenggege.com/mobile/weixin/index.php?signature=cf0a7897d7d080bb25e889ff03210d7171202dc6&timestamp=1465658464&nonce=470209386&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:21:29
+0--- http://palenggege.com/mobile/weixin/index.php?signature=58ab615b146fdbf178d26c11a91bbb6955d7a80b&timestamp=1465658489&nonce=1781418578&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:21:31
+0--- http://palenggege.com/mobile/weixin/index.php?signature=06dba28b3e7edbe5100e7ae29989563990eff9df&timestamp=1465658491&nonce=692897869&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:21:35
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8032b0f11d78242b779df29c815f8e29c48b42ad&timestamp=1465658495&nonce=986972621&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:21:42
+0--- http://palenggege.com/mobile/weixin/index.php?signature=20da12ed18cecd01cd463c2f415af1aee713089c&timestamp=1465658502&nonce=1546290154&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:21:48
+0--- http://palenggege.com/mobile/weixin/index.php?signature=8ad849d327b7ff85099f80b68f69c116c5937804&timestamp=1465658508&nonce=1829169977&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:21:49
+0--- http://palenggege.com/mobile/weixin/index.php?signature=1ce67c58e9c778deeeb0f5008ebc0ad10a51c775&timestamp=1465658509&nonce=249397436&openid=o86iDs9SyeouzfStZ6Kl5V-wSZRg
+
+20160611 23:57:25
+0--- http://palenggege.com/mobile/goods.php?id=140
+

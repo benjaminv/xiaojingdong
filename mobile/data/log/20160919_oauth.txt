@@ -1,0 +1,6 @@
+20160919 02:39:35
+0--- http://localhost/jingdong44/mobile/lucky_buy.php
+
+20160919 02:39:36
+0--- http://localhost/jingdong44/mobile/lucky_buy.php?act=asynclist&type=
+

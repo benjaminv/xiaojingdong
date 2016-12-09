@@ -1,0 +1,162 @@
+<?php
+require("../../inc/header.php");
+
+/*
+		SoftName : EmpireBak Version 2010
+		Author   : wm_chief
+		Copyright: Powered by www.phome.net
+*/
+
+DoSetDbChar('utf8');
+E_D("DROP TABLE IF EXISTS `ecs_searchengine`;");
+E_C("CREATE TABLE `ecs_searchengine` (
+  `date` date NOT NULL DEFAULT '0000-00-00',
+  `searchengine` varchar(20) NOT NULL DEFAULT '',
+  `count` mediumint(8) unsigned NOT NULL DEFAULT '0',
+  PRIMARY KEY (`date`,`searchengine`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8");
+E_D("replace into `ecs_searchengine` values('2016-03-16','SOGOU','31');");
+E_D("replace into `ecs_searchengine` values('2016-03-17','SOGOU','20');");
+E_D("replace into `ecs_searchengine` values('2016-03-18','SOGOU','8');");
+E_D("replace into `ecs_searchengine` values('2016-03-18','GOOGLE','3');");
+E_D("replace into `ecs_searchengine` values('2016-03-19','SOGOU','21');");
+E_D("replace into `ecs_searchengine` values('2016-03-19','GOOGLE','1');");
+E_D("replace into `ecs_searchengine` values('2016-05-18','GOOGLE ADSENSE','2');");
+E_D("replace into `ecs_searchengine` values('2016-05-19','GOOGLE','280');");
+E_D("replace into `ecs_searchengine` values('2016-05-20','GOOGLE','618');");
+E_D("replace into `ecs_searchengine` values('2016-05-21','GOOGLE','1346');");
+E_D("replace into `ecs_searchengine` values('2016-05-22','GOOGLE','1673');");
+E_D("replace into `ecs_searchengine` values('2016-05-23','GOOGLE','1248');");
+E_D("replace into `ecs_searchengine` values('2016-05-24','GOOGLE','519');");
+E_D("replace into `ecs_searchengine` values('2016-05-24','YAHOO','1');");
+E_D("replace into `ecs_searchengine` values('2016-05-25','GOOGLE','497');");
+E_D("replace into `ecs_searchengine` values('2016-05-26','GOOGLE','19');");
+E_D("replace into `ecs_searchengine` values('2016-05-27','GOOGLE','11');");
+E_D("replace into `ecs_searchengine` values('2016-05-28','GOOGLE','31');");
+E_D("replace into `ecs_searchengine` values('2016-05-29','GOOGLE','59');");
+E_D("replace into `ecs_searchengine` values('2016-05-30','GOOGLE','43');");
+E_D("replace into `ecs_searchengine` values('2016-05-31','GOOGLE','213');");
+E_D("replace into `ecs_searchengine` values('2016-06-01','GOOGLE','371');");
+E_D("replace into `ecs_searchengine` values('2016-06-01','BAIDU','2');");
+E_D("replace into `ecs_searchengine` values('2016-06-02','GOOGLE','34');");
+E_D("replace into `ecs_searchengine` values('2016-06-03','GOOGLE','143');");
+E_D("replace into `ecs_searchengine` values('2016-06-04','GOOGLE','191');");
+E_D("replace into `ecs_searchengine` values('2016-06-05','GOOGLE','67');");
+E_D("replace into `ecs_searchengine` values('2016-06-06','GOOGLE','203');");
+E_D("replace into `ecs_searchengine` values('2016-06-07','GOOGLE','838');");
+E_D("replace into `ecs_searchengine` values('2016-06-07','YAHOO','1');");
+E_D("replace into `ecs_searchengine` values('2016-06-08','GOOGLE','424');");
+E_D("replace into `ecs_searchengine` values('2016-06-09','GOOGLE','74');");
+E_D("replace into `ecs_searchengine` values('2016-06-10','GOOGLE','17');");
+E_D("replace into `ecs_searchengine` values('2016-06-11','GOOGLE','15');");
+E_D("replace into `ecs_searchengine` values('2016-06-12','GOOGLE','6');");
+E_D("replace into `ecs_searchengine` values('2016-06-13','GOOGLE','8');");
+E_D("replace into `ecs_searchengine` values('2016-06-14','GOOGLE','61');");
+E_D("replace into `ecs_searchengine` values('2016-06-15','GOOGLE','45');");
+E_D("replace into `ecs_searchengine` values('2016-06-16','GOOGLE','12');");
+E_D("replace into `ecs_searchengine` values('2016-06-17','GOOGLE','6');");
+E_D("replace into `ecs_searchengine` values('2016-06-18','GOOGLE','16');");
+E_D("replace into `ecs_searchengine` values('2016-06-19','GOOGLE','13');");
+E_D("replace into `ecs_searchengine` values('2016-06-20','GOOGLE','21');");
+E_D("replace into `ecs_searchengine` values('2016-06-21','GOOGLE','21');");
+E_D("replace into `ecs_searchengine` values('2016-06-22','GOOGLE','18');");
+E_D("replace into `ecs_searchengine` values('2016-06-23','GOOGLE','9');");
+E_D("replace into `ecs_searchengine` values('2016-06-24','GOOGLE','24');");
+E_D("replace into `ecs_searchengine` values('2016-06-25','GOOGLE','14');");
+E_D("replace into `ecs_searchengine` values('2016-06-26','GOOGLE','22');");
+E_D("replace into `ecs_searchengine` values('2016-06-27','GOOGLE','14');");
+E_D("replace into `ecs_searchengine` values('2016-06-27','GOOGLE ADSENSE','1');");
+E_D("replace into `ecs_searchengine` values('2016-06-28','GOOGLE','12');");
+E_D("replace into `ecs_searchengine` values('2016-06-29','GOOGLE','28');");
+E_D("replace into `ecs_searchengine` values('2016-06-30','GOOGLE','17');");
+E_D("replace into `ecs_searchengine` values('2016-07-01','GOOGLE','68');");
+E_D("replace into `ecs_searchengine` values('2016-07-01','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-07-02','GOOGLE','18');");
+E_D("replace into `ecs_searchengine` values('2016-07-03','GOOGLE','20');");
+E_D("replace into `ecs_searchengine` values('2016-07-04','GOOGLE','14');");
+E_D("replace into `ecs_searchengine` values('2016-07-05','GOOGLE','21');");
+E_D("replace into `ecs_searchengine` values('2016-07-06','GOOGLE','23');");
+E_D("replace into `ecs_searchengine` values('2016-07-07','GOOGLE','15');");
+E_D("replace into `ecs_searchengine` values('2016-07-07','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-07-08','GOOGLE','485');");
+E_D("replace into `ecs_searchengine` values('2016-07-09','GOOGLE','10');");
+E_D("replace into `ecs_searchengine` values('2016-07-10','GOOGLE','364');");
+E_D("replace into `ecs_searchengine` values('2016-07-11','GOOGLE','16');");
+E_D("replace into `ecs_searchengine` values('2016-07-11','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-07-12','GOOGLE','15');");
+E_D("replace into `ecs_searchengine` values('2016-07-13','GOOGLE','57');");
+E_D("replace into `ecs_searchengine` values('2016-07-14','GOOGLE','33');");
+E_D("replace into `ecs_searchengine` values('2016-07-15','GOOGLE','23');");
+E_D("replace into `ecs_searchengine` values('2016-07-16','GOOGLE','141');");
+E_D("replace into `ecs_searchengine` values('2016-07-17','GOOGLE','39');");
+E_D("replace into `ecs_searchengine` values('2016-07-18','GOOGLE','55');");
+E_D("replace into `ecs_searchengine` values('2016-07-19','GOOGLE','20');");
+E_D("replace into `ecs_searchengine` values('2016-07-23','GOOGLE','166');");
+E_D("replace into `ecs_searchengine` values('2016-07-24','GOOGLE','462');");
+E_D("replace into `ecs_searchengine` values('2016-07-25','GOOGLE','284');");
+E_D("replace into `ecs_searchengine` values('2016-07-25','BAIDU','2');");
+E_D("replace into `ecs_searchengine` values('2016-07-26','GOOGLE','38');");
+E_D("replace into `ecs_searchengine` values('2016-07-28','GOOGLE','269');");
+E_D("replace into `ecs_searchengine` values('2016-07-29','GOOGLE','911');");
+E_D("replace into `ecs_searchengine` values('2016-07-30','GOOGLE','652');");
+E_D("replace into `ecs_searchengine` values('2016-07-31','GOOGLE','856');");
+E_D("replace into `ecs_searchengine` values('2016-08-01','GOOGLE','840');");
+E_D("replace into `ecs_searchengine` values('2016-08-02','GOOGLE','900');");
+E_D("replace into `ecs_searchengine` values('2016-08-03','GOOGLE','918');");
+E_D("replace into `ecs_searchengine` values('2016-08-04','GOOGLE','1031');");
+E_D("replace into `ecs_searchengine` values('2016-08-05','GOOGLE','811');");
+E_D("replace into `ecs_searchengine` values('2016-08-05','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-06','GOOGLE','937');");
+E_D("replace into `ecs_searchengine` values('2016-08-06','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-07','GOOGLE','677');");
+E_D("replace into `ecs_searchengine` values('2016-08-07','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-08','GOOGLE','491');");
+E_D("replace into `ecs_searchengine` values('2016-08-09','GOOGLE','447');");
+E_D("replace into `ecs_searchengine` values('2016-08-09','BAIDU','2');");
+E_D("replace into `ecs_searchengine` values('2016-08-10','GOOGLE','908');");
+E_D("replace into `ecs_searchengine` values('2016-08-10','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-11','GOOGLE','524');");
+E_D("replace into `ecs_searchengine` values('2016-08-11','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-12','GOOGLE','338');");
+E_D("replace into `ecs_searchengine` values('2016-08-12','BAIDU','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-12','SOGOU','4');");
+E_D("replace into `ecs_searchengine` values('2016-08-13','GOOGLE','264');");
+E_D("replace into `ecs_searchengine` values('2016-08-13','SOGOU','305');");
+E_D("replace into `ecs_searchengine` values('2016-08-13','YAHOO','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-14','SOGOU','681');");
+E_D("replace into `ecs_searchengine` values('2016-08-14','GOOGLE','444');");
+E_D("replace into `ecs_searchengine` values('2016-08-14','YAHOO','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-14','MSN','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-15','SOGOU','812');");
+E_D("replace into `ecs_searchengine` values('2016-08-15','GOOGLE','558');");
+E_D("replace into `ecs_searchengine` values('2016-08-16','GOOGLE','653');");
+E_D("replace into `ecs_searchengine` values('2016-08-16','SOGOU','669');");
+E_D("replace into `ecs_searchengine` values('2016-08-17','SOGOU','2052');");
+E_D("replace into `ecs_searchengine` values('2016-08-17','GOOGLE','607');");
+E_D("replace into `ecs_searchengine` values('2016-08-18','GOOGLE','1045');");
+E_D("replace into `ecs_searchengine` values('2016-08-18','SOGOU','690');");
+E_D("replace into `ecs_searchengine` values('2016-08-19','GOOGLE','1023');");
+E_D("replace into `ecs_searchengine` values('2016-08-19','SOGOU','664');");
+E_D("replace into `ecs_searchengine` values('2016-08-19','YAHOO','244');");
+E_D("replace into `ecs_searchengine` values('2016-08-20','GOOGLE','949');");
+E_D("replace into `ecs_searchengine` values('2016-08-20','YAHOO','28');");
+E_D("replace into `ecs_searchengine` values('2016-08-20','SOGOU','1357');");
+E_D("replace into `ecs_searchengine` values('2016-08-20','MSN','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-21','GOOGLE','1075');");
+E_D("replace into `ecs_searchengine` values('2016-08-21','SOGOU','1704');");
+E_D("replace into `ecs_searchengine` values('2016-08-21','YAHOO','10');");
+E_D("replace into `ecs_searchengine` values('2016-08-22','SOGOU','1115');");
+E_D("replace into `ecs_searchengine` values('2016-08-22','GOOGLE','1176');");
+E_D("replace into `ecs_searchengine` values('2016-08-22','YAHOO','10');");
+E_D("replace into `ecs_searchengine` values('2016-08-23','GOOGLE','942');");
+E_D("replace into `ecs_searchengine` values('2016-08-23','SOGOU','2479');");
+E_D("replace into `ecs_searchengine` values('2016-08-23','YAHOO','11');");
+E_D("replace into `ecs_searchengine` values('2016-08-24','GOOGLE','564');");
+E_D("replace into `ecs_searchengine` values('2016-08-24','SOGOU','671');");
+E_D("replace into `ecs_searchengine` values('2016-08-24','YAHOO','6');");
+E_D("replace into `ecs_searchengine` values('2016-08-25','GOOGLE','660');");
+E_D("replace into `ecs_searchengine` values('2016-08-25','YAHOO','1');");
+E_D("replace into `ecs_searchengine` values('2016-08-25','SOGOU','411');");
+
+require("../../inc/footer.php");
+?>

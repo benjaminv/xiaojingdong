@@ -1,0 +1,3 @@
+'<xml><return_code><![CDATA[FAIL]]></return_code>
+<return_msg><![CDATA[invalid spbill_create_ip]]></return_msg>
+</xml>'

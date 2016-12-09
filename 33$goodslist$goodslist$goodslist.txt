@@ -1,0 +1,30 @@
+array (
+  9 => 
+  array (
+    'watermark_img' => 'watermark_promote_small',
+    'goods_id' => '9',
+    'goods_name' => '韩都衣舍2016韩版女装秋装新款时尚印花宽松显瘦...',
+    'goods_number' => '100',
+    'name' => '韩都衣舍2016韩版女装秋装新款时尚印花宽松显瘦长袖T恤EQ6111婋',
+    'is_promote' => NULL,
+    'is_new' => '1',
+    'is_hot' => '0',
+    'is_best' => '1',
+    'goods_brief' => '',
+    'goods_style_name' => '韩都衣舍2016韩版女装秋装新款时尚印花宽松显瘦长袖T恤EQ6111婋',
+    'market_price' => '¥69.60',
+    'shop_price' => '¥58.00',
+    'type' => '0',
+    'promote_price' => '¥40.00',
+    'goods_thumb' => 'images/201610/thumb_img/_thumb_P_1476339842386.jpg',
+    'goods_img' => 'images/201610/goods_img/_P_1476339842762.jpg',
+    'url' => 'goods.php?id=9',
+    'comment_count' => '20',
+    'count' => 500,
+    'click_count' => '9',
+    'is_collet' => 0,
+  ),
+  10 => 
+  array (
+  ),
+)

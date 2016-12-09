@@ -1,0 +1,2229 @@
+20160818 00:05:02
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=870
+
+20160818 00:05:02
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=870
+
+20160818 00:05:03
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=870&type=0&page=1&1471449903312312
+
+20160818 00:05:04
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=870&attr=&number=1&1471449904315315
+
+20160818 00:29:59
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=543
+
+20160818 00:29:59
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=543
+
+20160818 00:30:00
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=543&type=0&page=1&1471451400297297
+
+20160818 00:30:01
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=543&attr=&number=1&1471451401126126
+
+20160818 01:18:24
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=6966
+
+20160818 01:18:26
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=6966
+
+20160818 01:18:27
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=6966&type=0&page=1&14714543070077
+
+20160818 01:18:28
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=6966&attr=&number=1&1471454308249249
+
+20160818 01:54:36
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 01:54:37
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 01:54:39
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 01:54:48
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020
+
+20160818 01:54:48
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=1020
+
+20160818 01:54:49
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=1020
+
+20160818 01:54:50
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:55:06
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 01:55:09
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTQ1NjUwOTt9
+
+20160818 01:55:10
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE0NTY1MTA7fQ==
+
+20160818 01:55:22
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 01:55:30
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE0NTY1MzA7fQ==
+
+20160818 01:55:32
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 01:55:33
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 01:55:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 01:55:36
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/activity.php
+
+20160818 01:55:38
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/activity.php?act=ajax_list
+
+20160818 01:55:42
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 01:55:45
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=356
+
+20160818 01:55:45
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=356
+
+20160818 01:55:46
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:55:53
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:56:00
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 01:56:04
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=357
+
+20160818 01:56:05
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=357
+
+20160818 01:56:06
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:56:16
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:56:20
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:56:33
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:56:42
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:56:43
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:57:16
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:57:23
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:57:37
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:57:45
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:57:54
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:58:01
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:58:01
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:58:13
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:58:23
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:58:35
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:58:35
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:58:52
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:59:00
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=362
+
+20160818 01:59:01
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?u=473&id=362
+
+20160818 01:59:02
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=362&type=0&page=1&1471456741474474
+
+20160818 01:59:03
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?act=price&id=362&attr=&number=1&1471456741823823
+
+20160818 01:59:12
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 01:59:15
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:39:39
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:39:39
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:40:00
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:40:00
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:40:27
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:40:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:40:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:40:57
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:40:58
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:41:10
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:41:17
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:41:24
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:41:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:41:47
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:41:47
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:42:13
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:42:13
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:42:44
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=357&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 07:42:55
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 07:42:56
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 08:31:50
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 08:31:52
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 08:31:56
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 08:32:15
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020
+
+20160818 08:32:15
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=1020
+
+20160818 08:32:17
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=1020
+
+20160818 08:32:21
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 08:33:19
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 08:33:23
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 08:34:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?act=selcart&sel_goods=2534,2535,2540,2541,2539,2538,2536,2537&1471480460503503
+
+20160818 08:35:31
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=32634
+
+20160818 08:35:32
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?u=473&id=32634
+
+20160818 08:57:46
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?act=selcart&sel_goods=2534,2535,2542,2540,2541,2539,2538,2536&1471481864704704
+
+20160818 08:57:46
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=32693
+
+20160818 08:58:03
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php
+
+20160818 09:45:53
+0--- http://www.chaligou.com/mobile/goods.php?id=32711
+
+20160818 09:45:58
+0---021NzTBf1lwvDm0t9vBf1eGTBf1NzTBO http://www.chaligou.com/mobile/goods.php?id=32711&code=021NzTBf1lwvDm0t9vBf1eGTBf1NzTBO&state=1
+
+20160818 09:46:02
+0---031gYKhS16SWCU0KK7hS140DhS1gYKhv http://www.chaligou.com/mobile/goods.php?id=32711&code=021NzTBf1lwvDm0t9vBf1eGTBf1NzTBO&state=1&code=031gYKhS16SWCU0KK7hS140DhS1gYKhv&state=1
+
+20160818 09:46:05
+0--oybWRs8DcY2lzvXgps-QRc-n6kcI-041YKbn0052mMB11DHn00sUbn00YKbne http://www.chaligou.com/mobile/goods.php?id=32711&code=021NzTBf1lwvDm0t9vBf1eGTBf1NzTBO&state=1&code=031gYKhS16SWCU0KK7hS140DhS1gYKhv&state=1&code=041YKbn0052mMB11DHn00sUbn00YKbne&state=1
+
+20160818 09:46:08
+1335-clg_1335-oybWRs8DcY2lzvXgps-QRc-n6kcI-041YKbn0052mMB11DHn00sUbn00YKbne http://www.chaligou.com/mobile/goods.php?u=1335&id=32711&code=021NzTBf1lwvDm0t9vBf1eGTBf1NzTBO&state=1&code=031gYKhS16SWCU0KK7hS140DhS1gYKhv&state=1&code=041YKbn0052mMB11DHn00sUbn00YKbne&state=1
+
+20160818 09:46:10
+1335-clg_1335-oybWRs8DcY2lzvXgps-QRc-n6kcI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32711&type=0&page=1&1471484770329329
+
+20160818 09:46:10
+1335-clg_1335-oybWRs8DcY2lzvXgps-QRc-n6kcI- http://www.chaligou.com/mobile/goods.php?act=price&id=32711&attr=&number=1&1471484770738738
+
+20160818 10:02:40
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=6971
+
+20160818 10:02:41
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=6971
+
+20160818 10:02:52
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=6971&type=0&page=1&1471485771838838
+
+20160818 10:02:53
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=6971&attr=&number=1&1471485773745745
+
+20160818 10:05:06
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=6971
+
+20160818 10:05:06
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=6971
+
+20160818 10:05:07
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=6971&type=0&page=1&1471485907771771
+
+20160818 10:05:08
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=6971&attr=&number=1&1471485908880880
+
+20160818 10:06:50
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/
+
+20160818 10:06:50
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/?u=1333
+
+20160818 10:06:54
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 10:06:54
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/user.php
+
+20160818 10:07:05
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/
+
+20160818 10:07:05
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/
+
+20160818 10:08:00
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/?u=1333
+
+20160818 10:08:02
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 10:08:20
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=6971
+
+20160818 10:08:21
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=6971
+
+20160818 10:08:22
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=6971&type=0&page=1&1471486102519519
+
+20160818 10:08:23
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=6971&attr=&number=1&1471486103268268
+
+20160818 10:08:40
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=6971
+
+20160818 10:08:40
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=6971
+
+20160818 10:08:41
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=6971&type=0&page=1&1471486121513513
+
+20160818 10:08:41
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=6971&attr=&number=1&1471486121597597
+
+20160818 10:31:58
+0--- http://www.chaligou.com/mobile/extpintuan.php
+
+20160818 10:31:59
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/extpintuan.php
+
+20160818 10:32:12
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/extpintuan.php?act=asynclist&type=0
+
+20160818 10:32:13
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 10:32:15
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 10:32:19
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 10:32:46
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=32623
+
+20160818 10:32:47
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?u=473&id=32623
+
+20160818 10:33:06
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32623&type=0&page=1&1471487584505505
+
+20160818 10:33:10
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 10:33:26
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 10:33:27
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 10:33:35
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 10:33:45
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=5837
+
+20160818 10:33:46
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?u=473&id=5837
+
+20160818 10:33:51
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=5837&type=0&page=1&1471487629955955
+
+20160818 10:33:57
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?act=selcart&sel_goods=2534,2541,2539,2538,2536,2537&1471487636178178
+
+20160818 10:34:10
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?act=selcart&sel_goods=2534,2541,2538,2536,2537&1471487637847847
+
+20160818 10:34:24
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 10:34:25
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 10:34:31
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 10:34:33
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 10:34:41
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?act=selcart&sel_goods=&147148767904343
+
+20160818 10:35:04
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 10:35:07
+0--- http://www.chaligou.com/mobile/extpintuan.php
+
+20160818 10:35:07
+0--- http://www.chaligou.com/mobile/extpintuan.php
+
+20160818 10:35:13
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=1065
+
+20160818 10:35:14
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=1065
+
+20160818 10:35:22
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1065&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 10:36:40
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=32340
+
+20160818 10:36:42
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?u=473&id=32340
+
+20160818 11:01:55
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 11:01:57
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 11:02:09
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:02:23
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:02:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:02:31
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 11:02:41
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 11:02:44
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 11:02:52
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=1065
+
+20160818 11:02:53
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=1065
+
+20160818 11:02:58
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1065&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:03:10
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1065&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:03:57
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1065&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:04:16
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1065&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:04:40
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 11:05:08
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1065&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:07:51
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 11:08:16
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=587
+
+20160818 11:08:17
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=587
+
+20160818 11:08:19
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:08:38
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:09:31
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=4575
+
+20160818 11:09:36
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?u=473&id=4575
+
+20160818 11:09:50
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=4575&type=0&page=1&1471489788739739
+
+20160818 11:10:11
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 11:10:13
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 11:15:09
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:15:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2535
+
+20160818 11:15:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2650
+
+20160818 11:15:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:15:47
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2542
+
+20160818 11:15:48
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:15:50
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2540
+
+20160818 11:15:50
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:16:02
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2541
+
+20160818 11:16:02
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:16:03
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2538
+
+20160818 11:16:04
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:16:12
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2537
+
+20160818 11:16:13
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:16:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2537
+
+20160818 11:16:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:17:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 11:17:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=587
+
+20160818 11:17:36
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=587
+
+20160818 11:17:40
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:18:24
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:18:25
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=32473
+
+20160818 11:18:27
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471490306918918
+
+20160818 11:18:27
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471490307154154
+
+20160818 11:18:27
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?id=4574
+
+20160818 11:18:31
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods.php?u=473&id=4574
+
+20160818 11:18:35
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:18:35
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=32473
+
+20160818 11:18:36
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471490316728728
+
+20160818 11:18:36
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471490316814814
+
+20160818 11:18:37
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=4574&type=0&page=1&1471490313962962
+
+20160818 11:18:46
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=587&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:19:02
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 11:19:04
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:19:05
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=32473
+
+20160818 11:19:06
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471490345905905
+
+20160818 11:19:06
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&14714903460099
+
+20160818 11:19:13
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:19:13
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?u=1333&id=32473
+
+20160818 11:19:14
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471490354409409
+
+20160818 11:19:14
+1333-clg_1333-oybWRs1bLYaOGasJjY-Hpg5ZivgI- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471490354573573
+
+20160818 11:19:17
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 11:19:23
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=592
+
+20160818 11:19:25
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=592
+
+20160818 11:19:27
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=592&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 11:19:42
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 11:19:53
+0--- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:19:57
+0---011BoCyG1sojdd0aZ3xG1SpFyG1BoCyk http://www.chaligou.com/mobile/goods.php?id=32473&code=011BoCyG1sojdd0aZ3xG1SpFyG1BoCyk&state=1
+
+20160818 11:20:01
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php
+
+20160818 11:20:23
+0--- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:20:27
+0---031K48DN1SlMbZ0jTgGN1k74DN1K48DP http://www.chaligou.com/mobile/goods.php?id=32473&code=031K48DN1SlMbZ0jTgGN1k74DN1K48DP&state=1
+
+20160818 11:20:29
+0--oybWRswA949kfFT4dLlky_WOUb_4-041hDWKk2sHKjK0JIzIk2zKWKk2hDWKX http://www.chaligou.com/mobile/goods.php?id=32473&code=031K48DN1SlMbZ0jTgGN1k74DN1K48DP&state=1&code=041hDWKk2sHKjK0JIzIk2zKWKk2hDWKX&state=1
+
+20160818 11:20:31
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4-041hDWKk2sHKjK0JIzIk2zKWKk2hDWKX http://www.chaligou.com/mobile/goods.php?u=1336&id=32473&code=031K48DN1SlMbZ0jTgGN1k74DN1K48DP&state=1&code=041hDWKk2sHKjK0JIzIk2zKWKk2hDWKX&state=1
+
+20160818 11:20:33
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&147149043302626
+
+20160818 11:20:33
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471490433473473
+
+20160818 11:20:37
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4-04114Lua2A6ikC0KqUva2fdLua214Lu1 http://www.chaligou.com/mobile/goods.php?id=32473&code=031K48DN1SlMbZ0jTgGN1k74DN1K48DP&state=1&code=04114Lua2A6ikC0KqUva2fdLua214Lu1&state=1
+
+20160818 11:20:38
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4-04114Lua2A6ikC0KqUva2fdLua214Lu1 http://www.chaligou.com/mobile/goods.php?u=1336&id=32473&code=031K48DN1SlMbZ0jTgGN1k74DN1K48DP&state=1&code=04114Lua2A6ikC0KqUva2fdLua214Lu1&state=1
+
+20160818 11:20:38
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471490438546546
+
+20160818 11:20:38
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471490438662662
+
+20160818 11:20:44
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:20:45
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods.php?u=1336&id=32473
+
+20160818 11:20:45
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471490445598598
+
+20160818 11:20:45
+1336-clg_1336-oybWRswA949kfFT4dLlky_WOUb_4- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471490445576576
+
+20160818 11:23:03
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=checkout
+
+20160818 11:23:09
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=select_shipping&recid=25&suppid=0&1471490586822822
+
+20160818 11:24:04
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=check_surplus_open&1471490633631631
+
+20160818 11:24:17
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/flow.php?step=done
+
+20160818 11:25:21
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index.php
+
+20160818 11:25:39
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index.php?u=473
+
+20160818 11:25:41
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 11:25:45
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php
+
+20160818 11:26:11
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=100
+
+20160818 11:27:33
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=100
+
+20160818 11:27:35
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160818 11:27:47
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=cancel_order&order_id=1930
+
+20160818 11:27:47
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_list
+
+20160818 11:27:51
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=cancel_order&order_id=1930
+
+20160818 11:27:58
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_detail&order_id=1934
+
+20160818 11:28:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php
+
+20160818 11:28:28
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_detail&order_id=1934&is_pay=1
+
+20160818 11:32:43
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 11:32:45
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 11:32:48
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 11:32:50
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php
+
+20160818 11:32:57
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=100
+
+20160818 11:33:15
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160818 11:33:24
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_detail&order_id=1934
+
+20160818 11:33:44
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php
+
+20160818 11:33:44
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_detail&order_id=1934&is_pay=1
+
+20160818 11:34:00
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index.php
+
+20160818 11:34:02
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index.php?u=473
+
+20160818 11:35:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 11:35:53
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 11:35:54
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 11:35:56
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 11:35:58
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php
+
+20160818 11:36:03
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=100
+
+20160818 11:36:05
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160818 11:48:44
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:48:44
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods.php?u=1324&id=32473
+
+20160818 11:48:47
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471492127878878
+
+20160818 11:48:47
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471492128147147
+
+20160818 11:49:58
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods.php?id=32473
+
+20160818 11:49:59
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods.php?u=1324&id=32473
+
+20160818 11:50:00
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32473&type=0&page=1&1471492200702702
+
+20160818 11:50:00
+1324-clg_1324-oybWRswHcPJiZw6wiASpF9gh-XIM- http://www.chaligou.com/mobile/goods.php?act=price&id=32473&attr=&number=1&1471492200800800
+
+20160818 12:28:45
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/
+
+20160818 12:28:46
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/?u=473
+
+20160818 12:29:10
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?id=1123
+
+20160818 12:29:12
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?u=473&id=1123
+
+20160818 12:29:15
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1123&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 12:29:24
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php
+
+20160818 12:29:34
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=order_list&composite_status=101
+
+20160818 12:29:36
+473-大新四溢茶香陈强-- http://www.chaligou.com/mobile/user.php?act=ajax_order_list
+
+20160818 13:59:23
+0--- http://www.chaligou.com/mobile/
+
+20160818 13:59:29
+0---031wRF3w03SlLn15EZ2w0yJE3w0wRF34 http://www.chaligou.com/mobile/?code=031wRF3w03SlLn15EZ2w0yJE3w0wRF34&state=1
+
+20160818 13:59:33
+0---031Hm92R0856od266C4R0Rma2R0Hm92J http://www.chaligou.com/mobile/?code=031wRF3w03SlLn15EZ2w0yJE3w0wRF34&state=1&code=031Hm92R0856od266C4R0Rma2R0Hm92J&state=1
+
+20160818 13:59:37
+0--oybWRsxz_kcqcMv79aHBoYgyorKU-021sitWR0IqDuc25c40S0ryrWR0sitWg http://www.chaligou.com/mobile/?code=031wRF3w03SlLn15EZ2w0yJE3w0wRF34&state=1&code=031Hm92R0856od266C4R0Rma2R0Hm92J&state=1&code=021sitWR0IqDuc25c40S0ryrWR0sitWg&state=1
+
+20160818 13:59:39
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU-021sitWR0IqDuc25c40S0ryrWR0sitWg http://www.chaligou.com/mobile/?u=1337&code=031wRF3w03SlLn15EZ2w0yJE3w0wRF34&state=1&code=031Hm92R0856od266C4R0Rma2R0Hm92J&state=1&code=021sitWR0IqDuc25c40S0ryrWR0sitWg&state=1
+
+20160818 13:59:47
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 13:59:57
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:00:08
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/user.php
+
+20160818 14:00:20
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/
+
+20160818 14:00:20
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/?u=1337
+
+20160818 14:00:22
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:00:27
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/goods.php?id=32306
+
+20160818 14:00:28
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/goods.php?u=1337&id=32306
+
+20160818 14:00:30
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32306&type=0&page=1&1471500029917917
+
+20160818 14:00:30
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/goods.php?act=price&id=32306&attr=&number=1&1471500030211211
+
+20160818 14:00:35
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 14:00:36
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=cart
+
+20160818 14:00:36
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=checkout
+
+20160818 14:00:37
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=consignee
+
+20160818 14:00:41
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/goods.php?u=1337&id=32306
+
+20160818 14:00:42
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32306&type=0&page=1&1471500041994994
+
+20160818 14:00:42
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/goods.php?act=price&id=32306&attr=&number=1&1471500042114114
+
+20160818 14:00:44
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/
+
+20160818 14:00:45
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/?u=1337
+
+20160818 14:00:46
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:00:57
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:00:59
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php
+
+20160818 14:01:00
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=checkout
+
+20160818 14:01:00
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=consignee
+
+20160818 14:01:01
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php
+
+20160818 14:01:01
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=checkout
+
+20160818 14:01:02
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=consignee
+
+20160818 14:01:02
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php
+
+20160818 14:01:02
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=checkout
+
+20160818 14:01:03
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/flow.php?step=consignee
+
+20160818 14:01:17
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/?u=1337
+
+20160818 14:01:18
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:01:24
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:01:29
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwMDA4OTt9
+
+20160818 14:01:30
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDAwOTA7fQ==
+
+20160818 14:01:33
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/?u=1337
+
+20160818 14:01:34
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:01:35
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/activity.php
+
+20160818 14:01:36
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/activity.php?act=ajax_list
+
+20160818 14:01:37
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/?u=1337
+
+20160818 14:01:39
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:01:41
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?id=356
+
+20160818 14:01:42
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?u=1337&id=356
+
+20160818 14:01:43
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/?u=1337
+
+20160818 14:01:44
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 14:01:45
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/catalog.php
+
+20160818 14:01:55
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?id=1081
+
+20160818 14:01:55
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?u=1337&id=1081
+
+20160818 14:01:57
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?act=ajax&category=1081&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 14:02:10
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?act=ajax&category=1081&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 14:02:21
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?act=ajax&category=1081&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 14:02:22
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?act=ajax&category=1081&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 14:02:34
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?act=ajax&category=1081&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 14:02:35
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?act=ajax&category=1081&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 14:02:41
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?category=1081&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160818 14:02:41
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?u=1337&category=1081&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160818 14:02:43
+1337-clg_1337-oybWRsxz_kcqcMv79aHBoYgyorKU- http://www.chaligou.com/mobile/category.php?act=ajax&category=1081&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:03:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/
+
+20160818 15:03:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/?u=902
+
+20160818 15:03:26
+902-北流高峰茶业-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 15:03:31
+902-北流高峰茶业-- http://www.chaligou.com/mobile/pro_search.php?encode=YToxOntzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwMzgxMTt9
+
+20160818 15:03:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/pro_search.php?encode=YTo0OntzOjM6ImFjdCI7czo5OiJhamF4X2xpc3QiO3M6NDoibGFzdCI7czoxOiIwIjtzOjY6ImFtb3VudCI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDM4MTI7fQ==
+
+20160818 15:03:37
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:03:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=557
+
+20160818 15:03:42
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=557
+
+20160818 15:03:43
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:03:58
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:04:10
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:04:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:04:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:04:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:04:48
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:05:24
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=557&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:05:24
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=557&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:05:25
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:05:30
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:05:38
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1036
+
+20160818 15:05:39
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1036
+
+20160818 15:05:40
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:05:44
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=1036&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160818 15:05:45
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=1036&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160818 15:05:45
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:05:49
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=1036&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC
+
+20160818 15:05:49
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=1036&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC
+
+20160818 15:05:50
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC&other_has=1
+
+20160818 15:06:02
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC&other_has=1
+
+20160818 15:06:15
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC&other_has=1
+
+20160818 15:06:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC&other_has=1
+
+20160818 15:06:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC&other_has=1
+
+20160818 15:06:49
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=DESC&other_has=1
+
+20160818 15:07:30
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:07:37
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:07:44
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:08:05
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1036&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:08:11
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:08:16
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1039
+
+20160818 15:08:17
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1039
+
+20160818 15:08:18
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:08:24
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=1039&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:08:27
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=1039&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:08:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:08:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:08:48
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:08:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:09:04
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:09:05
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:09:08
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:09:13
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1039&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:10:07
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:10:21
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1040
+
+20160818 15:10:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1040
+
+20160818 15:10:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:10:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=1040&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:10:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=1040&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:10:30
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:10:37
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:10:40
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:10:45
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:10:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?id=3939
+
+20160818 15:10:54
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?u=902&id=3939
+
+20160818 15:10:54
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?u=902&id=3939
+
+20160818 15:10:55
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?u=902&id=3939
+
+20160818 15:10:58
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?act=price&id=3939&attr=&number=1&147150425802121
+
+20160818 15:11:00
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=3939&type=0&page=1&1471504257154154
+
+20160818 15:11:06
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=3939&type=0&page=1&1471504265723723
+
+20160818 15:11:06
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?act=price&id=3939&attr=&number=1&1471504265867867
+
+20160818 15:11:07
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:11:08
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1040&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:11:13
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1109
+
+20160818 15:11:14
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1109
+
+20160818 15:11:15
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1109&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:11:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=1109&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160818 15:11:42
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=1109&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160818 15:11:44
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1109&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:11:57
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=1109&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:11:58
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=1109&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:12:01
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1109&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:12:17
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1109&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:12:19
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1109&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:12:26
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=589
+
+20160818 15:12:27
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=589
+
+20160818 15:12:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:12:36
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:12:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=589&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:12:46
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:13:01
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:13:26
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=611
+
+20160818 15:13:27
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=611
+
+20160818 15:13:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=611&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:13:39
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=612
+
+20160818 15:13:40
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=612
+
+20160818 15:13:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=612&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:14:11
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:14:42
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=356
+
+20160818 15:14:46
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=356
+
+20160818 15:14:49
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=356
+
+20160818 15:14:51
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=356
+
+20160818 15:14:52
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:14:58
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=356&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:14:59
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=356&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC
+
+20160818 15:15:00
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:15:08
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:15:12
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:15:18
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:15:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:15:43
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:15:50
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:15:55
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:04
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:14
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:15
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:38
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:44
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:50
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=last_update&order=DESC&other_has=1
+
+20160818 15:16:52
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:17:14
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=613
+
+20160818 15:17:17
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=613
+
+20160818 15:17:18
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=613&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:17:25
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=613&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:17:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:17:38
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1090
+
+20160818 15:17:40
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1090
+
+20160818 15:17:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:18:02
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:18:11
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:18:16
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:18:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:18:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:18:48
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:18:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:18:57
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:19:03
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:19:03
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:19:07
+902-北流高峰茶业-- http://www.chaligou.com/mobile/extpintuan.php
+
+20160818 15:19:07
+902-北流高峰茶业-- http://www.chaligou.com/mobile/extpintuan.php
+
+20160818 15:23:51
+902-北流高峰茶业-- http://www.chaligou.com/mobile/
+
+20160818 15:23:52
+902-北流高峰茶业-- http://www.chaligou.com/mobile/?u=902
+
+20160818 15:23:55
+902-北流高峰茶业-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 15:23:59
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjU6ImludHJvIjtzOjM6Im5ldyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDUwMzk7fQ==
+
+20160818 15:24:07
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MzoibmV3IjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MToiMSI7czo0OiJzb3J0IjtzOjc6InNhbGVudW0iO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTA0Nzt9
+
+20160818 15:24:32
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiIyIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTA3MTt9
+
+20160818 15:24:42
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiIzIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTA4Mjt9
+
+20160818 15:24:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiI0IjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTA5Mzt9
+
+20160818 15:25:06
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiI1IjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTEwNjt9
+
+20160818 15:25:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiI2IjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTEyMzt9
+
+20160818 15:25:35
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiI3IjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTEzNDt9
+
+20160818 15:25:43
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiI4IjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTE0Mzt9
+
+20160818 15:25:54
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoxOiI5IjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTE1NDt9
+
+20160818 15:26:07
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjQ6InNvcnQiO3M6Nzoic2FsZW51bSI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6OToibWluX3ByaWNlIjtzOjE6IjAiO3M6OToibWF4X3ByaWNlIjtzOjE6IjAiO3M6NjoiYWN0aW9uIjtzOjA6IiI7czo1OiJpbnRybyI7czozOiJuZXciO3M6MTA6Imdvb2RzX3R5cGUiO3M6MToiMCI7czo1OiJzY19kcyI7czoxOiIwIjtzOjg6Im91dHN0b2NrIjtzOjE6IjAiO3M6NDoicGFnZSI7czoyOiIxMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDUxNjc7fQ==
+
+20160818 15:26:14
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MzoibmV3IjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MjoiMTAiO3M6NDoic29ydCI7czoxMToiZmluYWxfcHJpY2UiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDUxNzQ7fQ==
+
+20160818 15:26:15
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MzoibmV3IjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MjoiMTAiO3M6NDoic29ydCI7czoxMToiZmluYWxfcHJpY2UiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDUxNzQ7fQ==
+
+20160818 15:26:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MzoibmV3IjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MjoiMTAiO3M6NDoic29ydCI7czoxMToiZmluYWxfcHJpY2UiO3M6NToib3JkZXIiO3M6MzoiQVNDIjtzOjE4OiJzZWFyY2hfZW5jb2RlX3RpbWUiO2k6MTQ3MTUwNTE4ODt9
+
+20160818 15:26:35
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MzoibmV3IjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MjoiMTAiO3M6NDoic29ydCI7czoxMToiZmluYWxfcHJpY2UiO3M6NToib3JkZXIiO3M6NDoiREVTQyI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDUxOTU7fQ==
+
+20160818 15:26:40
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToxNDp7czo4OiJrZXl3b3JkcyI7czowOiIiO3M6ODoiY2F0ZWdvcnkiO3M6MToiMCI7czo1OiJicmFuZCI7czoxOiIwIjtzOjk6Im1pbl9wcmljZSI7czoxOiIwIjtzOjk6Im1heF9wcmljZSI7czoxOiIwIjtzOjY6ImFjdGlvbiI7czowOiIiO3M6NToiaW50cm8iO3M6MzoibmV3IjtzOjEwOiJnb29kc190eXBlIjtzOjE6IjAiO3M6NToic2NfZHMiO3M6MToiMCI7czo4OiJvdXRzdG9jayI7czoxOiIwIjtzOjQ6InBhZ2UiO3M6MjoiMTAiO3M6NDoic29ydCI7czo4OiJnb29kc19pZCI7czo1OiJvcmRlciI7czozOiJBU0MiO3M6MTg6InNlYXJjaF9lbmNvZGVfdGltZSI7aToxNDcxNTA1MjAwO30=
+
+20160818 15:26:50
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:27:11
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=606
+
+20160818 15:27:14
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=606
+
+20160818 15:27:15
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=606
+
+20160818 15:27:16
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=606
+
+20160818 15:27:20
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=606
+
+20160818 15:27:24
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php
+
+20160818 15:27:59
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2673
+
+20160818 15:27:59
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php
+
+20160818 15:28:18
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:28:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1038
+
+20160818 15:28:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1038
+
+20160818 15:28:24
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:28:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=1038&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160818 15:28:34
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=1038&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC
+
+20160818 15:28:35
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:28:55
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:29:00
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:29:05
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:29:12
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:29:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:29:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:29:34
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:29:42
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:29:54
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1038&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=final_price&order=ASC&other_has=1
+
+20160818 15:30:03
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:30:20
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1090
+
+20160818 15:30:20
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1090
+
+20160818 15:30:20
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1090
+
+20160818 15:30:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:30:48
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:31:04
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:31:10
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:31:20
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:31:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:31:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:32:01
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:32:05
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:32:10
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1090&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:32:37
+902-北流高峰茶业-- http://www.chaligou.com/mobile/lucky_buy.php
+
+20160818 15:32:42
+902-北流高峰茶业-- http://www.chaligou.com/mobile/lucky_buy.php?act=asynclist&type=
+
+20160818 15:32:51
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:33:01
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=594
+
+20160818 15:33:02
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=594
+
+20160818 15:33:03
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=594&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:33:17
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:33:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?id=32674
+
+20160818 15:33:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?u=902&id=32674
+
+20160818 15:33:31
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=32674&type=0&page=1&1471505610992992
+
+20160818 15:33:31
+902-北流高峰茶业-- http://www.chaligou.com/mobile/goods.php?act=price&id=32674&attr=&number=1&1471505611527527
+
+20160818 15:33:59
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=594&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:34:14
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:34:37
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:34:43
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=add_to_cart
+
+20160818 15:34:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:34:58
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=1109
+
+20160818 15:34:59
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1109
+
+20160818 15:35:00
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=1109&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:35:15
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:35:27
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=608
+
+20160818 15:35:27
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=608
+
+20160818 15:35:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=608
+
+20160818 15:35:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=608
+
+20160818 15:35:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=608&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:35:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:36:11
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=557
+
+20160818 15:36:14
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=557
+
+20160818 15:36:19
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:36:21
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?category=557&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160818 15:36:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&category=557&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC
+
+20160818 15:36:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:36:36
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:36:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:37:03
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:37:15
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:37:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:37:36
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php
+
+20160818 15:37:58
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=drop_goods&id=2690
+
+20160818 15:38:01
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php
+
+20160818 15:38:16
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=update_group_cart&sel_goods=2671,2672,2689,2688,2674,2678,2675,2670,2691&rec_id=2691&number=7&goods_id=32674&suppid=0&is_package=0&1471505896789789
+
+20160818 15:38:17
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=update_group_cart&sel_goods=2671,2672,2689,2688,2674,2678,2675,2670,2691&rec_id=2691&number=8&goods_id=32674&suppid=0&is_package=0&1471505897612612
+
+20160818 15:38:18
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=update_group_cart&sel_goods=2671,2672,2689,2688,2674,2678,2675,2670,2691&rec_id=2691&number=6&goods_id=32674&suppid=0&is_package=0&1471505895629629
+
+20160818 15:38:19
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=update_group_cart&sel_goods=2671,2672,2689,2688,2674,2678,2675,2670,2691&rec_id=2691&number=9&goods_id=32674&suppid=0&is_package=0&1471505899176176
+
+20160818 15:38:26
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=update_group_cart&sel_goods=2671,2672,2689,2688,2674,2678,2675,2670,2691&rec_id=2691&number=7&goods_id=32674&suppid=0&is_package=0&147150590606161
+
+20160818 15:38:26
+902-北流高峰茶业-- http://www.chaligou.com/mobile/flow.php?step=update_group_cart&sel_goods=2671,2672,2689,2688,2674,2678,2675,2670,2691&rec_id=2691&number=8&goods_id=32674&suppid=0&is_package=0&1471505906721721
+
+20160818 15:38:35
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:38:44
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjY6IueUteWZqCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDU5MjQ7fQ==
+
+20160818 15:38:50
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:38:54
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=557
+
+20160818 15:38:55
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=557
+
+20160818 15:38:56
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:39:13
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjM6IjMzMCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDU5NTM7fQ==
+
+20160818 15:39:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:39:37
+902-北流高峰茶业-- http://www.chaligou.com/mobile/search.php?encode=YToyOntzOjg6ImtleXdvcmRzIjtzOjY6IueUteWZqCI7czoxODoic2VhcmNoX2VuY29kZV90aW1lIjtpOjE0NzE1MDU5NzQ7fQ==
+
+20160818 15:39:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:39:49
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:40:04
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:40:20
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:40:28
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:40:34
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:40:42
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=0&price_min=0&price_max=0&filter_attr=0&page=1&sort=salenum&order=DESC&other_has=1
+
+20160818 15:41:19
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=557&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:41:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=608&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:41:24
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=608
+
+20160818 15:41:25
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=608&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:42:19
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=804
+
+20160818 15:42:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=804
+
+20160818 15:42:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=804&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:42:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/
+
+20160818 15:42:33
+902-北流高峰茶业-- http://www.chaligou.com/mobile/?u=902
+
+20160818 15:42:40
+902-北流高峰茶业-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 15:42:44
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?id=356
+
+20160818 15:42:45
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=356
+
+20160818 15:42:46
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:42:59
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:43:32
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:43:32
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:43:53
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:44:00
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:45:13
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:45:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:45:29
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:45:37
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:45:39
+902-北流高峰茶业-- http://www.chaligou.com/mobile/?u=902
+
+20160818 15:45:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=804
+
+20160818 15:45:41
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=804&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:46:03
+902-北流高峰茶业-- http://www.chaligou.com/mobile/catalog.php
+
+20160818 15:46:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?act=ajax&category=804&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 15:46:22
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=1109
+
+20160818 15:46:23
+902-北流高峰茶业-- http://www.chaligou.com/mobile/category.php?u=902&id=594
+
+20160818 15:46:24
+902-北流高峰茶业-- http://www.chaligou.com/mobile/lucky_buy.php
+
+20160818 16:21:30
+0--- http://www.chaligou.com/mobile/
+
+20160818 16:21:31
+0---001Uy5Jf0XQeGE1KILIf0xD9Jf0Uy5J4 http://www.chaligou.com/mobile/?code=001Uy5Jf0XQeGE1KILIf0xD9Jf0Uy5J4&state=1
+
+20160818 16:21:33
+0---0214kTpU07dKPR1oxOpU0G6QpU04kTpZ http://www.chaligou.com/mobile/?code=001Uy5Jf0XQeGE1KILIf0xD9Jf0Uy5J4&state=1&code=0214kTpU07dKPR1oxOpU0G6QpU04kTpZ&state=1
+
+20160818 16:21:34
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-001kGsc70HPqYu1fT4d70Kiwc70kGscC http://www.chaligou.com/mobile/?code=001Uy5Jf0XQeGE1KILIf0xD9Jf0Uy5J4&state=1&code=0214kTpU07dKPR1oxOpU0G6QpU04kTpZ&state=1&code=001kGsc70HPqYu1fT4d70Kiwc70kGscC&state=1
+
+20160818 16:21:37
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s-001kGsc70HPqYu1fT4d70Kiwc70kGscC http://www.chaligou.com/mobile/?u=1340&code=001Uy5Jf0XQeGE1KILIf0xD9Jf0Uy5J4&state=1&code=0214kTpU07dKPR1oxOpU0G6QpU04kTpZ&state=1&code=001kGsc70HPqYu1fT4d70Kiwc70kGscC&state=1
+
+20160818 16:21:42
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:22:23
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/affiche.php?ad_id=32&uri=http%3A%2F%2Fwww.chaligou.com%2Fmobile%2Fcategory.php%3Fid%3D1020
+
+20160818 16:22:24
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/category.php?id=1020
+
+20160818 16:22:26
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/category.php?u=1340&id=1020
+
+20160818 16:22:28
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/category.php?act=ajax&category=1020&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 16:22:50
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/
+
+20160818 16:22:51
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/?u=1340
+
+20160818 16:22:52
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:23:19
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:23:41
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:24:07
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:24:08
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:24:40
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:24:53
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:25:05
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:25:19
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:25:26
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:25:38
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:25:50
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:25:57
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:26:17
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:26:26
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:26:38
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:27:07
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:27:07
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:27:45
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:27:45
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:27:45
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:27:45
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:27:45
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:28:58
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:29:22
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:29:49
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:30:10
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/goods.php?id=5980
+
+20160818 16:30:11
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/goods.php?u=1340&id=5980
+
+20160818 16:30:15
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/goods_comment.php?act=list_json&goods_id=5980&type=0&page=1&1471509015653653
+
+20160818 16:30:17
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/goods.php?act=price&id=5980&attr=&number=1&1471509017255255
+
+20160818 16:30:25
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:30:36
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/category.php?id=356
+
+20160818 16:30:37
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/category.php?u=1340&id=356
+
+20160818 16:30:38
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/category.php?act=ajax&category=356&&display=grid&brand=&price_min=&price_max=&filter_attr=&page=1&sort=&order=&other_has=1
+
+20160818 16:30:49
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160818 16:31:18
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160818 16:31:28
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php?act=profile
+
+20160818 16:31:49
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/
+
+20160818 16:31:50
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/?u=1340
+
+20160818 16:31:53
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:31:56
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160818 16:32:04
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php?act=logout
+
+20160818 16:32:08
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index.php
+
+20160818 16:32:08
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-041WnSB22ONrP115cYD22rUSB22WnSBI http://www.chaligou.com/mobile/index.php?code=041WnSB22ONrP115cYD22rUSB22WnSBI&state=1
+
+20160818 16:32:11
+0--- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:32:13
+0--- http://www.chaligou.com/mobile/catalog.php
+
+20160818 16:32:14
+0---001hGFQt14AQi801FsRt1J6FQt1hGFQ3 http://www.chaligou.com/mobile/catalog.php?code=001hGFQt14AQi801FsRt1J6FQt1hGFQ3&state=1
+
+20160818 16:32:15
+0---0110WUi72VHIWE0xfYk72LcVi720WUi4 http://www.chaligou.com/mobile/catalog.php?code=001hGFQt14AQi801FsRt1J6FQt1hGFQ3&state=1&code=0110WUi72VHIWE0xfYk72LcVi720WUi4&state=1
+
+20160818 16:32:17
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-001vvzt40rHWFx138qw40Sqtt40vvztk http://www.chaligou.com/mobile/catalog.php?code=001hGFQt14AQi801FsRt1J6FQt1hGFQ3&state=1&code=0110WUi72VHIWE0xfYk72LcVi720WUi4&state=1&code=001vvzt40rHWFx138qw40Sqtt40vvztk&state=1
+
+20160818 16:32:17
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/catalog.php
+
+20160818 16:32:17
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-021ZmclT0WD5ZS1btokT0iVclT0Zmcl5 http://www.chaligou.com/mobile/catalog.php?code=021ZmclT0WD5ZS1btokT0iVclT0Zmcl5&state=1
+
+20160818 16:32:17
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s-021Km05z0jC7fl1SzR6z0jRZ4z0Km05q http://www.chaligou.com/mobile/catalog.php?code=021Km05z0jC7fl1SzR6z0jRZ4z0Km05q&state=1
+
+20160818 16:32:28
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:32:29
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160818 16:32:35
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160818 16:32:44
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php?act=logout
+
+20160818 16:32:46
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index.php
+
+20160818 16:32:46
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-011Ht1zf2LOUvP0AkNzf2Bj7zf2Ht1zA http://www.chaligou.com/mobile/index.php?code=011Ht1zf2LOUvP0AkNzf2Bj7zf2Ht1zA&state=1
+
+20160818 16:32:47
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-041lI3OX1Potc71lGtPX1ob3OX1lI3OS http://www.chaligou.com/mobile/index.php?code=041lI3OX1Potc71lGtPX1ob3OX1lI3OS&state=1
+
+20160818 16:32:50
+1340-clg_1340-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:32:59
+1340-clg_1340-- http://www.chaligou.com/mobile/flow.php
+
+20160818 16:33:04
+1340-clg_1340-- http://www.chaligou.com/mobile/
+
+20160818 16:33:04
+1340-clg_1340-- http://www.chaligou.com/mobile/?u=1340
+
+20160818 16:33:06
+1340-clg_1340-- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:33:17
+1340-clg_1340-- http://www.chaligou.com/mobile/user.php
+
+20160818 16:33:25
+1340-clg_1340-- http://www.chaligou.com/mobile/user.php?act=profile
+
+20160818 16:33:32
+1340-clg_1340-- http://www.chaligou.com/mobile/user.php
+
+20160818 16:33:37
+1340-clg_1340-- http://www.chaligou.com/mobile/user.php?act=account_raply
+
+20160818 16:33:41
+1340-clg_1340-- http://www.chaligou.com/mobile/user.php?act=bonus
+
+20160818 16:33:57
+1340-clg_1340-- http://www.chaligou.com/mobile/index.php?is_c=1
+
+20160818 16:34:47
+0--- http://www.chaligou.com/mobile/
+
+20160818 16:34:48
+0---001lQ8tB1EZFc00lrcsB1RS9tB1lQ8t9 http://www.chaligou.com/mobile/?code=001lQ8tB1EZFc00lrcsB1RS9tB1lQ8t9&state=1
+
+20160818 16:34:49
+0--oybWRs_06eAgTVZSydeb0Rt8yi_s-00155UXl1P6jny0309Zl12vTXl155UX5 http://www.chaligou.com/mobile/?code=001lQ8tB1EZFc00lrcsB1RS9tB1lQ8t9&state=1&code=00155UXl1P6jny0309Zl12vTXl155UX5&state=1
+
+20160818 16:34:50
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s-00155UXl1P6jny0309Zl12vTXl155UX5 http://www.chaligou.com/mobile/?u=1340&code=001lQ8tB1EZFc00lrcsB1RS9tB1lQ8t9&state=1&code=00155UXl1P6jny0309Zl12vTXl155UX5&state=1
+
+20160818 16:34:52
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:34:58
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php
+
+20160818 16:35:03
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/
+
+20160818 16:35:04
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/user.php?act=my_comment
+
+20160818 16:35:10
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/
+
+20160818 16:35:11
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/?u=1340
+
+20160818 16:35:13
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+
+20160818 16:59:41
+1340-clg_1340-oybWRs_06eAgTVZSydeb0Rt8yi_s- http://www.chaligou.com/mobile/index_bestgoods.php?act=ajax
+

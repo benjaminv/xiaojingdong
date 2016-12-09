@@ -1,0 +1,24 @@
+20160810 10:36:49
+0--- http://chaligou.cn/mobile/extpintuan.php
+
+20160810 10:36:54
+0--- http://chaligou.cn/mobile/extpintuan.php?act=asynclist&type=0
+
+20160810 10:37:42
+0--- http://chaligou.cn/mobile/lucky_buy.php
+
+20160810 10:37:44
+0--- http://chaligou.cn/mobile/lucky_buy.php?act=asynclist&type=
+
+20160810 22:31:54
+0--- http://www.chaligou.cn/mobile/extpintuan.php
+
+20160810 22:31:55
+0--- http://www.chaligou.cn/mobile/extpintuan.php?act=asynclist&type=0
+
+20160810 23:20:04
+934-南宁碧岩茶业-- http://www.chaligou.cn/mobile/extpintuan.php
+
+20160810 23:20:07
+934-南宁碧岩茶业-- http://www.chaligou.cn/mobile/extpintuan.php?act=asynclist&type=0
+

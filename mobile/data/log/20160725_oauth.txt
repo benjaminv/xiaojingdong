@@ -1,0 +1,12 @@
+20160725 09:18:16
+1-afei-- http://www.chaligou.cn/mobile/lucky_buy.php?act=userlist
+
+20160725 09:18:18
+1-afei-- http://www.chaligou.cn/mobile/lucky_buy.php?act=asyncuserlist
+
+20160725 09:18:21
+1-afei-- http://www.chaligou.cn/mobile/extpintuan.php?act=userlist
+
+20160725 09:18:24
+1-afei-- http://www.chaligou.cn/mobile/extpintuan.php?act=asyncuserlist
+

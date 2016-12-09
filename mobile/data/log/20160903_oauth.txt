@@ -1,0 +1,366 @@
+20160903 00:01:32
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:01:33
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:01:48
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:01:48
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:01:50
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:01:51
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:01:52
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:01:53
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:01:54
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:01:55
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:01:59
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:01:59
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:02:00
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:02:01
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:02:15
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:02:16
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:02:22
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=view&act_id=1&u=0
+
+20160903 00:03:35
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:03:36
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:03:52
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:03:52
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:04:14
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:04:15
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:04:17
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:04:18
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:04:26
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:04:27
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:04:37
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:04:38
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:04:40
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:04:41
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:04:42
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:04:44
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:04:53
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=view&act_id=1&u=0
+
+20160903 00:05:28
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:05:28
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:06:58
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:06:59
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:07:00
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:07:00
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:07:01
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:07:02
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:07:02
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:07:03
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:07:08
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:07:09
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:07:12
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:07:13
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:07:22
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:07:22
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:07:24
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:07:25
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:07:52
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:07:53
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:07:55
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:07:55
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:08:45
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:08:46
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:08:48
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:08:49
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:08:50
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:08:51
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:08:52
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:08:53
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:08:55
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:08:55
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:08:58
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:08:59
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:01
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:09:01
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:03
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:09:04
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:09:05
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:06
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:09:07
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:08
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:09:08
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:09:09
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:09
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:09:10
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:11
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:09:11
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:09:12
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:09:12
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:12
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:09:18
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=view&act_id=1&u=0
+
+20160903 00:09:27
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:09:28
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:09:29
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:09:30
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:09:33
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:09:33
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:09:35
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:09:35
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:09:59
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:10:00
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:10:05
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:10:05
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:10:07
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=1
+
+20160903 00:10:08
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=1
+
+20160903 00:10:09
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list&type=2
+
+20160903 00:10:10
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=2
+
+20160903 00:10:11
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=list
+
+20160903 00:10:12
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 00:39:50
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 00:39:52
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 09:38:16
+0--- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 09:38:17
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 09:43:14
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=view&act_id=3&u=0
+
+20160903 09:43:28
+0--- http://localhost/jingdong11/mobile/extpintuan.php?act=buy
+
+20160903 09:43:38
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=buy
+
+20160903 09:43:57
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=view&act_id=3&u=1428
+
+20160903 09:44:01
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=buy
+
+20160903 09:45:11
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 09:45:12
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 09:45:17
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=view&act_id=3&level=3&u=1428
+
+20160903 09:45:22
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=buy
+
+20160903 09:45:35
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 09:45:38
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php
+
+20160903 09:45:39
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=asynclist&type=0
+
+20160903 09:45:43
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=view&act_id=3&level=3&u=1428
+
+20160903 09:45:48
+1428-u185RWTW1714-- http://localhost/jingdong11/mobile/extpintuan.php?act=buy
+

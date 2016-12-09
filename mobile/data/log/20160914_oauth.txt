@@ -1,0 +1,54 @@
+20160914 11:28:46
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/extpintuan.php
+
+20160914 11:28:46
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/extpintuan.php?act=asynclist&type=0
+
+20160914 22:24:08
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=view&act_id=11
+
+20160914 22:24:09
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=10
+
+20160914 22:24:18
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php
+
+20160914 22:24:47
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=10
+
+20160914 22:49:45
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/extpintuan.php
+
+20160914 22:49:46
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/extpintuan.php?act=asynclist&type=0
+
+20160914 23:00:00
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php
+
+20160914 23:00:01
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=asynclist&type=
+
+20160914 23:00:11
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=view&act_id=11&u=1428
+
+20160914 23:00:12
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=10
+
+20160914 23:00:13
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php
+
+20160914 23:00:21
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=lucky_buy_log&lucky_buy_id=10
+
+20160914 23:00:22
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php
+
+20160914 23:00:23
+1428-u185RWTW1714-- http://localhost/jingdong44/mobile/lucky_buy.php?act=asynclist&type=
+
+20160914 23:49:21
+0--- http://localhost/jingdong44/mobile/lucky_buy.php
+
+20160914 23:49:22
+0--- http://localhost/jingdong44/mobile/lucky_buy.php?act=asynclist&type=
+
